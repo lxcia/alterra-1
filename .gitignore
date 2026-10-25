@@ -1,0 +1,12 @@
+data/
+derived/
+results/cache/
+*.nii
+*.nii.gz
+__pycache__/
+*.pyc
+.cache/
+hf_home/
+*.safetensors
+.env
+writeup/radiologist_packet/*key*
