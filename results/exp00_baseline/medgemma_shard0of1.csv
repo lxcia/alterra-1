@@ -1,0 +1,1051 @@
+subject,label,em_side,cy_side,seq,n_slices,endo,endo_method,logit_yes_no,side,endo_raw,side_raw
+D2-000,cyst,,left,T2FS,36,yes,final,-4.6249998696148396,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large cystic structure in the left adnexa, measuring approximately 8.5 x 7.0 x 6.0 cm. This structure is T2 hyperintense, consistent with a cyst. Given the patient's sex and the appearance of the cyst, an ovarian endometrioma is a strong possibility.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing a large ovarian cyst. The lesion is significantly larger than any similar structures visible on the right side.
+
+Final Answer: left"
+D2-001,negative,,,T1FS,85,yes,final,-5.0000001806765795,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the left ovary anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-001,negative,,,T2FS,34,yes,final,-4.0000002309679985,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of a complex cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, which is characteristic of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-002,cyst,,right,T1FS,85,yes,final,-4.124999927356839,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, and 86.
+
+Final Answer: left"
+D2-002,cyst,,right,T2FS,40,yes,final,-3.7500000968575478,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes","The largest cystic lesion appears to be on the left side.
+
+Final Answer: left"
+D2-003,cyst,,left,T1FS,85,no,final,-4.750000134110451,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent in the provided images.
+
+Final Answer: left"
+D2-003,cyst,,left,T2FS,36,yes,final,-4.3749998938292265,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal intensity, and is located in the expected location of the ovary.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left"
+D2-004,negative,,,T1FS,82,no,final,-5.874999857507646,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent in the provided images.
+
+Final Answer: left"
+D2-004,negative,,,T2FS,34,no,final,-6.250000204890966,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-005,negative,,,T1FS,85,no,final,-4.0000001806765795,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is seen in the left adnexa, appearing as a complex cystic structure. While other smaller cystic structures are visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-005,negative,,,T2FS,34,yes,final,0.5000000596046448,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion is located in the left adnexa, and its appearance is characteristic of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-006,cyst,,left,T1FS,85,yes,final,-4.374999940395355,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, multiloculated cystic structure in the left adnexa, extending from the pelvis into the lower abdomen. This structure is significantly larger than any similar structures visible on the right side.
+
+Final Answer: left"
+D2-006,cyst,,left,T2FS,38,yes,final,-1.25,left,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion within the left ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion is located within the ovary and has a distinct appearance compared to the surrounding ovarian tissue.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending from the pelvis into the lower abdomen. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left"
+D2-008,endometrioma,midline,,T1FS,84,no,final,-6.250000008381903,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-008,endometrioma,midline,,T2FS,34,no,final,-6.1250001192092896,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly internal debris or septations.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show the pelvic anatomy, including the uterus, ovaries, and surrounding structures. On the left side (viewer's right), there is a distinct cystic structure, likely representing an ovarian cyst, which appears larger than the corresponding structure on the right side (viewer's left).
+
+Final Answer: left"
+D2-010,negative,,,T1FS,85,no,final,-6.2499999748542905,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-010,negative,,,T2FS,34,no,final,-5.249999958090484,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-011,cyst,,midline,T1FS,81,yes,final,-3.99999987334013,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large, complex cystic structure in the left adnexa, likely representing an ovarian cyst or mass. The lesion is significantly larger than any similar structures visible on the right side.
+
+Final Answer: left"
+D2-011,cyst,,midline,T2FS,34,no,final,-6.749999968800694,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian cyst. While there are smaller lesions visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-012,negative,,,T1FS,85,no,final,-5.624999834224582,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is consistent with an ovarian cyst. The lesion appears larger than the cyst on the right side.
+
+Final Answer: left"
+D2-012,negative,,,T2FS,36,no,final,-5.374999956227839,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-013,cyst,,left,T1FS,85,no,final,-4.3750000186264515,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some subtle findings might be present, they are not definitive for an endometrioma.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, complex cystic structure in the left adnexal region, extending towards the pelvis. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-013,cyst,,left,T2FS,34,no,final,-6.50000013737008,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side displays the most prominent and largest lesion.
+
+Final Answer: left"
+D2-014,negative,,,T1FS,81,no,final,-5.125000135973096,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-014,negative,,,T2FS,34,yes,final,-1.7500000298023224,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-015,negative,,,T1FS,85,no,final,-5.3750001061707735,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-015,negative,,,T2FS,38,yes,final,-1.9999999850988388,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the right adnexa (right ovary), there is a complex cystic lesion with internal septations and possibly low-level internal echoes, which are characteristic features of an endometrioma.
+
+Final Answer: yes","The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 1, 3, 15, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion is significantly larger than the lesion on the right side, which is visible in slices 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 20, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37.
+
+Final Answer: left"
+D2-016,negative,,,T1FS,85,no,final,-6.749999897554517,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-016,negative,,,T2FS,34,yes,final,-4.8749998193234205,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion within the left ovary. This appearance is consistent with a cyst. The lesion is larger than the lesion seen on the right side.
+
+Final Answer: left"
+D2-017,negative,,,T1FS,85,no,final,-5.499999913387001,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large cystic structure in the left adnexa, which is consistent with an ovarian cyst. The lesion is significantly larger than the cyst on the right side.
+
+Final Answer: left"
+D2-017,negative,,,T2FS,40,yes,final,-2.2499999701976776,left,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes","The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, and 40.
+
+Final Answer: left"
+D2-018,negative,,,T1FS,85,no,final,-3.750000026077032,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest lesion is located in the left adnexa, appearing as a complex cystic structure. The other ovarian structures appear smaller and less complex.
+
+Final Answer: left"
+D2-018,negative,,,T2FS,38,yes,final,-3.0,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion located in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance for this condition.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion in the left adnexa, consistent with a cyst. The lesion is larger than the corresponding lesion on the right side.
+
+Final Answer: left"
+D2-019,negative,,,T1FS,85,no,final,-6.124999837949872,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-019,negative,,,T2FS,36,no,final,-4.1250000931322575,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is consistent with an ovarian cyst. The lesion is larger than the cystic structure visible on the right side.
+
+Final Answer: left"
+D2-020,negative,,,T2FS,34,no,final,-3.750000052154064,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-021,negative,,,T1FS,85,no,final,-4.500000087544322,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large, multiloculated cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-021,negative,,,T2FS,36,no,final,-4.874999936670065,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-022,negative,,,T1FS,85,no,final,-6.9999999245628715,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-022,negative,,,T2FS,38,no,final,-4.500000083819032,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-023,negative,,,T1FS,85,no,final,-5.750000050291419,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest cystic lesion appears to be located on the left side.
+
+Final Answer: left"
+D2-023,negative,,,T2FS,39,no,final,-6.875000000931323,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-024,negative,,,T1FS,84,no,final,-4.7500001061707735,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest cystic lesion appears to be located on the left side.
+
+Final Answer: left"
+D2-024,negative,,,T2FS,36,yes,final,-1.3750000596046448,left,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion in the right ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood. The lesion is located within the ovary and has a distinct appearance compared to the surrounding normal ovarian tissue.
+
+Final Answer: yes","The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is seen in the left adnexa, specifically the left ovary. It appears as a large, multiloculated cystic structure.
+
+Final Answer: left"
+D2-025,negative,,,T1FS,85,no,final,-4.625000080093741,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a complex cystic mass with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-025,negative,,,T2FS,34,no,final,-5.750000122003257,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-026,negative,,,T1FS,85,yes,final,-4.249999793246388,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears multiloculated with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large, multiloculated cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structures on the right side.
+
+Final Answer: left"
+D2-026,negative,,,T2FS,36,no,final,-6.874999891966581,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-027,negative,,,T1FS,85,no,final,-6.4999997997656465,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-027,negative,,,T2FS,36,no,final,-4.000000178813934,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion in the left adnexa, consistent with a cyst. While there are smaller lesions visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-028,negative,,,T1FS,85,no,final,-4.999999916180968,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest lesion is located in the left adnexa, appearing as a complex cystic structure. While there are smaller lesions present on the right, the left side exhibits the most prominent and complex cystic appearance.
+
+Final Answer: left"
+D2-028,negative,,,T2FS,38,yes,final,-3.8750000298023224,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the right side. These cysts are hyperintense on T2-weighted images, which is characteristic of endometriomas. The presence of internal echoes or septations within these cysts further supports the diagnosis. The location and appearance are consistent with endometriomas.
+
+Final Answer: yes","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. The right adnexa appears relatively normal in comparison.
+
+Final Answer: left"
+D2-029,negative,,,T1FS,82,no,final,-6.874999794177711,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show the pelvic anatomy, including the uterus, ovaries, and surrounding structures. The left ovary is visible on the left side of the image. There is a distinct cystic structure seen in the left ovary, which appears larger than the right ovary.
+
+Final Answer: left"
+D2-029,negative,,,T2FS,34,yes,final,-3.624999914318323,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of multiple bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense lesions with homogeneous signal intensity, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side displays the most prominent and largest lesion.
+
+Final Answer: left"
+D2-038,negative,,,T1FS,85,no,final,-5.249999897554517,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, corresponding to the left ovary. While there are smaller cystic structures visible on the right side, the left ovary contains the largest lesion.
+
+Final Answer: left"
+D2-038,negative,,,T2FS,35,no,final,-4.8749999376013875,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Reasoning:
+1.  **Image Quality:** The slices are of good quality, allowing for detailed visualization of the pelvic structures.
+2.  **Ovarian Appearance:** The ovaries are located in the expected anatomical position within the pelvis. They appear as roughly spherical structures with a homogeneous signal intensity on T2-weighted images.
+3.  **Absence of Characteristic Features:** There are no specific features suggestive of an endometrioma, such as:
+    *   **T1 hyperintensity:** Endometriomas typically show T1 hyperintensity due to the presence of blood products. This is not evident in the provided slices.
+    *   **T2 hypointensity:** Endometriomas often demonstrate T2 hypointensity, although this can be variable.
+    *   **Internal echoes/septations:** Endometriomas may contain internal echoes or septations, which are not clearly visible here.
+    *   **Cystic appearance:** While endometriomas can be cystic, the overall appearance here is not distinctly cystic.
+4.  **Other Findings:** The surrounding pelvic structures, including the uterus, bladder, and bowel, appear normal.
+
+Conclusion:
+The provided MRI slices do not show any definitive findings suggestive of an ovarian endometrioma.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-039,cyst,,left,T1FS,85,no,final,-5.374999959953129,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, appearing as a complex, multiloculated lesion. While other smaller cystic structures are present on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-039,cyst,,left,T2FS,36,yes,final,-3.0000001192092896,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion within the right ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The lesion appears to have a homogeneous signal intensity, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left"
+D2-040,endometrioma,left,,T1FS,81,no,final,-5.625000047497451,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-040,endometrioma,left,,T2FS,33,no,final,-5.4999998630955815,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While small endometriomas can sometimes be difficult to detect, the current images do not show any characteristic findings such as a cystic lesion with homogeneous high signal intensity on T2-weighted images, often associated with endometriomas.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is larger than the cystic structure visible on the right side. The lesion appears to be located within the left ovary.
+
+Final Answer: left"
+D2-041,endometrioma,right,right,T1FS,85,yes,final,-2.6249999552965164,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic mass in the pelvis, predominantly occupying the left adnexal region. The mass exhibits heterogeneous signal intensity, with some areas appearing hypointense and others hyperintense. There is a suggestion of internal septations and possibly some internal debris or calcifications. The mass appears to be displacing the uterus and potentially the bladder.
+
+Considering the characteristics of the mass, including its size, multiloculated nature, and internal heterogeneity, it is highly suspicious for an ovarian endometrioma. Endometriomas typically appear as complex cystic masses with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance. However, they can also present with heterogeneous signal intensity, especially if there is hemorrhage or necrosis within the cyst. The large size and displacement of adjacent structures further support the possibility of an ovarian mass.
+
+Therefore, based on the imaging findings, there is a high suspicion for an ovarian endometrioma.
+
+Final Answer: yes","The largest cystic lesion is located on the left side.
+
+Final Answer: left"
+D2-041,endometrioma,right,right,T2FS,41,yes,final,-1.0000000596046448,left,"Based on the provided MRI slices, there is a large, multiloculated cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion is T2 hyperintense and demonstrates low signal intensity on T1-weighted images, with evidence of internal septations and wall thickening.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is a large, multiloculated cystic structure in the left adnexa, extending from the pelvis into the upper thigh. This is consistent with a large ovarian cyst or mass.
+
+Final Answer: left"
+D2-042,cyst,,right,T1FS,85,yes,final,-4.624999865889549,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, and 85.
+
+Final Answer: left"
+D2-042,cyst,,right,T2FS,34,no,final,-5.500000017695129,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is larger than the cystic structure visible on the right side. The lesion appears to be located within the left ovary.
+
+Final Answer: left"
+D2-043,negative,,,T2FS,36,no,final,-6.50000000372529,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show the pelvic anatomy, including the uterus, ovaries, and surrounding structures. On the left side (viewer's right), there is a distinct cystic structure, likely representing an ovarian cyst, which appears larger than the corresponding structure on the right side (viewer's left).
+
+Final Answer: left"
+D2-044,negative,,,T1FS,85,no,final,-6.124999807216227,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the cystic structure visible on the right side.
+
+Final Answer: left"
+D2-044,negative,,,T2FS,34,yes,final,-3.4999999292194843,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the lower portion of the pelvis, there is a complex cystic lesion with internal echoes, consistent with the appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left"
+D2-045,cyst,,right,T2FS,36,no,final,-5.500000042840838,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left"
+D2-046,negative,,,T2FS,34,no,final,-6.124999867286533,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While small endometriomas can sometimes be difficult to detect, the current images do not show any characteristic findings such as a cystic lesion with homogeneous high signal intensity on T2-weighted images, often associated with endometriomas.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion within the left adnexa, consistent with a cyst. While there are smaller lesions visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-047,negative,,,T1FS,81,no,final,-6.12499987334013,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-047,negative,,,T2FS,36,yes,final,-4.000000225380063,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense lesions within the ovaries, consistent with the typical appearance of endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, rounded structure in the left adnexal region, which is consistent with an ovarian cyst. The lesion is larger in size compared to the right ovary.
+
+Final Answer: left"
+D2-048,negative,,,T1FS,85,yes,final,-5.124999878928065,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the left ovary and uterus anteriorly.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-048,negative,,,T2FS,36,yes,final,-1.1249999701976776,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a complex cystic lesion in the right adnexa, consistent with an endometrioma. The lesion appears as a multiloculated cyst with internal echoes, which is characteristic of an endometrioma. The lesion is located in the adnexal region, which is the typical location for ovarian endometriomas.
+
+Final Answer: yes","The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. The lesion is significantly larger than the lesion on the right side, which is visible in slices 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36.
+
+Final Answer: left"
+D2-049,negative,,,T1FS,81,no,final,-5.874999972060323,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-049,negative,,,T2FS,34,no,final,-5.500000066123903,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian cyst. While there are smaller lesions visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-050,negative,,,T1FS,85,no,final,-6.374999770894647,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic structures with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-050,negative,,,T2FS,41,no,final,-7.375000134576112,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly internal debris or septations.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is larger than the cystic structure visible on the right side.
+
+Final Answer: left"
+D2-051,negative,,,T1FS,85,no,final,-6.24999990593642,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-051,negative,,,T2FS,38,yes,final,-4.37500012665987,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal intensity, and is located in the expected location of the ovary.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-052,negative,,,T1FS,85,yes,final,-6.000000219792128,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the uterus anteriorly.
+
+Final Answer: yes","The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest lesion is a multiloculated cystic structure located in the left adnexa, extending towards the pelvis. It appears to be the largest of the ovarian lesions visible in the provided axial T1-weighted fat-suppressed images.
+
+Final Answer: left"
+D2-052,negative,,,T2FS,38,yes,final,-5.374999919906259,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-053,negative,,,T1FS,85,yes,final,-5.000000108033419,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be located within the right ovary and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-053,negative,,,T2FS,36,yes,final,-3.6250000931322575,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-054,endometrioma,right,,T1FS,81,yes,final,-4.625000035390258,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the uterus anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is a multiloculated cystic structure located in the left adnexa, extending towards the pelvis. It appears to be significantly larger than the lesion on the right side.
+
+Final Answer: left"
+D2-054,endometrioma,right,,T2FS,34,yes,final,-1.8749999403953552,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the uterus anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-055,negative,,,T1FS,85,no,final,-6.37499978672713,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is seen in the left adnexa, appearing as a complex cystic structure. While other smaller lesions are present, this one is the most prominent.
+
+Final Answer: left"
+D2-055,negative,,,T2FS,37,no,final,-5.87500015925616,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, rounded structure in the left adnexal region, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left"
+D2-056,cyst,,right,T1FS,85,no,final,-6.249999781139195,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-056,cyst,,right,T2FS,36,yes,final,-3.2499999403953552,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with the typical appearance of endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-057,negative,,,T1FS,85,yes,final,-0.8749999701976776,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic mass in the pelvis, most likely arising from the left ovary. The mass is significantly enlarged and has a complex appearance with multiple internal septations and cystic components. This appearance is highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes","The largest cystic lesion is located on the left side.
+
+Final Answer: left"
+D2-057,negative,,,T2FS,44,yes,final,-1.375,left,"Based on the provided MRI slices, there is evidence of a large cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears complex with internal septations and low signal intensity on T2-weighted images, which is characteristic of endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, multiloculated cystic structure in the left adnexa, extending from the pelvis into the lower abdomen. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left"
+D2-058,negative,,,T1FS,81,yes,final,-3.7499999329447746,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, complex cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-058,negative,,,T2FS,34,yes,final,-3.125000089406967,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the right adnexa, which is the region containing the ovary and fallopian tube. The lesion appears to be located within the right ovary.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-059,negative,,,T1FS,81,no,final,-6.125000104308128,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large cystic structure in the left adnexa, likely representing an ovarian cyst. The right adnexa appears relatively normal in comparison.
+
+Final Answer: left"
+D2-059,negative,,,T2FS,34,yes,final,-4.000000201165676,left,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion within the right ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion appears to have a homogeneous signal intensity, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-060,negative,,,T1FS,85,no,final,-5.124999858438969,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large cystic structure in the left adnexa, which is consistent with an ovarian cyst. The right ovary appears relatively normal in comparison.
+
+Final Answer: left"
+D2-060,negative,,,T2FS,38,no,final,-4.9999999683350325,left,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left"
+D2-061,negative,,,T1FS,85,no,final,-6.124999927356839,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-061,negative,,,T2FS,42,no,final,-5.1249998807907104,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, appearing as a multiloculated lesion with internal septations. This lesion is significantly larger than the cystic structures visible on the right side.
+
+Final Answer: left"
+D2-062,negative,,,T1FS,85,no,final,-5.37500018440187,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest cystic lesion appears to be on the left side.
+
+Final Answer: left"
+D2-062,negative,,,T2FS,37,yes,final,-3.000000022351742,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-063,cyst,,left,T1FS,85,no,final,-5.50000006146729,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large, multiloculated cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-064,negative,,,T2FS,34,yes,final,-1.1249999701976776,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The images show a well-defined, T2 hyperintense (bright) lesion within the right ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The lesion appears to have a homogeneous signal intensity, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-065,negative,,,T1FS,85,no,final,-6.12499980814755,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-065,negative,,,T2FS,38,no,final,-5.125000142492354,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is larger than the cystic structure visible on the right side.
+
+Final Answer: left"
+D2-066,negative,,,T1FS,85,yes,final,-4.624999826774001,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, rounded structure in the left adnexal region, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left"
+D2-066,negative,,,T2FS,40,yes,final,-1.0,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion located in the left adnexa, consistent with an ovarian endometrioma. This lesion demonstrates characteristic features such as a hypointense rim and internal septations, which are typical findings for endometriomas.
+
+Final Answer: yes","The largest cystic lesion appears to be on the left side.
+
+Final Answer: left"
+D2-067,negative,,,T1FS,85,no,final,-6.125000016763806,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-067,negative,,,T2FS,36,yes,final,-4.250000169500709,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the left side. These cysts are T2 hyperintense (bright), which is characteristic of endometriomas. The presence of these cysts, along with their typical location and signal characteristics, strongly suggests the presence of ovarian endometriomas.
+
+Final Answer: yes","The largest cystic lesion appears to be on the left side.
+
+Final Answer: left"
+D2-070,endometrioma,right,,T1FS,85,yes,final,-0.5,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a well-defined, round, T1 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the right ovary and appears to be of similar signal intensity to the surrounding ovarian tissue.
+
+Final Answer: yes","The largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The images show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. The other images show smaller cystic structures or normal pelvic anatomy on the right side.
+
+Final Answer: left"
+D2-070,endometrioma,right,,T2FS,36,yes,final,-3.000000111758709,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending from the pelvis into the lower abdomen. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left"
+D2-071,endometrioma,right,,T2FS,44,yes,final,-2.1250001043081284,left,"Based on the provided MRI slices, there is evidence of a large complex cystic lesion in the pelvis, likely representing a large endometrioma. The lesion appears multiloculated with internal echoes, consistent with the appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending superiorly and laterally. While there are smaller cystic structures visible on the right side, the dominant lesion is clearly on the left.
+
+Final Answer: left"
+D2-072,endometrioma,right,,T2FS,36,yes,final,-4.2500000931322575,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion located in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance for this condition.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion in the left adnexa, consistent with a cyst. The lesion is larger than the corresponding lesion on the right side.
+
+Final Answer: left"
+D2-073,negative,,,T1FS,82,no,final,-5.625000131316483,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The uterus appears enlarged and heterogeneous, which could be consistent with adenomyosis or fibroids, but these findings alone are not diagnostic of an endometrioma. There are no distinct cystic structures with characteristic features suggestive of an endometrioma, such as a low-signal intensity nodule within a cyst or a T1 hyperintense nodule.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there might be smaller cysts or other structures visible, the largest and most prominent lesion is on the left side.
+
+Final Answer: left"
+D2-073,negative,,,T2FS,32,yes,final,-1.6250000298023224,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an endometrioma. This lesion appears to be located within the left ovary and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-074,cyst,,left,T1FS,85,no,final,-6.2500001369044185,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which appears larger than the corresponding structure on the right side. The lesion is located in the left ovary.
+
+Final Answer: left"
+D2-074,cyst,,left,T2FS,38,no,final,-5.62499981559813,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-075,cyst,,right,T1FS,81,yes,final,-3.124999962747097,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-075,cyst,,right,T2FS,36,yes,final,-3.8749999180436134,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is suggested by the characteristic appearance of a complex cyst with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images (though T1 is not shown here), often with internal echoes or septations.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"
+D2-076,cyst,,left,T1FS,81,no,final,-5.374999804422259,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is consistent with an ovarian cyst. The lesion is larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-076,cyst,,left,T2FS,34,yes,final,1.6250000447034836,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion demonstrates characteristic features such as a thick, enhancing wall and internal septations.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-077,endometrioma,left,,T1FS,85,no,final,-5.249999804422259,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, appearing as a well-defined, rounded lesion with a hypointense (dark) center and a hyperintense (bright) rim. This morphology is consistent with a cyst, possibly an ovarian cyst. The lesion is significantly larger than the right-sided cyst, which is less distinct and smaller.
+
+Final Answer: left"
+D2-077,endometrioma,left,,T2FS,38,yes,final,-2.750000074505806,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the right side. These cysts are T2 hyperintense (bright), which is characteristic of endometriomas. The presence of internal echoes or septations within these cysts further supports the diagnosis. The size and appearance of these lesions are consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing a cyst or mass. The right adnexa appears relatively normal in comparison.
+
+Final Answer: left"
+D2-078,endometrioma,left,,T1FS,81,yes,final,-3.8749998919665813,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is a multiloculated cystic structure located in the left adnexa, displacing the uterus anteriorly. This is consistent with a large ovarian cyst or mass.
+
+Final Answer: left"
+D2-078,endometrioma,left,,T2FS,34,yes,final,1.3749999701976776,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma.
+
+Reasoning:
+The slices show a complex cystic lesion in the right adnexa, likely within the ovary. The lesion appears to have a heterogeneous signal intensity, with areas of high signal intensity (bright) and low signal intensity (dark). This appearance is characteristic of an endometrioma, which is a cyst filled with old blood, often referred to as a ""chocolate cyst"". The presence of multiple cysts of varying sizes, particularly the large one seen in the right ovary, further supports this diagnosis.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending superiorly and laterally. While there are smaller cystic structures present on the right, the dominant lesion is clearly on the left.
+
+Final Answer: left"
+D2-079,endometrioma,left,,T1FS,85,yes,final,-3.874999910593033,left,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, multiloculated cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left"
+D2-079,endometrioma,left,,T2FS,36,yes,final,-3.1249999701976776,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the left side. These cysts are T2 hyperintense (bright on T2-weighted images), which is characteristic of endometriomas. The presence of internal echoes or septations within these cysts further supports the diagnosis. The location within the ovaries and the T2 signal characteristics are consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left"
+D2-080,cyst,,right,T2FS,35,no,final,-5.250000121071935,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left"

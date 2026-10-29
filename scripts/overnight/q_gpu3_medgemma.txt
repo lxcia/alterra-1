@@ -1,0 +1,5 @@
+experiments/expC3_side_prompt.py
+experiments/expB4_history_controls.py --parts irrelevant,known
+experiments/expC_laterality.py --geoms orig,lr --conventions none --generate
+experiments/expM_mri_us1.py
+experiments/exp00_baseline.py

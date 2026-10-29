@@ -1,0 +1,10 @@
+{
+  "csv": "medgemma_T2FS_shard0of1.csv",
+  "rows": 2176,
+  "src_sha1": "df52108c20c2",
+  "argv": [
+    "src/experiments/expB_history.py"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T06:54:43-0400"
+}

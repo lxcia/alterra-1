@@ -1,0 +1,14 @@
+{
+  "csv": "medgemma27_D2_T2FS_shard0of1.csv",
+  "rows": 136,
+  "src_sha1": "df52108c20c2",
+  "argv": [
+    "src/experiments/expR_freetext_report.py",
+    "--model",
+    "medgemma27",
+    "--geoms",
+    "orig"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T08:07:03-0400"
+}

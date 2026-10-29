@@ -1,0 +1,1589 @@
+subject,label,part,image,hist,q,answer,logit_yes_no,input_sha,raw
+D2-000,cyst,irrelevant,real,none,ref,yes,0.0,1ab6e46f00a1e4bb,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 1-10) which appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. However, the presence of a single hyperintense cystic lesion in the ovary does not definitively diagnose an endometrioma. It is important to consider the clinical history, symptoms, and other imaging findings to make a definitive diagnosis.
+
+In the later slices (slice 11-36), the lesion in the left ovary is no longer visible, which could be due to the slice position or the resolution of the lesion. However, the initial observation of a hyperintense cystic lesion in the left ovary is consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-000,cyst,irrelevant,real,knee,ref,yes,-1.25,1ab6e46f00a1e4bb,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a ""target sign"" on T2-weighted images.
+
+In the provided slices, we observe a cystic lesion in the left adnexal region (slice 13-15) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion has a well-defined wall and shows internal septations, which are also typical findings in endometriomas.
+
+Final Answer: yes"
+D2-000,cyst,irrelevant,real,pain,ref,yes,0.0,1ab6e46f00a1e4bb,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a well-defined, cystic lesion in the right ovary (slice 13-15) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the right adnexal region and has a smooth wall, which is also typical for endometriomas.
+
+The presence of this lesion, along with the patient's history of chronic pelvic pain, strongly suggests the diagnosis of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-000,cyst,known,real,known_em,ref,yes,2.5000001192092896,1ab6e46f00a1e4bb,"To determine the presence of an ovarian endometrioma, we need to look for a well-defined, unilocular cystic lesion with a thickened wall, often with internal septations, and typically located in the pelvis. The lesion should be isointense to slightly hyperintense on T2-weighted images.
+
+In the provided slices, we observe a well-defined, unilocular cystic lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is isointense to slightly hyperintense on T2-weighted images, which is typical for endometriomas. There are no signs of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma.
+
+The lesion's location in the left adnexal region and its appearance on the MRI are consistent with the clinical history of a known ovarian endometrioma. Therefore, based on the visual evidence provided, we can conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-001,negative,irrelevant,real,none,ref,yes,-0.3750000596046448,f39cba2c5b2d844b,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 1-15) which appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas. 
+
+However, it is important to note that the presence of a hyperintense cystic lesion in the ovary does not definitively diagnose an endometrioma. Other conditions such as a dermoid cyst, ovarian cancer, or a simple cyst can also present similarly. A definitive diagnosis would require clinical correlation, patient history, and possibly additional imaging or biopsy.
+
+Final Answer: yes"
+D2-001,negative,irrelevant,real,knee,ref,yes,-1.875,f39cba2c5b2d844b,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, the lesion should have a well-defined wall and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a lesion in the left adnexal region (ovary) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a complex internal structure with septations, which is also typical of endometriomas.
+
+Final Answer: yes"
+D2-001,negative,irrelevant,real,pain,ref,yes,-0.5,f39cba2c5b2d844b,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a well-defined, round, and homogenous hyperintense lesion in the right adnexal region in several slices (e.g., SLICE 10, SLICE 11, SLICE 12, SLICE 13, SLICE 14, SLICE 15, SLICE 16, SLICE 17, SLICE 18, SLICE 19, SLICE 20, SLICE 21, SLICE 22, SLICE 23, SLICE 24, SLICE 25, SLICE 26, SLICE 27, SLICE 28, SLICE 29, SLICE 30, SLICE 31, SLICE 32, SLICE 33, SLICE 34). This lesion is consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-001,negative,known,real,known_em,ref,yes,2.8750000596046448,f39cba2c5b2d844b,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a cystic appearance with a thin wall, and shows high signal intensity on T2-weighted images, which is typical for endometriomas. There is no evidence of significant enhancement on the provided images, which is also consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-002,cyst,irrelevant,real,none,ref,yes,0.875,41943b7f9907e81c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion with a thickened wall and internal septations, which is characteristic of an endometrioma. In the provided slices, we can observe a well-defined, cystic lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion has a thickened wall and internal septations, which are typical findings in endometriomas. The presence of this lesion in the left adnexal region is also consistent with the location of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-002,cyst,irrelevant,real,knee,ref,yes,-0.125,41943b7f9907e81c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the right ovary (slice 10-16) with high signal intensity on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-002,cyst,irrelevant,real,pain,ref,yes,1.0,41943b7f9907e81c,"The images provided are T2-weighted fat-suppressed MRI slices of the female pelvis. In T2-weighted images, endometriomas (cysts) typically appear as high signal intensity lesions due to the high water content of the cyst fluid. 
+
+In the provided slices, there is a well-defined, high-signal intensity lesion located in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region, which is a common location for endometriomas. The size and signal intensity are also consistent with an endometrioma.
+
+Final Answer: yes"
+D2-002,cyst,known,real,known_em,ref,yes,3.3750001788139343,41943b7f9907e81c,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. There is no significant enhancement on the provided images, which is also consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-003,cyst,irrelevant,real,none,ref,yes,0.375,f534ffac05d89f14,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the right ovary (slice 14-20) with high signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a thickened wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-003,cyst,irrelevant,real,knee,ref,yes,-0.875,f534ffac05d89f14,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the right ovary (slice 14-20) with high signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas. The presence of this lesion in the right ovary is further supported by the clinical history of knee pain, as endometriomas can cause pain and are more commonly found in the ovaries.
+
+Final Answer: yes"
+D2-003,cyst,irrelevant,real,pain,ref,yes,0.25,f534ffac05d89f14,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a well-defined, cystic lesion in the right ovary (slice 14-20) with high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the right adnexal region and has a smooth contour, which is typical for endometriomas. There is no evidence of a similar lesion in the left ovary, which is also consistent with the clinical presentation of an endometrioma.
+
+Final Answer: yes"
+D2-003,cyst,known,real,known_em,ref,yes,2.7500001192092896,f534ffac05d89f14,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content within the lesion. There is no evidence of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region, which is consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-004,negative,irrelevant,real,none,ref,yes,-1.5,1d87660233e56e0c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a structure in the left adnexal region that appears cystic and hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The presence of a well-defined, cystic lesion in the left ovary is a strong indicator of an endometrioma.
+
+Final Answer: yes"
+D2-004,negative,irrelevant,real,knee,ref,yes,-2.5000000596046448,1d87660233e56e0c,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) area on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The signal should be homogeneous within the lesion.
+5. **No enhancement**: On fat-suppressed images, the lesion should not enhance with contrast.
+
+Analyzing the provided slices:
+
+- **Ovarian enlargement**: The ovaries appear to be enlarged in some slices.
+- **Hypointense signal**: The lesions in the ovaries appear hypointense (dark) on the T2-weighted images.
+- **Well-defined margins**: The lesions have well-defined margins.
+- **Homogeneous signal**: The signal within the lesions appears homogeneous.
+- **No enhancement**: There is no evidence of enhancement with contrast in the provided images.
+
+Given these observations, the MRI findings are consistent with the presence of ovarian endometriomas.
+
+Final Answer: yes"
+D2-004,negative,irrelevant,real,pain,ref,yes,-1.75,1d87660233e56e0c,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) lesion on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity.
+5. **No enhancement**: On contrast-enhanced images, endometriomas do not enhance.
+
+Analyzing the provided slices:
+
+- **Ovarian Enlargement**: The ovaries appear to be enlarged in some slices.
+- **Hypointense Signal**: The lesions within the ovaries appear hypointense (dark) on T2-weighted images.
+- **Well-defined Margins**: The lesions have well-defined margins.
+- **Homogeneous Signal**: The lesions appear to have a homogeneous signal intensity.
+- **No Enhancement**: The provided images are T2-weighted, and there is no contrast-enhanced image provided to assess enhancement.
+
+Given the presence of hypointense lesions within the enlarged ovaries, which are consistent with the appearance of an endometrioma, and the clinical history of chronic pelvic pain, it is reasonable to conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-004,negative,known,real,known_em,ref,yes,2.125,1d87660233e56e0c,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a smooth contour, and shows high signal intensity on T2-weighted images, which is typical for endometriomas. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology. The size and location are also consistent with a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-005,negative,irrelevant,real,none,ref,yes,-0.7500000596046448,547c7e8ac356ecf2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 1-34). The lesion appears to be hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-005,negative,irrelevant,real,knee,ref,yes,-2.1249999403953552,547c7e8ac356ecf2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a cystic lesion in the left ovary (slice 1-34) which appears hyperintense on T2-weighted images, consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-005,negative,irrelevant,real,pain,ref,yes,-1.3749998807907104,547c7e8ac356ecf2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 1-34) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-005,negative,known,real,known_em,ref,yes,1.9999998807907104,547c7e8ac356ecf2,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a smooth contour, and shows high signal intensity on T2-weighted images, which is typical for endometriomas. The size and location are also consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-006,cyst,irrelevant,real,none,ref,yes,0.125,bb4f8963b8c3a2a8,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region in several slices (e.g., SLICE 10, SLICE 11, SLICE 12, etc.). This appearance is consistent with the characteristics of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-006,cyst,irrelevant,real,knee,ref,yes,-0.875,bb4f8963b8c3a2a8,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a size that is typical for an endometrioma, which can range from a few millimeters to several centimeters in diameter.
+
+The clinical history of knee pain is not directly related to the presence of an ovarian endometrioma, but it is important to consider other possible causes of knee pain in the context of the patient's overall health.
+
+Final Answer: yes"
+D2-006,cyst,irrelevant,real,pain,ref,yes,0.125,bb4f8963b8c3a2a8,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled endometriomas. 
+
+In the provided slices, we observe a well-defined, round, and homogenous hyperintense lesion in the right adnexal region in several slices (e.g., SLICE 10, SLICE 11, SLICE 12, etc.). This appearance is consistent with the typical findings of an endometrioma. The lesion is located in the right ovary, which is a common site for endometriomas.
+
+The lesion's size and homogeneity are also consistent with an endometrioma. The presence of a similar lesion in the left adnexal region (not shown in the provided slices) would be expected in a bilateral endometrioma, which is also a common finding.
+
+Final Answer: yes"
+D2-006,cyst,known,real,known_em,ref,yes,2.4999999403953552,bb4f8963b8c3a2a8,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal region, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. The size and location of the mass are also consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-010,negative,irrelevant,real,none,ref,yes,-0.5,d8a3e08f334a7ced,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, the lesion should have a well-defined border and may show internal septations or a complex appearance.
+
+In the provided slices, we can observe a cystic lesion in the left ovary in several slices. The lesion appears hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth border, and there are no visible septations or complex internal structures that would suggest a different pathology.
+
+Final Answer: yes"
+D2-010,negative,irrelevant,real,knee,ref,yes,-1.5,d8a3e08f334a7ced,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is hyperintense on T2-weighted images, which is characteristic of endometriomas. These lesions typically have a complex appearance with internal septations and may show a ""target sign"" or ""bull's eye"" pattern.
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 1-34). The lesion appears to be hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The presence of internal septations and the overall complex appearance further support this diagnosis.
+
+Final Answer: yes"
+D2-010,negative,irrelevant,real,pain,ref,yes,-0.375,d8a3e08f334a7ced,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An ovarian mass is present.
+2. **Hypointense Signal**: The mass should have a hypointense signal on T2-weighted images, which is typical for endometriomas.
+3. **Well-Defined**: The mass should be well-defined.
+4. **Homogeneous**: The mass should be homogeneous in signal intensity.
+5. **No Enhancement**: There should be no enhancement on contrast-enhanced images (not provided here).
+
+Analyzing the slices:
+
+- **Slice 1 to Slice 30**: The images show a well-defined, homogeneous, hypointense mass in the left adnexal region, which is consistent with the appearance of an endometrioma.
+- **Slice 31 to Slice 34**: The mass appears to be smaller and less distinct, but the hypointense signal is still present.
+
+Given the consistent appearance of a hypointense, well-defined, and homogeneous mass in the left adnexal region, which is typical for an endometrioma, and the absence of any other significant findings that would suggest a different diagnosis, we can conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-010,negative,known,real,known_em,ref,yes,2.5,d8a3e08f334a7ced,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content within the lesion. There is no evidence of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma. The lesion's location and appearance are consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-011,cyst,irrelevant,real,none,ref,yes,-1.125,37871abaed82a527,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled endometriomas. 
+
+In the provided slices, we observe a structure in the left adnexal region that appears to be a cystic lesion. It is located in the left ovary and has a bright signal on T2-weighted images, which is consistent with the appearance of an endometrioma. The size and location are also consistent with an ovarian cyst.
+
+Final Answer: yes"
+D2-011,cyst,irrelevant,real,knee,ref,no,-2.4999999403953552,37871abaed82a527,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) area on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The signal intensity should be homogeneous within the lesion.
+5. **No enhancement**: On fat-suppressed images, the lesion should not enhance.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 28**: The ovaries are not clearly visible in these slices due to the position of the bladder and bowel.
+- **Slice 29 to Slice 34**: The ovaries are visible, but the images are not clear enough to definitively identify an endometrioma. The signal intensity and homogeneity are not clearly discernible.
+
+Given the limited clarity and the lack of definitive evidence of an endometrioma in the provided slices, it is not possible to make a definitive diagnosis of an ovarian endometrioma.
+
+Final Answer: no"
+D2-011,cyst,irrelevant,real,pain,ref,no,-1.1250000596046448,37871abaed82a527,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense rim**: A thin, hypointense (dark) rim around the lesion.
+3. **Hypointense center**: A central area of hypointensity (darkness) within the lesion.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity on T2-weighted images.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 20**: The ovaries appear normal in size and shape. There is no evidence of a hypointense rim or a central hypointense area.
+- **Slice 21 to Slice 34**: The ovaries are not clearly visible in these slices, likely due to the position of the patient or the slice location.
+
+Given the clinical history of chronic pelvic pain and the lack of any visible endometrioma characteristics in the provided slices, it is not possible to definitively diagnose an ovarian endometrioma based on the current images.
+
+Final Answer: no"
+D2-011,cyst,known,real,known_em,ref,yes,2.1250001192092896,37871abaed82a527,"To determine the presence of an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is consistent with the appearance of a fluid-filled cyst. In the provided slices, we can observe a well-defined, round, hypointense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left ovary and has a characteristic appearance on T2-weighted images.
+
+Final Answer: yes"
+D2-012,negative,irrelevant,real,none,ref,yes,-1.0,de9488875858541b,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with a mixed signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower abdomen.
+2. There is a cystic lesion in the right ovary (slice 1-20) with a mixed signal intensity, which is consistent with the appearance of an endometrioma.
+3. The left ovary appears normal in the provided slices.
+
+The presence of a cystic lesion with mixed signal intensity in the right ovary is suggestive of an endometrioma. However, it is important to note that a definitive diagnosis of an endometrioma requires clinical correlation, patient history, and possibly additional imaging or biopsy.
+
+Final Answer: yes"
+D2-012,negative,irrelevant,real,knee,ref,yes,-2.375,de9488875858541b,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. These lesions are typically located in the pelvis, often in the adnexal region.
+
+In the provided slices, we observe a cystic lesion in the left adnexal region (slice 1-20) which shows high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is also typical for endometriomas.
+
+However, it is important to note that the presence of a cystic lesion with high signal intensity on T2-weighted images is not definitive for an endometrioma. Other conditions such as dermoid cysts, simple cysts, or other types of ovarian tumors can also present similarly. A definitive diagnosis would require correlation with clinical history, additional imaging, and possibly biopsy.
+
+Given the high signal intensity and the location in the left adnexal region, it is reasonable to suspect an endometrioma. However, a final diagnosis would require further evaluation.
+
+Final Answer: yes"
+D2-012,negative,irrelevant,real,pain,ref,yes,-1.0,de9488875858541b,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, the lesion should have a well-defined margin and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a lesion in the left ovary that appears cystic and hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a complex internal structure with septations, which is also typical of endometriomas.
+
+Final Answer: yes"
+D2-012,negative,known,real,known_em,ref,yes,2.375,de9488875858541b,"To determine if there is an ovarian endometrioma, we need to look for a well-defined, often complex, cystic lesion in the pelvis, typically located in the adnexal region. The lesion should have a heterogeneous signal intensity on T2-weighted images, which is characteristic of endometriomas due to the presence of blood products and fibrosis.
+
+In the provided slices, we observe a lesion in the left adnexal region that appears to be a cystic structure with heterogeneous signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a complex internal structure, which is typical for endometriomas.
+
+Given the clinical history of known ovarian endometrioma and the imaging findings, it is reasonable to conclude that the lesion in the left adnexal region is an endometrioma.
+
+Final Answer: yes"
+D2-013,cyst,irrelevant,real,none,ref,yes,0.3749999403953552,a9bc0019ee6b6ed3,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the right adnexal region in several slices (e.g., SLICE 16, SLICE 17, SLICE 18, SLICE 19, SLICE 20, SLICE 21, SLICE 22, SLICE 23, SLICE 24, SLICE 25, SLICE 26, SLICE 27, SLICE 28, SLICE 29, SLICE 30, SLICE 31, SLICE 32, SLICE 33, and SLICE 34). This appearance is consistent with the typical findings of an endometrioma.
+
+Final Answer: yes"
+D2-013,cyst,irrelevant,real,knee,ref,yes,-0.625,a9bc0019ee6b6ed3,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled endometriomas. In the provided slices, we observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a size that is typical for an endometrioma, which can range from a few millimeters to several centimeters in diameter.
+
+Final Answer: yes"
+D2-013,cyst,irrelevant,real,pain,ref,yes,0.5,a9bc0019ee6b6ed3,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled endometriomas. 
+
+In the provided slices, we observe a well-defined, round, and homogenous hyperintense lesion in the right adnexal region in several slices (e.g., SLICE 10, SLICE 11, SLICE 12, etc.). This appearance is consistent with the typical findings of an endometrioma. The lesion is located in the right ovary, which is a common site for endometriomas.
+
+The presence of this lesion, along with the patient's history of chronic pelvic pain, supports the diagnosis of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-013,cyst,known,real,known_em,ref,yes,3.125,a9bc0019ee6b6ed3,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, has a smooth margin, and shows a signal intensity similar to that of fluid, which is typical for endometriomas on T2-weighted images. There is no evidence of significant enhancement on the provided images, which is also consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-014,negative,irrelevant,real,none,ref,yes,-0.8749999403953552,274448828fa831e7,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe the following:
+
+1. The ovaries are visible on the left and right sides of the pelvis.
+2. There is a cystic lesion in the right ovary (slice 12-14) that appears hyperintense on T2-weighted images, which is characteristic of an endometrioma.
+3. The lesion has a well-defined border and is located in the right ovary.
+4. The appearance of the lesion is consistent with the typical appearance of an endometrioma on MRI.
+
+Final Answer: yes"
+D2-014,negative,irrelevant,real,knee,ref,yes,-1.9999999403953552,274448828fa831e7,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a complex appearance.
+
+In the provided slices, there is a lesion in the right ovary that appears cystic and hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas. There are no signs of significant internal septations or complex internal structures that would suggest a different pathology.
+
+Final Answer: yes"
+D2-014,negative,irrelevant,real,pain,ref,no,-0.875,274448828fa831e7,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense rim**: A thin, hypointense (dark) rim around the lesion.
+3. **Hypointense center**: A central area of hypointensity (darkness) within the lesion.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity on T2-weighted images.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 10**: The ovaries are not clearly visible, and the images are too dark to discern any abnormalities.
+- **Slice 11 to Slice 20**: The ovaries are still not clearly visible, and the images are too dark to discern any abnormalities.
+- **Slice 21 to Slice 34**: The ovaries are still not clearly visible, and the images are too dark to discern any abnormalities.
+
+Given the lack of clear visibility of the ovaries and the inability to discern any of the typical characteristics of an endometrioma, it is not possible to make a definitive diagnosis of an ovarian endometrioma based on the provided slices.
+
+Final Answer: no"
+D2-014,negative,known,real,known_em,ref,yes,2.2500000596046448,274448828fa831e7,"The provided MRI slices show a well-defined, heterogeneous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass has a mixed signal intensity, with areas of high signal intensity that are characteristic of fluid and areas of low signal intensity that could represent solid components or blood products. The mass is located in the left adnexal region, which is a common location for endometriomas. The presence of a mass in this location, along with the imaging characteristics, is highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-015,negative,irrelevant,real,none,ref,yes,-1.5,08a7e164b7ee0b5c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower pelvic region.
+2. There is a cystic lesion in the left ovary (slice 1-30) that appears hypointense on T2-weighted images.
+3. The lesion maintains a similar appearance across the slices, indicating it is likely a cystic structure.
+4. The right ovary does not show any significant cystic lesions.
+
+The presence of a hypointense cystic lesion in the left ovary is consistent with the imaging findings of an endometrioma. However, it is important to note that a definitive diagnosis of an endometrioma would require clinical correlation, patient history, and possibly additional imaging or biopsy.
+
+Final Answer: yes"
+D2-015,negative,irrelevant,real,knee,ref,yes,-2.625,08a7e164b7ee0b5c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. However, the images provided are T2-weighted fat-suppressed images, which can make it challenging to distinguish between different types of cysts.
+
+In these images, we can observe a well-defined, round, hypointense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a smooth contour, which is typical for endometriomas. The presence of a similar lesion in the right adnexal region is not observed in these slices, but it is important to note that the images provided are only a portion of the total dataset.
+
+Given the clinical history of knee pain and the presence of a hypointense lesion in the left ovary, it is reasonable to consider the possibility of an endometrioma. However, a definitive diagnosis would require a complete set of images and possibly additional imaging sequences, such as T1-weighted images or contrast-enhanced images, to rule out other possibilities.
+
+Final Answer: yes"
+D2-015,negative,irrelevant,real,pain,ref,yes,-1.5000001192092896,08a7e164b7ee0b5c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a well-defined, round, hypointense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a smooth contour, which is also typical for endometriomas. The presence of this lesion in the left ovary, along with the patient's history of chronic pelvic pain, supports the diagnosis of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-015,negative,known,real,known_em,ref,yes,1.75,08a7e164b7ee0b5c,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. The lesion's size and location are also consistent with the known clinical history of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-016,negative,irrelevant,real,none,ref,yes,-0.6249999403953552,18a3f2adb1591d7d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. In the provided slices, we can observe a cystic lesion in the left ovary in SLICE 15, SLICE 16, and subsequent slices. This lesion appears to be hypointense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-016,negative,irrelevant,real,knee,ref,yes,-2.375,18a3f2adb1591d7d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a cystic lesion in the left ovary (slice 15-20) that appears hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-016,negative,irrelevant,real,pain,ref,yes,-0.75,18a3f2adb1591d7d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left adnexal region that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma, which is a cystic lesion that contains endometrial tissue and is often found in the ovaries.
+
+The lesion's location, size, and signal characteristics are consistent with an endometrioma. However, it is important to note that the diagnosis of an endometrioma should be confirmed with additional imaging, such as contrast-enhanced MRI or ultrasound, and possibly with histopathological examination if the lesion is surgically removed.
+
+Final Answer: yes"
+D2-016,negative,known,real,known_em,ref,yes,2.7500000596046448,18a3f2adb1591d7d,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, has a smooth contour, and shows no significant enhancement on the fat-suppressed T2-weighted images, which is typical for endometriomas. The size and location are also consistent with a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-017,negative,irrelevant,real,none,ref,yes,0.25,1fb4fb3fcb1e95a6,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary in SLICE 18, SLICE 19, and SLICE 20. This lesion appears to be hypointense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is also located in the expected location of the left ovary.
+
+Final Answer: yes"
+D2-017,negative,irrelevant,real,knee,ref,no,-0.375,1fb4fb3fcb1e95a6,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An endometrioma appears as a well-defined, unilocular cystic mass.
+2. **Homogeneous Signal**: The signal intensity of the endometrioma is typically homogeneous, often appearing as a low signal on T1-weighted images and a high signal on T2-weighted images.
+3. **Internal Striations or Septations**: Endometriomas can sometimes show internal striations or septations, which are not always present.
+4. **Location**: The mass should be located within the ovarian fossa.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 20**: The images show the pelvis with the uterus and ovaries. The ovaries appear to be in their normal location, and there is no obvious mass in the ovarian fossa.
+- **Slice 21 to Slice 40**: The images continue to show the pelvis. The ovaries are still in their normal location, and there is no mass present in the ovarian fossa.
+
+Given the clinical history of knee pain and the absence of any ovarian mass in the provided slices, it is unlikely that there is an ovarian endometrioma present.
+
+Final Answer: no"
+D2-017,negative,irrelevant,real,pain,ref,yes,0.25,1fb4fb3fcb1e95a6,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An endometrioma typically appears as a well-defined, unilocular cystic mass.
+2. **Homogeneous Signal**: The signal intensity of the endometrioma is usually homogenous, often appearing as a high signal on T2-weighted images.
+3. **No Wall Thickening**: The wall of the endometrioma is usually thin and smooth.
+4. **No Internal Complexities**: There should be no internal septations or solid components within the cyst.
+5. **Location**: The mass should be located within the ovarian fossa.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 20**: The images show a well-defined, unilocular cystic mass in the right ovarian fossa. The signal intensity is high on T2-weighted images, consistent with a fluid-filled cyst.
+- **Slice 21 to Slice 40**: The mass maintains its appearance, with no internal complexities or wall thickening.
+
+Given the homogenous high signal intensity, the unilocular nature, and the location within the ovarian fossa, these findings are consistent with an endometrioma.
+
+Final Answer: yes"
+D2-017,negative,known,real,known_em,ref,yes,2.5000000596046448,1fb4fb3fcb1e95a6,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass has a high signal intensity on T2-weighted images, which is characteristic of endometriomas due to the presence of blood products and fluid. There is no evidence of significant enhancement on the provided images, which is also consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-018,negative,irrelevant,real,none,ref,yes,-0.5,8251ede76cf597c1,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+- The ovaries are visible in the lower pelvic region.
+- There is a cystic lesion in the right ovary (slice 1-10) which appears hyperintense on T2-weighted images.
+- The lesion maintains its appearance in subsequent slices (slice 11-38), indicating it is likely a cystic structure.
+
+The hyperintense appearance of the lesion in the right ovary is consistent with the appearance of an endometrioma on T2-weighted images. However, it is important to note that the diagnosis of an endometrioma should be confirmed with additional imaging, such as contrast-enhanced MRI or ultrasound, and clinical correlation.
+
+Final Answer: yes"
+D2-018,negative,irrelevant,real,knee,ref,yes,-1.75,8251ede76cf597c1,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense rim**: A thin, hypointense (dark) rim around the lesion.
+3. **Hypointense center**: A central area of hypointensity (darkness) within the lesion.
+4. **Homogeneous appearance**: The lesion should have a homogeneous appearance, meaning it should be uniformly dark or bright on the T2-weighted image.
+
+In the provided slices, we can observe the following:
+
+- **Ovarian enlargement**: The ovaries appear larger than normal.
+- **Hypointense rim**: There is a thin, hypointense rim around the lesion.
+- **Hypointense center**: There is a central area of hypointensity within the lesion.
+- **Homogeneous appearance**: The lesion appears to have a homogeneous appearance.
+
+These findings are consistent with the imaging characteristics of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-018,negative,irrelevant,real,pain,ref,yes,-0.5,8251ede76cf597c1,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian mass**: An ovarian mass is present in the image.
+2. **Hypointense rim**: There is a hypointense rim around the mass, which is a common feature of endometriomas.
+3. **Heterogeneous internal signal**: The mass has a heterogeneous internal signal, which is typical for endometriomas.
+4. **Size and location**: The mass is located in the ovarian region, which is consistent with an ovarian endometrioma.
+
+In the provided slices, we can observe a mass in the left ovarian region with a hypointense rim and heterogeneous internal signal. These findings are consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-018,negative,known,real,known_em,ref,yes,2.3749998807907104,8251ede76cf597c1,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. The mass does not show significant enhancement on the provided images, which is also consistent with the characteristics of an endometrioma.
+
+Final Answer: yes"
+D2-019,negative,irrelevant,real,none,ref,yes,0.5,48b2cbe7afaccb38,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the right ovary (slice 10-14) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-019,negative,irrelevant,real,knee,ref,yes,-0.625,48b2cbe7afaccb38,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the right ovary in SLICE 10, SLICE 11, and subsequent slices. This appearance is consistent with the characteristics of an endometrioma, which is a cystic lesion that contains endometrial tissue.
+
+The lesion is located in the right ovary, which is a common site for endometriomas. The homogeneity and the hyperintensity on T2-weighted images are also typical findings for endometriomas. There is no evidence of a similar lesion in the left ovary, which is also a common finding in endometriomas.
+
+Final Answer: yes"
+D2-019,negative,irrelevant,real,pain,ref,yes,0.625,48b2cbe7afaccb38,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion with a thickened wall and internal septations, which is characteristic of an endometrioma. In the provided slices, we observe a well-defined, cystic lesion in the left adnexal region (slice 10-14) that appears to have a thickened wall and internal septations. This is consistent with the appearance of an endometrioma.
+
+The lesion is located in the left adnexal region, which is a common site for endometriomas. The thickened wall and internal septations are also typical findings in endometriomas. The lesion's signal intensity is consistent with fluid, which is also a common finding in endometriomas.
+
+Final Answer: yes"
+D2-019,negative,known,real,known_em,ref,yes,2.9999999403953552,48b2cbe7afaccb38,"To determine the presence of an ovarian endometrioma, we need to look for a well-defined, unilocular cystic lesion with a thickened wall and internal septations, which is characteristic of an endometrioma. In the provided slices, we observe a lesion in the left adnexal region that appears to be a cystic structure with a thickened wall and internal septations. This is consistent with the appearance of an endometrioma.
+
+The lesion is located in the left adnexal region, which is a common site for endometriomas. The thickened wall and internal septations are also typical findings in endometriomas. The lesion's signal intensity on T2-weighted images is also consistent with the high signal intensity of fluid within the cyst.
+
+Given the clinical history of known ovarian endometrioma and the imaging findings, it is reasonable to conclude that the lesion in the left adnexal region is an endometrioma.
+
+Final Answer: yes"
+D2-020,negative,irrelevant,real,none,ref,yes,-0.3750000596046448,d6b4260bdd8d2df2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and appears to be of similar signal intensity to the uterine cavity, which is a characteristic feature of endometriomas.
+
+Final Answer: yes"
+D2-020,negative,irrelevant,real,knee,ref,yes,-1.8750001192092896,d6b4260bdd8d2df2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a lesion in the left adnexal region that appears to be cystic and hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+
+The lesion is located in the left adnexal region, which is a common location for endometriomas. The hyperintensity on T2-weighted images is a key feature of endometriomas, as they often contain fluid and debris that are more easily visualized on this sequence.
+
+Given the clinical history of knee pain and the imaging findings, it is reasonable to consider the possibility of an endometrioma. However, it is important to note that the diagnosis of an endometrioma should be confirmed by a gynecologist and may require further imaging or biopsy.
+
+Final Answer: yes"
+D2-020,negative,irrelevant,real,pain,ref,yes,-0.375,d6b4260bdd8d2df2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma, which is a cystic lesion that contains endometrial tissue and is often found in the ovaries.
+
+The lesion's location, size, and signal characteristics are consistent with an endometrioma. However, it is important to note that the diagnosis of an endometrioma should be confirmed with additional imaging, such as contrast-enhanced MRI or ultrasound, and possibly with histopathological examination if the lesion is surgically removed.
+
+Final Answer: yes"
+D2-020,negative,known,real,known_em,ref,yes,3.125,d6b4260bdd8d2df2,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, has a smooth margin, and shows a signal intensity similar to that of a fluid-filled cyst, which is typical for endometriomas. The patient's clinical history of known ovarian endometrioma supports the diagnosis.
+
+Final Answer: yes"
+D2-021,negative,irrelevant,real,none,ref,yes,-0.5,8759439e8a9d3b49,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (SLICE 1 to SLICE 36). The lesion appears to be hypointense on T2-weighted images, which is consistent with the appearance of an endometrioma. The presence of a hypointense lesion in the ovary is a strong indicator of an endometrioma.
+
+Final Answer: yes"
+D2-021,negative,irrelevant,real,knee,ref,yes,-1.7499999403953552,8759439e8a9d3b49,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with a mixed signal intensity on T2-weighted images, which is characteristic of endometriomas. These lesions often have a ""target sign"" or ""bull's eye"" appearance, with a hypointense rim and a hyperintense center.
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower pelvic region.
+2. There is a cystic lesion in the right ovary (slice 1-36) that appears to have a hypointense rim and a hyperintense center, which is consistent with the ""target sign"" often seen in endometriomas.
+3. The left ovary appears normal without any cystic lesions.
+
+The presence of a cystic lesion with a ""target sign"" in the right ovary is highly suggestive of an endometrioma. However, a definitive diagnosis would require correlation with clinical history, physical examination, and possibly additional imaging or biopsy.
+
+Final Answer: yes"
+D2-021,negative,irrelevant,real,pain,ref,no,-0.375,8759439e8a9d3b49,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense rim**: A thin, hypointense (dark) rim around the lesion.
+3. **Hypointense center**: A central area of hypointensity (darkness) within the lesion.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity on T2-weighted images.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 10**: The ovaries are not clearly visible, and the images are too dark to discern any abnormalities.
+- **Slice 11 to Slice 20**: The ovaries are still not clearly visible, and the images are too dark to discern any abnormalities.
+- **Slice 21 to Slice 30**: The ovaries are still not clearly visible, and the images are too dark to discern any abnormalities.
+- **Slice 31 to Slice 36**: The ovaries are still not clearly visible, and the images are too dark to discern any abnormalities.
+
+Given the lack of clear visibility of the ovaries and the inability to discern any of the typical characteristics of an endometrioma, it is not possible to make a definitive diagnosis of an ovarian endometrioma based on the provided slices.
+
+Final Answer: no"
+D2-021,negative,known,real,known_em,ref,yes,2.3750000596046448,8759439e8a9d3b49,"To determine if there is an ovarian endometrioma, we need to look for a well-defined, often complex, cystic lesion in the pelvis, typically located in the adnexal region. The lesion should have a heterogeneous signal intensity on T2-weighted images, with areas of high and low signal intensity, which is characteristic of the fluid and solid components of an endometrioma.
+
+In the provided slices, we observe a lesion in the left adnexal region that appears to be a cystic structure with areas of high and low signal intensity, consistent with the appearance of an endometrioma. The lesion is well-defined and has a heterogeneous signal pattern, which is typical for an endometrioma. The presence of this lesion in the context of a known history of ovarian endometrioma further supports this diagnosis.
+
+Final Answer: yes"
+D2-022,negative,irrelevant,real,none,ref,yes,-0.8750000596046448,428df49ba7f00fbb,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is consistent with the appearance of an endometrioma. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower pelvic region.
+2. There is a cystic lesion in the right ovary (slice 16-24) that appears hypointense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+3. The left ovary appears normal without any cystic lesions.
+
+The presence of a hypointense cystic lesion in the right ovary is suggestive of an endometrioma. However, a definitive diagnosis would require additional imaging such as contrast-enhanced MRI or ultrasound, and clinical correlation.
+
+Final Answer: yes"
+D2-022,negative,irrelevant,real,knee,ref,no,-2.0,428df49ba7f00fbb,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) area on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The signal should be homogeneous within the lesion.
+5. **No enhancement**: On contrast-enhanced images, endometriomas do not enhance.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 30**: The ovaries are not clearly visible in these slices, likely due to the position of the slices or the anatomy of the patient.
+- **Slice 31 to Slice 38**: The ovaries are visible, but the images are not clear enough to definitively identify an endometrioma. The signal intensity and homogeneity are not clearly discernible.
+
+Given the lack of clear evidence in the provided slices, it is not possible to definitively diagnose an ovarian endometrioma. Further imaging, possibly with contrast-enhanced MRI, may be necessary to make a definitive diagnosis.
+
+Final Answer: no"
+D2-022,negative,irrelevant,real,pain,ref,yes,-0.875,428df49ba7f00fbb,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense rim**: A thin, hypointense (dark) rim around the lesion.
+3. **Hypointense center**: A central area of hypointensity (darkness) within the lesion.
+4. **Homogeneous appearance**: The lesion should have a homogeneous appearance, meaning it should be uniformly dark or bright on the T2-weighted image.
+
+In the provided slices, we can observe the following:
+
+- **Ovarian enlargement**: The ovaries appear larger than normal.
+- **Hypointense rim**: There is a thin, hypointense rim around the lesion.
+- **Hypointense center**: There is a central area of hypointensity within the lesion.
+- **Homogeneous appearance**: The lesion appears to be uniformly dark, consistent with a homogeneous appearance.
+
+Given these observations, the MRI findings are consistent with the appearance of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-022,negative,known,real,known_em,ref,yes,1.75,428df49ba7f00fbb,"To determine the presence of an ovarian endometrioma, we need to look for a cystic lesion in the pelvis, typically in the ovary, that has a mixed signal intensity on T2-weighted images, which is characteristic of fluid and solid components. The images provided show a large, well-defined, cystic lesion in the pelvis, which is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region, which is a common location for endometriomas. The mixed signal intensity on T2-weighted images is also consistent with the presence of fluid and solid components within the lesion, which is typical for endometriomas.
+
+Final Answer: yes"
+D2-023,negative,irrelevant,real,none,ref,yes,-0.125,bedff1aa3da04a2c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, the lesion should have a well-defined wall and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a cystic lesion in the left ovary (SLICE 1 to SLICE 39). The lesion appears to be hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, and there are no obvious internal septations or complex features that would suggest a different pathology.
+
+Final Answer: yes"
+D2-023,negative,irrelevant,real,knee,ref,yes,-1.2500000596046448,bedff1aa3da04a2c,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An endometrioma typically appears as a well-defined, unilocular cystic mass.
+2. **Homogeneous Signal**: On T2-weighted images, endometriomas often have a homogenous, high signal intensity.
+3. **Location**: The mass should be located within the ovarian region.
+4. **Size and Shape**: The mass should be of a size and shape consistent with an ovarian cyst.
+5. **Internal Structure**: There should be no internal septations or solid components.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 30**: The images show the pelvic region, including the ovaries. There is a well-defined, unilocular cystic mass visible in the left ovarian region.
+- **Slice 31 to Slice 39**: The mass is more clearly visible, and it appears to be of a size and shape consistent with an ovarian cyst. The signal intensity is high, which is typical for endometriomas on T2-weighted images.
+
+Given the presence of a well-defined, unilocular cystic mass in the left ovarian region with high signal intensity on T2-weighted images, the findings are consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-023,negative,irrelevant,real,pain,ref,yes,-0.375,bedff1aa3da04a2c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas due to the presence of blood products and fluid.
+
+In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region. This lesion is hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion's location in the left adnexal region and its appearance on the MRI are consistent with the typical findings of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-023,negative,known,real,known_em,ref,yes,2.4999999403953552,bedff1aa3da04a2c,"The images provided are T2-weighted fat-suppressed MRI slices of the female pelvis. In T2-weighted images, endometriomas typically appear as high-signal intensity lesions due to the high water content of the fluid within the cyst. 
+
+In the provided slices, there is a well-defined, round, high-signal intensity lesion located in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the expected location for an ovarian endometrioma and has the characteristic high signal intensity on T2-weighted images.
+
+The clinical history of known ovarian endometrioma supports the diagnosis. There is no evidence of other significant pathology in the pelvis that would suggest an alternative diagnosis.
+
+Final Answer: yes"
+D2-024,negative,irrelevant,real,none,ref,yes,0.25,e88ea8c5d0e7d454,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left adnexal region in several slices (e.g., SLICE 1, SLICE 2, SLICE 3, etc.). This lesion appears to be hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion's location in the left adnexal region and its appearance on the MRI are consistent with the typical presentation of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-024,negative,irrelevant,real,knee,ref,yes,-0.875,e88ea8c5d0e7d454,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and appears to be of high signal intensity on T2-weighted images, which is characteristic of endometriomas.
+
+Final Answer: yes"
+D2-024,negative,irrelevant,real,pain,ref,yes,0.125,e88ea8c5d0e7d454,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region (ovary) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and does not show any significant enhancement on the provided images, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-024,negative,known,real,known_em,ref,yes,3.1250000596046448,e88ea8c5d0e7d454,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. There is no evidence of significant enhancement or irregularity that would suggest a different pathology.
+
+Final Answer: yes"
+D2-025,negative,irrelevant,real,none,ref,yes,-0.6249999403953552,a10c3ad5a1a58aa0,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with a mixed signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible on the left and right sides of the pelvis.
+2. There is a cystic lesion in the left ovary (slice 1-30) with a mixed signal intensity, which is consistent with the appearance of an endometrioma.
+3. The right ovary appears normal without any cystic lesions.
+
+The presence of a cystic lesion with mixed signal intensity in the left ovary is suggestive of an endometrioma. However, a definitive diagnosis would require additional imaging, such as contrast-enhanced MRI or a biopsy.
+
+Final Answer: yes"
+D2-025,negative,irrelevant,real,knee,ref,yes,-1.6250000596046448,a10c3ad5a1a58aa0,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. These lesions are typically located in the pelvis, often in the ovaries, and can be associated with pain, especially in the context of a clinical history of knee pain.
+
+In the provided slices, we observe a cystic lesion in the right ovary (slice 1-34) that appears to have high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is also typical for endometriomas.
+
+Given the clinical history of knee pain and the imaging findings, it is reasonable to conclude that the patient may have an ovarian endometrioma.
+
+Final Answer: yes"
+D2-025,negative,irrelevant,real,pain,ref,yes,-1.0,a10c3ad5a1a58aa0,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An endometrioma typically appears as a well-defined, unilocular cystic mass.
+2. **Homogeneous Signal**: The signal intensity of an endometrioma is usually intermediate to high on T2-weighted images, similar to that of fluid.
+3. **No Wall Thickening**: The wall of an endometrioma is usually thin and smooth.
+4. **No Enhancement**: On contrast-enhanced MRI, endometriomas do not enhance significantly.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 30**: The images show a well-defined, unilocular cystic mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma.
+- **Slice 31 to Slice 34**: The mass appears to be homogeneous and there is no significant enhancement on contrast-enhanced images, which is also consistent with an endometrioma.
+
+Given the clinical history of chronic pelvic pain and the MRI findings, the presence of a well-defined, unilocular cystic mass in the left adnexal region with homogeneous signal intensity is highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-025,negative,known,real,known_em,ref,yes,2.375,a10c3ad5a1a58aa0,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology. The size and location are also consistent with a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-026,negative,irrelevant,real,none,ref,yes,-0.875,1b13f64264073f84,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary in SLICE 18, SLICE 19, and SLICE 20. The lesion appears to be hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is also located in the expected location of the left ovary.
+
+Final Answer: yes"
+D2-026,negative,irrelevant,real,knee,ref,yes,-2.3750000596046448,1b13f64264073f84,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 1-36). The lesion appears to have high signal intensity on T2-weighted images, which is consistent with the appearance of an endometrioma. There is no evidence of a similar lesion in the right ovary.
+
+Final Answer: yes"
+D2-026,negative,irrelevant,real,pain,ref,yes,-0.875,1b13f64264073f84,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the right ovary (slice 1-10) that appears to have high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is also typical for endometriomas. 
+
+However, it is important to note that the presence of a cystic lesion with high signal intensity on T2-weighted images is not definitive for an endometrioma. Other conditions such as dermoid cysts, simple cysts, or other types of ovarian tumors can also have similar appearances. 
+
+Given the clinical history of chronic pelvic pain and the imaging findings, it is reasonable to suspect an endometrioma. However, a definitive diagnosis would require correlation with other imaging modalities, such as contrast-enhanced MRI, and possibly histopathological confirmation if the patient undergoes surgery.
+
+Final Answer: yes"
+D2-026,negative,known,real,known_em,ref,yes,2.0000001192092896,1b13f64264073f84,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, has a smooth contour, and is surrounded by normal ovarian tissue. The hyperintensity on T2-weighted images is characteristic of endometriomas, which often contain blood products and fluid.
+
+Final Answer: yes"
+D2-027,negative,irrelevant,real,none,ref,yes,0.625,56b172b06086c9c7,"The images provided are T2-weighted fat-suppressed MRI slices of the female pelvis. In T2-weighted images, endometriomas (cystic lesions containing fluid) typically appear as high signal intensity (bright) lesions. The images show a well-defined, round, high-signal intensity lesion in the pelvis, which is consistent with the appearance of an endometrioma. The lesion is located in the pelvis, which is a common location for endometriomas. The size and signal intensity are also consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-027,negative,irrelevant,real,knee,ref,yes,-0.75,56b172b06086c9c7,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a characteristic appearance on T2-weighted images.
+
+Final Answer: yes"
+D2-027,negative,irrelevant,real,pain,ref,yes,0.125,56b172b06086c9c7,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, endometriomas often have a well-defined wall and may show internal septations or nodules.
+
+In the provided slices, we observe a well-defined, cystic lesion in the right ovary (slice 1-36). The lesion is hyperintense on T2-weighted images, which is consistent with the presence of fluid. There are no clear internal septations or nodules that would suggest a complex cyst, but the hyperintensity and well-defined nature are consistent with an endometrioma.
+
+Final Answer: yes"
+D2-027,negative,known,real,known_em,ref,yes,3.0000000596046448,56b172b06086c9c7,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the presence of blood products and fluid. There is no evidence of significant enhancement on the provided images, which is also consistent with the typical appearance of an endometrioma. The mass is located in the left adnexal region, which is the expected location for an ovarian endometrioma.
+
+Final Answer: yes"
+D2-028,negative,irrelevant,real,none,ref,yes,-0.125,3df56b2f32a1b700,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 10-12) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-028,negative,irrelevant,real,knee,ref,yes,-1.2499998807907104,3df56b2f32a1b700,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 10-12) with high signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is typical for endometriomas. There is no evidence of a similar lesion in the right ovary in the provided slices.
+
+Final Answer: yes"
+D2-028,negative,irrelevant,real,pain,ref,yes,-0.625,3df56b2f32a1b700,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. These lesions often have a ""target sign"" or ""bull's eye"" appearance, with a hypointense rim and a hyperintense center.
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower pelvic region.
+2. There is a cystic lesion in the right ovary (slice 10-12) that appears hypointense on T2-weighted images.
+3. The lesion has a well-defined rim, which is consistent with the ""target sign"" often seen in endometriomas.
+4. The lesion is located in the right ovary, which is a common location for endometriomas.
+
+Given these observations, it is reasonable to conclude that the lesion in the right ovary is consistent with an endometrioma.
+
+Final Answer: yes"
+D2-028,negative,known,real,known_em,ref,yes,2.3750000596046448,3df56b2f32a1b700,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. The lesion's size and location are also consistent with the known clinical history of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-029,negative,irrelevant,real,none,ref,yes,-0.625,9162382cdbe6026f,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion with a thickened wall and internal septations, which is characteristic of an endometrioma. In the provided slices, we can observe a cystic lesion in the left adnexal region (slice 1-15) which appears to have a thickened wall and internal septations. This is consistent with the appearance of an endometrioma.
+
+However, the presence of an endometrioma is not definitive without additional information such as the patient's history, symptoms, and other imaging modalities. The appearance of the lesion in the provided slices is suggestive of an endometrioma, but a definitive diagnosis would require further evaluation.
+
+Final Answer: yes"
+D2-029,negative,irrelevant,real,knee,ref,yes,-2.1249999403953552,9162382cdbe6026f,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. These lesions are typically located in the pelvis, often in the ovaries, and can be associated with pain, especially in the context of a clinical history of knee pain.
+
+In the provided slices, we observe a cystic lesion in the right ovary (slice 15-20) with high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is also typical for endometriomas.
+
+The presence of this lesion, along with the clinical history of knee pain, suggests that this could be an endometrioma. However, it is important to note that the diagnosis of an endometrioma should be confirmed with additional imaging, such as contrast-enhanced MRI or ultrasound, and possibly with histopathological examination if surgery is performed.
+
+Final Answer: yes"
+D2-029,negative,irrelevant,real,pain,ref,no,-0.875,9162382cdbe6026f,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) area on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity.
+5. **No enhancement**: On fat-suppressed images, the lesion should not enhance.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 15**: The ovaries appear normal in size and shape. There is no hypointense area that would suggest an endometrioma.
+- **Slice 16 to Slice 25**: The ovaries are still within normal limits. No hypointense area is observed.
+- **Slice 26 to Slice 34**: The ovaries continue to appear normal. No hypointense area is observed.
+
+Given the clinical history of chronic pelvic pain and the absence of any hypointense area in the ovaries on the provided slices, there is no evidence of an ovarian endometrioma.
+
+Final Answer: no"
+D2-029,negative,known,real,known_em,ref,yes,2.7500001192092896,9162382cdbe6026f,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content within the lesion. There is no evidence of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-038,negative,irrelevant,real,none,ref,yes,-1.6250001192092896,32ae5ef3588d7103,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower part of the pelvis.
+2. There is a cystic lesion in the right ovary (slice 1-10) which appears hypointense on T2-weighted images.
+3. The lesion maintains a similar appearance in subsequent slices (slice 11-20), indicating it is likely a cystic structure.
+4. The lesion is not seen in the left ovary, which is normal.
+5. The appearance of the lesion is consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-038,negative,irrelevant,real,knee,ref,yes,-2.8749998807907104,32ae5ef3588d7103,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled spaces. In the provided slices, we observe a structure in the left adnexal region that appears to be a cystic lesion. It is located in the left ovary and has a bright signal on T2-weighted images, which is consistent with the appearance of an endometrioma. The size and location are also consistent with an ovarian cyst.
+
+Final Answer: yes"
+D2-038,negative,irrelevant,real,pain,ref,yes,-1.8750000596046448,32ae5ef3588d7103,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) area on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The signal should be homogeneous, meaning it should be consistent throughout the lesion.
+5. **No enhancement**: On contrast-enhanced MRI, endometriomas do not enhance.
+
+Analyzing the provided slices:
+
+- **Ovarian enlargement**: The ovaries appear to be enlarged in some slices.
+- **Hypointense signal**: The lesions in the ovaries appear hypointense (dark) on T2-weighted images.
+- **Well-defined margins**: The lesions have well-defined margins.
+- **Homogeneous signal**: The signal appears homogeneous within the lesions.
+- **No enhancement**: The provided images are T2-weighted, and there is no contrast-enhanced imaging to assess enhancement.
+
+Given the presence of enlarged ovaries with hypointense, well-defined, and homogeneous lesions, which are consistent with the appearance of an endometrioma, we can conclude that there is evidence of ovarian endometriomas.
+
+Final Answer: yes"
+D2-038,negative,known,real,known_em,ref,yes,2.1250000596046448,32ae5ef3588d7103,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a smooth contour, and shows high signal intensity on T2-weighted images, which is typical for endometriomas. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology. The size and location are also consistent with the known clinical history of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-039,cyst,irrelevant,real,none,ref,yes,-0.125,4bddc41048bdf86e,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region in several slices. This is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a characteristic appearance on T2-weighted images.
+
+Final Answer: yes"
+D2-039,cyst,irrelevant,real,knee,ref,yes,-1.125,4bddc41048bdf86e,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled endometriomas. 
+
+In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region (slice 1-36). This lesion is hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion's location in the left adnexal region and its appearance on the MRI are consistent with the typical findings of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-039,cyst,irrelevant,real,pain,ref,yes,-0.125,4bddc41048bdf86e,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion with a thickened wall and internal septations, which is characteristic of an endometrioma. In the provided slices, we observe a well-defined, cystic lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion has a thickened wall and internal septations, which are typical findings in endometriomas. The presence of this lesion in the left adnexal region, along with the patient's history of chronic pelvic pain, supports the diagnosis of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-039,cyst,known,real,known_em,ref,yes,2.6250000596046448,4bddc41048bdf86e,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content within the cystic fluid. There is no evidence of solid components or heterogeneous signal intensity that would suggest a different pathology. The lesion's location and appearance are consistent with the known clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-042,cyst,irrelevant,real,none,ref,yes,-0.625,786bbf913f712764,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically of intermediate signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible on the left and right sides of the pelvis.
+2. There is a cystic lesion in the left ovary (slice 18-20) that appears to have a mixed signal intensity, which is consistent with the appearance of an endometrioma.
+3. The right ovary appears normal without any cystic lesions.
+
+The presence of a cystic lesion in the left ovary with mixed signal intensity is suggestive of an endometrioma. However, a definitive diagnosis would require correlation with other imaging sequences (e.g., T1-weighted images) and clinical history.
+
+Final Answer: yes"
+D2-042,cyst,irrelevant,real,knee,ref,yes,-1.4999999403953552,786bbf913f712764,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a ""target sign"" if the fluid levels are different.
+
+In the provided slices, we observe a cystic lesion in the left adnexal region (slice 18-20) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion has a well-defined wall and shows internal septations, which are typical findings in endometriomas.
+
+Final Answer: yes"
+D2-042,cyst,irrelevant,real,pain,ref,yes,-0.75,786bbf913f712764,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically isointense to muscle on T2-weighted images. In the provided slices, we can observe the following:
+
+1. The ovaries are visible on the left and right sides of the pelvis.
+2. There is a well-defined, cystic lesion in the right ovary (slice 14-20) that appears to be isointense to muscle on T2-weighted images.
+3. The lesion has a smooth wall and is located in the expected location of the right ovary.
+4. There is no evidence of a similar lesion in the left ovary.
+
+Given these observations, the right ovary contains a cystic lesion that is consistent with the appearance of an endometrioma. Therefore, based on the provided images, we can conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-042,cyst,known,real,known_em,ref,yes,1.9999999403953552,786bbf913f712764,"To determine if there is an ovarian endometrioma, we need to look for a well-defined, unilocular cystic lesion with a thickened wall, typically located in the pelvis, and often with a hypointense rim on T2-weighted images. The lesion should also have a heterogeneous internal signal, often with areas of high signal intensity, which is indicative of hemorrhagic or necrotic material.
+
+In the provided slices, we can observe a lesion in the left adnexal region that appears to be a cystic structure with a thickened wall and a hypointense rim, which is consistent with the appearance of an endometrioma. The lesion also has areas of high signal intensity, which could be indicative of hemorrhagic or necrotic material within the cyst.
+
+Given the clinical history of a known ovarian endometrioma and the MRI findings, it is reasonable to conclude that the lesion in the left adnexal region is consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-043,negative,irrelevant,real,none,ref,yes,-2.2500000298023224,a1e595b2e6df2c73,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can see the ovaries on the right and left sides of the pelvis. 
+
+- The right ovary appears to be normal in size and shape, with no obvious cystic lesion.
+- The left ovary, however, shows a well-defined, round, and homogenous hyperintense lesion, which is characteristic of an ovarian endometrioma on T2-weighted images.
+
+Given the presence of a hyperintense, cystic lesion in the left ovary, which is consistent with the appearance of an endometrioma, we can conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-043,negative,irrelevant,real,knee,ref,no,-3.624999850988388,a1e595b2e6df2c73,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian enlargement**: Endometriomas are often larger than normal ovaries.
+2. **Hypointense signal on T2-weighted images**: Endometriomas typically appear as low signal intensity on T2-weighted images.
+3. **Homogeneous or heterogeneous appearance**: They can be either homogenous or heterogeneous in appearance.
+4. **Presence of septations or internal echoes**: These can be seen in endometriomas, especially if they are large or have degenerated.
+5. **Location**: They are usually found in the ovaries.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 36**: The images show the pelvic region, including the ovaries. The ovaries appear to be of normal size and shape, and there is no evidence of a mass or abnormality that would suggest an endometrioma.
+
+Given the clinical history of knee pain and the absence of any findings suggestive of an endometrioma in the provided slices, it is unlikely that an endometrioma is present.
+
+Final Answer: no"
+D2-043,negative,irrelevant,real,pain,ref,yes,-2.1250000596046448,a1e595b2e6df2c73,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) lesion on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity.
+5. **No enhancement**: On contrast-enhanced MRI, endometriomas do not enhance.
+
+Analyzing the provided slices:
+
+- **Ovarian enlargement**: The ovaries appear to be enlarged in some slices.
+- **Hypointense signal**: The lesions in the ovaries appear hypointense (dark) on T2-weighted images.
+- **Well-defined margins**: The lesions have well-defined margins.
+- **Homogeneous signal**: The lesions appear to have a homogeneous signal intensity.
+- **No enhancement**: The provided images are T2-weighted, and there is no contrast-enhanced image to assess enhancement.
+
+Given the presence of enlarged ovaries with hypointense, well-defined, and homogeneous lesions, which are consistent with the appearance of an endometrioma, we can conclude that there is evidence of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-043,negative,known,real,known_em,ref,yes,1.375,a1e595b2e6df2c73,"To determine if there is an ovarian endometrioma, we need to look for a well-defined, cystic lesion in the pelvis, typically located in the ovarian region, with characteristics that suggest it contains fluid and possibly internal septations or mural nodules. In T2-weighted fat-suppressed images, endometriomas often appear as high-signal intensity lesions due to the high water content of the fluid within the cyst.
+
+Upon reviewing the provided slices, the following observations can be made:
+
+1. The images show a structure in the pelvis that appears to be an ovarian mass.
+2. The mass is located in the left adnexal region, which is consistent with the location of an ovarian endometrioma.
+3. The mass has a high signal intensity on T2-weighted images, which is characteristic of endometriomas.
+4. There are no clear internal septations or mural nodules visible in the provided slices, but the high signal intensity is a strong indicator of an endometrioma.
+
+Given the high signal intensity and the location of the mass, it is reasonable to conclude that the mass is consistent with an ovarian endometrioma. However, a definitive diagnosis would require a more comprehensive analysis, including additional imaging sequences and clinical correlation.
+
+Final Answer: yes"
+D2-044,negative,irrelevant,real,none,ref,yes,-0.2500000596046448,01842d361783c905,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+- The ovaries are visible in the lower part of the pelvis.
+- There is a cystic lesion in the right ovary (slice 1-10) that appears hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+- The lesion maintains its appearance in subsequent slices (slice 11-34), indicating it is likely a stable lesion.
+
+Given the hyperintense appearance of the lesion in the right ovary, the presence of a cystic structure, and the stability of the lesion, it is reasonable to conclude that the lesion is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-044,negative,irrelevant,real,knee,ref,yes,-1.4999999403953552,01842d361783c905,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 1-20) that appears to have high signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour. The right ovary appears normal in these slices.
+
+However, the clinical history provided is of knee pain, which is not typically associated with ovarian endometriomas. The presence of knee pain might suggest a different diagnosis or a need for further investigation, but based on the MRI findings alone, we can identify a cystic lesion in the left ovary that is consistent with an endometrioma.
+
+Final Answer: yes"
+D2-044,negative,irrelevant,real,pain,ref,yes,-0.5,01842d361783c905,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on the MRI images:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) lesion on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity.
+5. **No enhancement**: On contrast-enhanced images, endometriomas do not enhance.
+
+Analyzing the provided slices:
+
+- **Ovarian Enlargement**: The ovaries appear to be enlarged in some slices.
+- **Hypointense Signal**: The lesions in the ovaries appear hypointense (dark) on T2-weighted images.
+- **Well-defined Margins**: The lesions have well-defined margins.
+- **Homogeneous Signal**: The lesions appear to have a homogeneous signal intensity.
+- **No Enhancement**: Since this is a T2-weighted image, we cannot comment on enhancement.
+
+Given the presence of hypointense, well-defined, and homogeneous lesions in the ovaries, which are consistent with the appearance of an endometrioma, and considering the clinical history of chronic pelvic pain, it is reasonable to conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-044,negative,known,real,known_em,ref,yes,2.5000000596046448,01842d361783c905,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a smooth contour, and shows high signal intensity on T2-weighted images, which is typical for endometriomas. There is no evidence of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-045,cyst,irrelevant,real,none,ref,yes,-1.0000000596046448,cf3add1463012e26,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. 
+
+In the provided slices, we can observe the following:
+
+- The ovaries are visible in the lower pelvic region.
+- There is a well-defined, round, and homogenous hyperintense lesion in the right ovary in SLICE 18, SLICE 19, and SLICE 20.
+- The lesion appears to be of similar signal intensity to the uterine cavity, which is consistent with the appearance of an endometrioma.
+
+Given the location, size, and signal characteristics of the lesion, it is highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-045,cyst,irrelevant,real,knee,ref,yes,-1.9999999403953552,cf3add1463012e26,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a lesion in the right ovary that appears to be cystic and hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is located in the right adnexal region and has a well-defined border, which is also characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-045,cyst,irrelevant,real,pain,ref,yes,-1.1250001192092896,cf3add1463012e26,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) area on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The signal should be homogeneous within the lesion.
+5. **No enhancement**: On contrast-enhanced MRI, endometriomas do not enhance.
+
+Analyzing the provided slices:
+
+- **Ovarian enlargement**: The ovaries appear enlarged in some slices.
+- **Hypointense signal**: The lesions in the ovaries appear hypointense on T2-weighted images.
+- **Well-defined margins**: The lesions have well-defined margins.
+- **Homogeneous signal**: The lesions appear homogeneous in signal intensity.
+- **No enhancement**: The provided images are T2-weighted, and there is no contrast-enhanced imaging to assess enhancement.
+
+Given the presence of enlarged ovaries with hypointense, well-defined, and homogeneous lesions, which are consistent with the appearance of an endometrioma, we can conclude that there is evidence of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-045,cyst,known,real,known_em,ref,yes,2.2499998807907104,cf3add1463012e26,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. There is no significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-046,negative,irrelevant,real,none,ref,yes,-0.625,848783a8a31379b2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a lesion in the left ovary (slice 1-10) that appears to be cystic and hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region and has a well-defined border, which is also typical for endometriomas.
+
+However, it is important to note that the diagnosis of an endometrioma should be confirmed by a radiologist and possibly by other imaging modalities or biopsy. The presence of a cystic lesion in the ovary that is hyperintense on T2-weighted images is a strong indicator of an endometrioma, but it is not definitive without further evaluation.
+
+Final Answer: yes"
+D2-046,negative,irrelevant,real,knee,ref,yes,-1.75,848783a8a31379b2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a size that is typical for an endometrioma, which can range from a few millimeters to several centimeters in diameter.
+
+The clinical history of knee pain is not directly related to the presence of an ovarian endometrioma, but it is important to consider other potential causes of knee pain in the differential diagnosis.
+
+Final Answer: yes"
+D2-046,negative,irrelevant,real,pain,ref,yes,-0.7500000596046448,848783a8a31379b2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a well-defined, round, and homogenous hyperintense lesion in the right adnexal region in SLICE 10, SLICE 11, and SLICE 12. This lesion is consistent with the appearance of an endometrioma. The lesion is located in the right ovary and has a smooth contour, which is typical for endometriomas. The surrounding tissue appears normal, and there are no signs of adhesions or other abnormalities that would suggest a different pathology.
+
+Final Answer: yes"
+D2-046,negative,known,real,known_em,ref,yes,2.1250000596046448,848783a8a31379b2,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. The lesion's size and location are also consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-047,negative,irrelevant,real,none,ref,yes,0.125,075b7c25af1450a0,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left ovary and has a smooth contour, which is also characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-047,negative,irrelevant,real,knee,ref,yes,-0.875,075b7c25af1450a0,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a ""target sign"" if the fluid levels are different.
+
+In the provided slices, we observe a well-defined, cystic lesion in the left adnexal region (slice 15-20) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a smooth wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-047,negative,irrelevant,real,pain,ref,yes,0.125,075b7c25af1450a0,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a well-defined, cystic lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is hyperintense on T2-weighted images, which is typical for endometriomas. There are no signs of significant internal septations or complex internal structures that would suggest a different pathology.
+
+Given the clinical history of chronic pelvic pain and the imaging findings, it is reasonable to conclude that the lesion in the left adnexal region is consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-047,negative,known,real,known_em,ref,yes,2.7499999403953552,075b7c25af1450a0,"To determine the presence of an ovarian endometrioma, we need to look for a well-defined, unilocular cystic lesion with a thickened wall, often with internal septations, and typically located in the pelvis. The lesion should be isointense to slightly hyperintense on T2-weighted images.
+
+In the provided slices, we observe a well-defined, unilocular cystic lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is isointense to slightly hyperintense on T2-weighted images, which is typical for endometriomas. There are no signs of significant wall thickening or internal septations that would suggest a more complex lesion.
+
+Given the clinical history of known ovarian endometrioma and the MRI findings, it is reasonable to conclude that the lesion in the left adnexal region is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-048,negative,irrelevant,real,none,ref,yes,-0.5000000596046448,995e46cd0128d325,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 1-20) which shows high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas. 
+
+However, it is important to note that the diagnosis of an endometrioma should be confirmed by a radiologist and possibly by other imaging modalities or biopsy. The presence of a high-signal intensity cystic lesion in the ovary is a strong indicator, but not definitive without further evaluation.
+
+Final Answer: yes"
+D2-048,negative,irrelevant,real,knee,ref,no,-2.0,995e46cd0128d325,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal**: The endometrioma typically appears as a hypointense (dark) area on T2-weighted images.
+3. **Well-defined margins**: The lesion should have well-defined margins.
+4. **Homogeneous signal**: The signal intensity should be homogeneous within the lesion.
+5. **No enhancement**: On fat-suppressed images, the lesion should not enhance.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 20**: The ovaries are not clearly visible in these slices, likely due to the position of the slices.
+- **Slice 21 to Slice 36**: The ovaries are visible, but the images are not clear enough to definitively identify an endometrioma. The signal intensity and homogeneity are not clearly discernible.
+
+Given the limited clarity and the lack of definitive evidence of an endometrioma in the provided slices, it is not possible to make a definitive diagnosis of an ovarian endometrioma.
+
+Final Answer: no"
+D2-048,negative,irrelevant,real,pain,ref,no,-0.5,995e46cd0128d325,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense rim**: A thin, hypointense (dark) rim around the lesion.
+3. **Hypointense center**: A central area of hypointensity (darkness) within the lesion.
+4. **Homogeneous signal**: The lesion should have a homogeneous signal intensity on T2-weighted images.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 10**: The ovaries are not clearly visible, and the images are too dark to discern any abnormalities.
+- **Slice 11 to Slice 20**: The ovaries are still not clearly visible, and the images are too dark to discern any abnormalities.
+- **Slice 21 to Slice 36**: The ovaries are still not clearly visible, and the images are too dark to discern any abnormalities.
+
+Given the lack of clear visibility of the ovaries and the inability to discern any of the typical characteristics of an endometrioma, it is not possible to make a definitive diagnosis of an ovarian endometrioma based on the provided slices.
+
+Final Answer: no"
+D2-048,negative,known,real,known_em,ref,yes,2.4999998807907104,995e46cd0128d325,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass has a high signal intensity on T2-weighted images, which is characteristic of endometriomas due to the presence of fluid and blood products. There is no evidence of significant enhancement on the provided images, which is also consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-049,negative,irrelevant,real,none,ref,yes,-1.6249999403953552,da0cd3d8240b5f9c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe the following:
+
+1. The ovaries are visible on the left and right sides of the pelvis.
+2. There is a cystic lesion in the right ovary (slice 1-20) that appears hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+3. The lesion maintains its shape and position in the subsequent slices, indicating it is likely a cystic structure.
+4. The surrounding tissue appears normal, without any signs of inflammation or abnormal enhancement.
+
+Given these observations, it is reasonable to conclude that the lesion in the right ovary is consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-049,negative,irrelevant,real,knee,ref,yes,-2.7499999403953552,da0cd3d8240b5f9c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a ""target sign"" if the fluid levels are different.
+
+In the provided slices, there is a lesion in the left ovary that appears to be cystic and hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for an endometrioma. There are no visible internal septations or a ""target sign"" in these slices, but the presence of a single hyperintense lesion in the ovary is a strong indicator of an endometrioma.
+
+Final Answer: yes"
+D2-049,negative,irrelevant,real,pain,ref,yes,-1.25,da0cd3d8240b5f9c,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian enlargement**: The ovaries should appear larger than normal.
+2. **Hypointense signal on T2-weighted images**: Endometriomas typically appear as low signal intensity on T2-weighted images.
+3. **Homogeneous or heterogeneous appearance**: Endometriomas can be either homogenous or heterogeneous in appearance.
+4. **Presence of septations or calcifications**: These are less common but can be seen in some cases.
+5. **Location**: The lesion should be located within the ovarian parenchyma.
+
+Analyzing the provided slices:
+
+- **Ovarian Enlargement**: The ovaries appear to be enlarged in the images.
+- **Signal Intensity**: The lesions within the ovaries appear hypointense on T2-weighted images, which is consistent with endometriomas.
+- **Homogeneous or Heterogeneous Appearance**: The lesions appear to have a heterogeneous appearance, which is common in endometriomas.
+- **Presence of Septations or Calcifications**: There are no visible septations or calcifications in these images.
+- **Location**: The lesions are located within the ovarian parenchyma.
+
+Given the presence of enlarged ovaries with hypointense, heterogeneous lesions, the clinical history of chronic pelvic pain, and the absence of septations or calcifications, the findings are consistent with the presence of ovarian endometriomas.
+
+Final Answer: yes"
+D2-049,negative,known,real,known_em,ref,yes,1.9999999403953552,da0cd3d8240b5f9c,"To determine the presence of an ovarian endometrioma, we need to look for a well-defined, unilocular cystic lesion with a thickened wall, often with internal septations, and typically located in the pelvis. The lesion should be isointense to slightly hyperintense on T2-weighted images.
+
+In the provided slices, we observe a lesion in the left adnexal region that appears to be a cystic structure with a thickened wall and internal septations. The lesion is isointense to slightly hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The location and characteristics are also consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-050,negative,irrelevant,real,none,ref,yes,0.625,f17fe70af52576a9,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a well-defined, round, hypointense lesion in the left adnexal region in SLICE 10, SLICE 11, and SLICE 12. This lesion is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a smooth contour, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-050,negative,irrelevant,real,knee,ref,yes,0.125,f17fe70af52576a9,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a signal intensity that is higher than the surrounding fat, which is characteristic of an endometrioma on T2-weighted images.
+
+Final Answer: yes"
+D2-050,negative,irrelevant,real,pain,ref,yes,0.875,f17fe70af52576a9,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled spaces. In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma.
+
+The lesion is located in the left ovary, which is a common site for endometriomas. The homogeneity and the lack of internal septations or calcifications are also consistent with a simple cyst, which is a common presentation of an endometrioma.
+
+Final Answer: yes"
+D2-050,negative,known,real,known_em,ref,yes,3.1250000596046448,f17fe70af52576a9,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, has a smooth contour, and is of similar signal intensity to the surrounding ovarian tissue, which is typical for an endometrioma. The presence of a fluid-fluid level within the lesion is also suggestive of an endometrioma, as this is a common finding in these lesions. The clinical history of known ovarian endometrioma supports the diagnosis.
+
+Final Answer: yes"
+D2-051,negative,irrelevant,real,none,ref,yes,-0.125,04715f2dd76ff079,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the right adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the right ovary and has a size that is consistent with a typical endometrioma. There is no evidence of a similar lesion in the left adnexal region.
+
+Final Answer: yes"
+D2-051,negative,irrelevant,real,knee,ref,yes,-1.3750001192092896,04715f2dd76ff079,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the right adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the right ovary and has a characteristic appearance on T2-weighted images.
+
+Final Answer: yes"
+D2-051,negative,irrelevant,real,pain,ref,yes,0.125,04715f2dd76ff079,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion with a thickened wall and internal septations, which is characteristic of an endometrioma. In the provided slices, we observe a well-defined, cystic lesion in the right adnexal region, which is consistent with the appearance of an endometrioma. The lesion has a thickened wall and internal septations, which are typical findings in endometriomas. The location in the right adnexal region is also consistent with the clinical presentation of chronic pelvic pain.
+
+Final Answer: yes"
+D2-051,negative,known,real,known_em,ref,yes,2.6250001192092896,04715f2dd76ff079,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology.
+
+Final Answer: yes"
+D2-052,negative,irrelevant,real,none,ref,yes,-1.0,51dc250164422df2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a lesion in the left ovary that appears to be cystic and hyperintense, which is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region and has a well-defined border, which is also characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-052,negative,irrelevant,real,knee,ref,yes,-2.625,51dc250164422df2,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. In the provided slices, we observe a cystic lesion in the left ovary (slice 14-20) with high signal intensity, which is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region and has a well-defined border, which is typical for endometriomas.
+
+Final Answer: yes"
+D2-052,negative,irrelevant,real,pain,ref,yes,-1.0,51dc250164422df2,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An endometrioma typically appears as a well-defined, unilocular cystic mass.
+2. **Homogeneous Signal**: On T2-weighted images, endometriomas often have a homogenous, high signal intensity.
+3. **Location**: The mass should be located within the ovarian fossa.
+4. **Size and Shape**: The mass should be of a size and shape consistent with an ovarian cyst.
+5. **Internal Structure**: There should be no internal septations or solid components.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 30**: The images show a well-defined, unilocular cystic mass in the left ovarian fossa. The signal intensity is high on T2-weighted images, which is consistent with an endometrioma.
+- **Slice 31 to Slice 38**: The mass maintains its appearance, with no internal septations or solid components visible.
+
+Given the consistent appearance of a well-defined, unilocular cystic mass with high signal intensity on T2-weighted images, the findings are consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-052,negative,known,real,known_em,ref,yes,2.3749998807907104,51dc250164422df2,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a cystic appearance with a slightly higher signal intensity compared to the surrounding fat, and shows no significant enhancement on the provided images. The size and location are also consistent with the known clinical history of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-053,negative,irrelevant,real,none,ref,yes,0.125,4fd8001d21f9934c,"The images provided are T2-weighted fat-suppressed MRI slices of the female pelvis. In T2-weighted images, endometriomas (cystic lesions containing fluid) typically appear as high signal intensity (bright) lesions. The images show a well-defined, round, and homogenous lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region, which is a common location for endometriomas. The lesion's signal intensity is high on T2-weighted images, which is also consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-053,negative,irrelevant,real,knee,ref,yes,-1.0000000596046448,4fd8001d21f9934c,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas due to the presence of blood products and fluid.
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 1-36). The lesion has a high signal intensity on T2-weighted images, which is consistent with the presence of blood products and fluid. This is a strong indicator of an endometrioma.
+
+Final Answer: yes"
+D2-053,negative,irrelevant,real,pain,ref,yes,0.125,4fd8001d21f9934c,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian mass**: An ovarian mass is present in the image.
+2. **Hypointense rim**: There is a hypointense rim around the mass, which is a common feature of endometriomas.
+3. **Heterogeneous internal signal**: The mass has a heterogeneous internal signal, which is typical for endometriomas.
+4. **No enhancement on contrast**: Since this is a T2-weighted fat-suppressed image, we should not see enhancement on contrast, which is a key feature of endometriomas.
+
+In the provided slices, we can observe:
+- A well-defined mass in the left adnexal region.
+- A hypointense rim around the mass.
+- Heterogeneous internal signal within the mass.
+- No enhancement on contrast, which is consistent with the T2-weighted fat-suppressed image.
+
+Given these observations, the imaging findings are consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-053,negative,known,real,known_em,ref,yes,3.0000000596046448,4fd8001d21f9934c,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the presence of fluid and blood products. There is no evidence of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region, which is consistent with the known clinical history of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-055,negative,irrelevant,real,none,ref,yes,0.875,8669e320827a273d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the right ovary in several slices (e.g., SLICE 14, SLICE 15, SLICE 16, SLICE 17, SLICE 18, SLICE 19, SLICE 20, SLICE 21, SLICE 22, SLICE 23, SLICE 24, SLICE 25, SLICE 26, SLICE 27, SLICE 28, SLICE 29, SLICE 30, SLICE 31, SLICE 32, SLICE 33, SLICE 34, SLICE 35, SLICE 36, and SLICE 37). This appearance is consistent with the typical findings of an endometrioma.
+
+Final Answer: yes"
+D2-055,negative,irrelevant,real,knee,ref,yes,-0.125,8669e320827a273d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and shows high signal intensity on T2-weighted images, which is characteristic of endometriomas.
+
+Final Answer: yes"
+D2-055,negative,irrelevant,real,pain,ref,yes,0.5,8669e320827a273d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion with a thickened wall and internal septations, which is characteristic of an endometrioma. In the provided slices, we observe a well-defined, cystic lesion in the left adnexal region (slice 14-21) that appears to have a thickened wall and internal septations. This is consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-055,negative,known,real,known_em,ref,yes,2.7499999403953552,8669e320827a273d,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a high signal intensity on T2-weighted images, and shows no significant enhancement on the provided images. These findings are typical for an endometrioma, which is a cystic lesion that contains endometrial tissue and is often found in the ovaries.
+
+Final Answer: yes"
+D2-056,cyst,irrelevant,real,none,ref,yes,-0.625,636f16a772959a49,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with a high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+- The ovaries are visible in the lower pelvic region.
+- There is a cystic lesion in the left ovary (slice 17-24) with high signal intensity on T2-weighted images, which is consistent with the appearance of an endometrioma.
+- The right ovary appears normal without any cystic lesions.
+
+Given the high signal intensity of the cystic lesion in the left ovary, which is characteristic of an endometrioma, and the absence of any similar findings in the right ovary, we can conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-056,cyst,irrelevant,real,knee,ref,yes,-1.6249999403953552,636f16a772959a49,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+- The ovaries are visible in the lower pelvic region.
+- There is a cystic lesion in the left ovary (slice 17-24) with high signal intensity on T2-weighted images, which is consistent with the appearance of an endometrioma.
+- The right ovary appears normal without any cystic lesions.
+
+Given the high signal intensity of the cystic lesion in the left ovary, which is characteristic of an endometrioma, and the absence of any similar findings in the right ovary, we can conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-056,cyst,irrelevant,real,pain,ref,yes,-0.625,636f16a772959a49,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 17-24) with high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-056,cyst,known,real,known_em,ref,yes,2.1249998807907104,636f16a772959a49,"To determine if there is an ovarian endometrioma, we need to look for a well-defined, often complex, cystic lesion in the pelvis, typically located in the ovarian region. The lesion should have a heterogeneous signal intensity on T2-weighted images, which is characteristic of endometriomas due to the presence of blood products and fibrosis.
+
+In the provided slices, we observe a lesion in the left adnexal region (slice 17-24) that appears to be a cystic structure with a heterogeneous signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a complex internal structure, which is typical for endometriomas. The signal intensity is higher than that of the surrounding fat, which is also consistent with the presence of blood products and fibrosis.
+
+Given the clinical history of a known ovarian endometrioma and the MRI findings, it is reasonable to conclude that the lesion in the left adnexal region is indeed an endometrioma.
+
+Final Answer: yes"
+D2-057,negative,irrelevant,real,none,ref,yes,-0.8750000596046448,327d45ea36a0aeab,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with a mixed signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower pelvic region.
+2. There is a cystic lesion in the left ovary (slice 1-40) with a mixed signal intensity, which is consistent with the appearance of an endometrioma.
+3. The right ovary appears normal without any cystic lesions.
+4. The signal intensity of the lesion is consistent with the appearance of an endometrioma, which typically shows a mixed signal intensity on T2-weighted images.
+
+Final Answer: yes"
+D2-057,negative,irrelevant,real,knee,ref,yes,-2.3749998807907104,327d45ea36a0aeab,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can see a lesion in the left adnexal region that appears to be cystic and hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. However, the presence of a single lesion does not definitively diagnose an endometrioma, as other cystic lesions can have a similar appearance. Additionally, the clinical history of knee pain is not directly related to the presence of an ovarian endometrioma, but it is important to consider other possible causes of knee pain.
+
+Final Answer: yes"
+D2-057,negative,irrelevant,real,pain,ref,yes,-1.0,327d45ea36a0aeab,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An ovarian mass is present.
+2. **Hypointense Signal**: The mass should have a hypointense signal on T2-weighted images, which is typical for endometriomas.
+3. **Well-Defined**: The mass should be well-defined.
+4. **Homogeneous**: The mass should be homogeneous in signal intensity.
+5. **No Enhancement**: There should be no enhancement on contrast-enhanced images (not provided here).
+
+Analyzing the slices:
+
+- **Slice 1 to Slice 44**: The images show a well-defined, homogeneous, hypointense mass in the left adnexal region, which is consistent with the appearance of an endometrioma. There is no enhancement seen in these images, which is also consistent with an endometrioma.
+
+Final Answer: yes"
+D2-057,negative,known,real,known_em,ref,yes,1.5,327d45ea36a0aeab,"To determine the presence of an ovarian endometrioma, we need to look for a well-defined, often complex, cystic lesion in the pelvis, typically located in the ovarian region. The lesion should have a heterogeneous signal intensity on T2-weighted images, which is characteristic of endometriomas due to the presence of blood products and debris.
+
+In the provided slices, we observe a lesion in the left adnexal region (slice 1-44) that appears to be a cystic structure with a heterogeneous signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a complex internal structure, which is typical for endometriomas.
+
+Final Answer: yes"
+D2-058,negative,irrelevant,real,none,ref,yes,0.625,2cf9fa27fafe7ed7,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 16-24) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-058,negative,irrelevant,real,knee,ref,yes,0.125,2cf9fa27fafe7ed7,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 16-24) with high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-058,negative,irrelevant,real,pain,ref,yes,0.625,2cf9fa27fafe7ed7,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, endometriomas often have a well-defined wall and may show internal septations or nodules.
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 16-24) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion has a well-defined wall and internal septations, which are also typical findings for endometriomas.
+
+Final Answer: yes"
+D2-058,negative,known,real,known_em,ref,yes,2.5,2cf9fa27fafe7ed7,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass has a high signal intensity on T2-weighted images, which is characteristic of endometriomas due to the presence of fluid and blood products. There is no evidence of significant enhancement on the provided images, which is also consistent with the typical appearance of an endometrioma.
+
+The patient's clinical history of known ovarian endometrioma supports the diagnosis. The follow-up nature of the study suggests that the mass is being monitored for any changes in size or characteristics.
+
+Final Answer: yes"
+D2-059,negative,irrelevant,real,none,ref,yes,-0.5,06b85d2bfbdd6eab,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+- The ovaries are visible in the lower pelvic region.
+- There is a well-defined, round, and homogenous lesion in the right ovary in SLICE 16, SLICE 17, and SLICE 18, which appears hyperintense on T2-weighted images.
+- The lesion in the right ovary is consistent with the appearance of an endometrioma, which is often seen as a cystic lesion with a thickened wall and internal septations.
+
+The left ovary does not show any significant abnormality in the provided slices.
+
+Final Answer: yes"
+D2-059,negative,irrelevant,real,knee,ref,yes,-1.8749999403953552,06b85d2bfbdd6eab,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid-filled endometriomas. Additionally, the lesion should have a well-defined wall and may show internal septations or a ""target sign"" (a dark rim with a bright center).
+
+In the provided slices, there is a lesion in the left ovary (slice 16-20) that appears cystic and hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion has a well-defined wall and shows internal septations, which are also typical findings in endometriomas.
+
+Final Answer: yes"
+D2-059,negative,irrelevant,real,pain,ref,yes,-0.75,06b85d2bfbdd6eab,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An ovarian mass is present.
+2. **Hypointense Signal**: The mass should have a hypointense signal on T2-weighted images, which is typical for endometriomas.
+3. **Well-Defined**: The mass should be well-defined.
+4. **Homogeneous**: The mass should be homogeneous in signal intensity.
+5. **No Enhancement**: There should be no enhancement on contrast-enhanced images (not provided here).
+
+Analyzing the slices:
+
+- **Slice 1 to Slice 15**: The images show the pelvis with the uterus and ovaries. There is a well-defined, hypointense mass in the left adnexal region, which is consistent with the appearance of an endometrioma.
+- **Slice 16 to Slice 34**: The mass remains visible and consistent in appearance, maintaining the hypointense signal on T2-weighted images.
+
+Given the consistent appearance of a well-defined, hypointense mass in the left adnexal region, which is typical for an endometrioma, and the absence of any other significant findings that would suggest a different diagnosis, we can conclude that there is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-059,negative,known,real,known_em,ref,yes,2.25,06b85d2bfbdd6eab,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a smooth contour, and shows intermediate signal intensity on T2-weighted images, which is typical for endometriomas. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology.
+
+Final Answer: yes"
+D2-060,negative,irrelevant,real,none,ref,yes,-0.9999999403953552,b15e384703f57137,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower pelvic region.
+2. There is a cystic lesion in the left ovary (slice 1-20) which appears hyperintense on T2-weighted images.
+3. The lesion maintains its hyperintensity in subsequent slices (slice 21-38), indicating it is likely a fluid-filled cyst.
+4. The size and location of the lesion are consistent with an ovarian cyst.
+
+Given the hyperintense appearance of the cystic lesion in the left ovary, the consistent hyperintensity across multiple slices, and the location in the ovary, it is reasonable to conclude that this is an ovarian endometrioma.
+
+Final Answer: yes"
+D2-060,negative,irrelevant,real,knee,ref,yes,-2.2499998807907104,b15e384703f57137,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with a mixed signal intensity on T2-weighted images, which is characteristic of endometriomas. These lesions often have a ""target sign"" or ""bull's eye"" appearance, with a hypointense rim and a hyperintense center.
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible in the lower pelvic region.
+2. There is a cystic lesion in the right ovary (slice 1-24) that appears to have a hypointense rim and a hyperintense center, which is suggestive of a target sign.
+3. The left ovary appears normal without any cystic lesions.
+
+The target sign is a strong indicator of an endometrioma. However, it is important to note that the diagnosis of an endometrioma should be confirmed with additional imaging, such as contrast-enhanced MRI or ultrasound, and clinical correlation.
+
+Final Answer: yes"
+D2-060,negative,irrelevant,real,pain,ref,yes,-1.125,b15e384703f57137,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian mass**: An ovarian mass is present in the image.
+2. **Hypointense signal on T2-weighted images**: The mass appears dark on T2-weighted images, which is typical for endometriomas.
+3. **Homogeneous or heterogeneous appearance**: The mass appears to have a heterogeneous appearance, which is common in endometriomas.
+4. **Presence of internal septations**: There are internal septations visible within the mass, which is another characteristic of endometriomas.
+5. **No enhancement on contrast-enhanced images**: Since the images provided are T2-weighted fat-suppressed images, we cannot assess enhancement. However, the presence of internal septations and the dark signal on T2-weighted images are suggestive of an endometrioma.
+
+Given the visual evidence, the mass has a heterogeneous appearance, is hypointense on T2-weighted images, and has internal septations, which are all consistent with an endometrioma.
+
+Final Answer: yes"
+D2-060,negative,known,real,known_em,ref,yes,2.125,b15e384703f57137,"The provided MRI slices show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content of the fluid-filled cyst. There is no evidence of solid components or heterogeneous signal intensity that would suggest a different pathology. The size and location are also consistent with an ovarian mass, and the patient's clinical history of known ovarian endometrioma supports this diagnosis.
+
+Final Answer: yes"
+D2-061,negative,irrelevant,real,none,ref,no,0.375,2122d77276c366df,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with a high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the right ovary (slice 1-20) which appears to have a high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. However, the presence of a high signal intensity on T2-weighted images alone is not definitive for an endometrioma, as other cystic lesions can also have this appearance. 
+
+In slices 21-42, the lesion in the right ovary appears to have a lower signal intensity, which is less characteristic of an endometrioma. This could be due to the fact that the endometrioma is in a different phase of its cycle, or it could be a different type of cystic lesion.
+
+Given the variability in signal intensity and the lack of definitive evidence in the later slices, it is not possible to conclusively diagnose an endometrioma based on the provided slices alone.
+
+Final Answer: no"
+D2-061,negative,irrelevant,real,knee,ref,yes,-0.75,2122d77276c366df,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics in the MRI images:
+
+1. **Ovarian Mass**: An endometrioma typically appears as a well-defined, unilocular cystic mass.
+2. **Homogeneous Signal**: The signal intensity of the endometrioma is usually homogenous, often appearing as a high signal on T2-weighted images.
+3. **No Wall Thickening**: The wall of the endometrioma is usually thin and smooth.
+4. **No Internal Complexities**: There should be no internal septations or solid components within the cyst.
+5. **Location**: The mass should be located within the ovarian fossa.
+
+Analyzing the provided slices:
+
+- **Slice 1 to Slice 20**: The images show a well-defined, unilocular cystic mass in the left adnexal region, which is consistent with the location of an ovarian mass.
+- **Slice 21 to Slice 42**: The mass maintains a homogenous signal on T2-weighted images, and there are no visible wall thickening or internal complexities.
+
+Given the homogenous signal, the unilocular nature, and the location within the left adnexal region, these findings are consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-061,negative,irrelevant,real,pain,ref,yes,0.25,2122d77276c366df,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 18-24) with high signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour, which is typical for endometriomas. The presence of this lesion in the left ovary, along with the patient's history of chronic pelvic pain, supports the diagnosis of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-061,negative,known,real,known_em,ref,yes,3.1250000596046448,2122d77276c366df,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, has a smooth contour, and is surrounded by a thin rim of low signal intensity, which is typical for endometriomas. The lesion's size and signal characteristics are also consistent with the known clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-062,negative,irrelevant,real,none,ref,yes,-0.125,fa669b8dce7201aa,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a well-defined, round, hypointense lesion in the left adnexal region in several slices (e.g., SLICE 16, SLICE 17, SLICE 18, etc.). This appearance is consistent with the typical appearance of an endometrioma on T2-weighted images.
+
+Final Answer: yes"
+D2-062,negative,irrelevant,real,knee,ref,yes,-1.125,fa669b8dce7201aa,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a size that is typical for an endometrioma, which can range from a few millimeters to several centimeters in diameter.
+
+The clinical history of knee pain is not directly related to the presence of an ovarian endometrioma, but it could be a symptom of a different condition that might be related to the patient's overall health or a secondary symptom of the endometrioma.
+
+Final Answer: yes"
+D2-062,negative,irrelevant,real,pain,ref,yes,-0.25,fa669b8dce7201aa,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. These lesions often have a complex appearance with internal septations and may show enhancement on contrast-enhanced images.
+
+In the provided slices, we observe a well-defined, cystic lesion in the left adnexal region. The lesion is hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion has a complex internal structure with septations, which is also typical of endometriomas.
+
+Given the clinical history of chronic pelvic pain and the imaging findings, it is reasonable to conclude that the lesion in the left adnexal region is likely an ovarian endometrioma.
+
+Final Answer: yes"
+D2-062,negative,known,real,known_em,ref,yes,2.7500000596046448,fa669b8dce7201aa,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. The lesion's size and location are also consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-064,negative,irrelevant,real,none,ref,yes,0.25,e5239115759a40b1,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 1-10) which appears to be hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+However, it is important to note that the diagnosis of an endometrioma should be confirmed by a radiologist and may require additional imaging or clinical correlation. The presence of a hyperintense cystic lesion in the ovary is a strong indicator, but a definitive diagnosis should be made by a medical professional.
+
+Final Answer: yes"
+D2-064,negative,irrelevant,real,knee,ref,yes,-0.4999999403953552,e5239115759a40b1,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a characteristic appearance on T2-weighted images.
+
+Final Answer: yes"
+D2-064,negative,irrelevant,real,pain,ref,yes,0.125,e5239115759a40b1,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the lesion. Additionally, the lesion should have a well-defined margin and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a well-defined, cystic lesion in the right ovary (slice 10-15) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion has a smooth margin and does not show any significant internal septations or complex features that would suggest a different pathology.
+
+Final Answer: yes"
+D2-064,negative,known,real,known_em,ref,yes,2.9999998807907104,e5239115759a40b1,"The images provided show a large, well-defined, and homogenous mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, has a cystic appearance with a thin wall, and is isointense to the uterine myometrium on T2-weighted images, which is typical for endometriomas. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology.
+
+Final Answer: yes"
+D2-065,negative,irrelevant,real,none,ref,yes,0.125,3b348f9a2948c0ac,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the right ovary (slice 1-10) which appears to have high signal intensity on T2-weighted images. This is consistent with the appearance of an endometrioma. However, the presence of a single lesion does not definitively diagnose an endometrioma, as other cystic lesions can have similar characteristics. 
+
+In slices 11-38, the right ovary is no longer visible, which could be due to the position of the ovary or the angle of the MRI slice. 
+
+Final Answer: yes"
+D2-065,negative,irrelevant,real,knee,ref,yes,-0.625,3b348f9a2948c0ac,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, endometriomas often have a well-defined wall and may show internal septations or a ""target sign"" on T2-weighted images.
+
+In the provided slices, we can observe the following:
+
+1. The ovaries are visible on the right and left sides of the pelvis.
+2. There is a cystic lesion in the right ovary (slice 18-20) that appears hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+3. The lesion has a well-defined wall and internal septations, which are also consistent with an endometrioma.
+
+Given these observations, it is reasonable to conclude that the right ovary contains an endometrioma.
+
+Final Answer: yes"
+D2-065,negative,irrelevant,real,pain,ref,yes,-0.25,3b348f9a2948c0ac,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian mass**: An ovarian mass is present in the image.
+2. **Hypointense rim**: Endometriomas often have a hypointense rim on T2-weighted images.
+3. **Hypointense center**: The center of the mass is typically hypointense on T2-weighted images.
+4. **Homogeneous signal**: The mass should have a homogeneous signal intensity.
+
+In the provided slices, we can observe the following:
+
+- **Ovarian mass**: There is a well-defined mass in the left adnexal region.
+- **Hypointense rim**: The mass has a hypointense rim, which is consistent with an endometrioma.
+- **Hypointense center**: The center of the mass is hypointense, which is also consistent with an endometrioma.
+- **Homogeneous signal**: The mass appears to have a relatively homogeneous signal.
+
+Given these observations, the mass in the left adnexal region is consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-065,negative,known,real,known_em,ref,yes,2.5,3b348f9a2948c0ac,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content of the fluid-filled cyst. There is no evidence of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region, which is consistent with the known clinical history of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-066,negative,irrelevant,real,none,ref,yes,-0.375,7bb26df1b1880a28,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the left ovary (slice 1-10) which appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+However, it is important to note that the presence of a hyperintense cystic lesion in the ovary does not definitively diagnose an endometrioma. Other conditions such as a dermoid cyst, ovarian cancer, or a simple ovarian cyst can also present similarly. A definitive diagnosis would require clinical correlation, patient history, and possibly additional imaging or biopsy.
+
+Final Answer: yes"
+D2-066,negative,irrelevant,real,knee,ref,yes,-1.6250000596046448,7bb26df1b1880a28,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary with high signal intensity on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a cystic lesion in the left ovary (slice 1-10) with high signal intensity, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth contour. The high signal intensity on T2-weighted images is indicative of the presence of fluid and blood products within the cyst, which is typical for endometriomas.
+
+The clinical history of knee pain is not directly related to the presence of an ovarian endometrioma, but it could be a symptom of a related condition or unrelated to the imaging findings.
+
+Final Answer: yes"
+D2-066,negative,irrelevant,real,pain,ref,yes,-0.8749999403953552,7bb26df1b1880a28,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the left ovary, which is a common site for endometriomas.
+
+The lesion's size, shape, and signal intensity are also consistent with an endometrioma. There is no evidence of a solid component or calcification, which are less common but can be seen in some endometriomas.
+
+Final Answer: yes"
+D2-066,negative,known,real,known_em,ref,yes,2.6250001192092896,7bb26df1b1880a28,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense lesion in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal area, has a smooth margin, and shows a signal intensity similar to that of a cystic lesion on T2-weighted images. There is no evidence of solid components or enhancement, which is typical for endometriomas. The patient's clinical history of known ovarian endometrioma supports the diagnosis.
+
+Final Answer: yes"
+D2-067,negative,irrelevant,real,none,ref,yes,0.25,d7bda96de5256a2a,"The images provided are T2-weighted fat-suppressed MRI slices of the female pelvis. In T2-weighted images, endometriomas (cysts containing endometrial tissue) typically appear as high signal intensity lesions due to the high water content of the endometrial tissue. 
+
+In the provided slices, there is a well-defined, round, high-signal intensity lesion located in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The lesion is located in the left adnexal region, which is the typical location for an ovarian endometrioma. The high signal intensity on T2-weighted images is also characteristic of endometriomas.
+
+Final Answer: yes"
+D2-067,negative,irrelevant,real,knee,ref,yes,-0.375,d7bda96de5256a2a,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma.
+
+The lesion is located in the left adnexal region, which is a common location for endometriomas. The homogeneity and the hyperintensity on T2-weighted images are also characteristic findings of endometriomas. There is no evidence of a mass in the right adnexal region that would suggest a separate endometrioma.
+
+Final Answer: yes"
+D2-067,negative,irrelevant,real,pain,ref,yes,0.25,d7bda96de5256a2a,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hypointense on T2-weighted images, which is consistent with the appearance of an endometrioma. In the provided slices, we observe a well-defined, round, hypointense lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a characteristic appearance on T2-weighted images.
+
+Final Answer: yes"
+D2-067,negative,known,real,known_em,ref,yes,2.9999999403953552,d7bda96de5256a2a,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology. The size and location are also consistent with a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-073,negative,irrelevant,real,none,ref,yes,-1.3750000596046448,b7da97bd89a96496,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe the following:
+
+1. The ovaries are visible on the left and right sides of the pelvis.
+2. There is a cystic lesion in the right ovary (slice 13-16) that appears hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+3. The lesion has a well-defined border and is located in the right ovary, which is a common location for endometriomas.
+4. The surrounding tissue appears normal, and there are no signs of significant inflammation or other abnormalities.
+
+Given these observations, it is reasonable to conclude that the lesion in the right ovary is consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-073,negative,irrelevant,real,knee,ref,no,-2.7499999403953552,b7da97bd89a96496,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can see a structure in the left adnexal region that appears to be a cystic lesion. It is located in the left ovary and has a signal intensity that is higher than the surrounding fat, which is characteristic of a fluid-filled cyst. However, the presence of a cystic lesion in the ovary does not definitively diagnose an endometrioma. Other cystic lesions, such as follicular cysts, dermoid cysts, or even simple cysts, can also appear similarly on MRI.
+
+Given the clinical history of knee pain and the location of the cystic lesion in the left ovary, it is important to consider the possibility of an endometrioma. However, without additional imaging sequences (such as T1-weighted images or contrast-enhanced images) and clinical correlation, it is not possible to definitively diagnose an endometrioma based on the provided T2-weighted images alone.
+
+Final Answer: no"
+D2-073,negative,irrelevant,real,pain,ref,yes,-1.4999999403953552,b7da97bd89a96496,"To determine if there is an ovarian endometrioma, we need to look for the following characteristics on MRI:
+
+1. **Ovarian mass**: An ovarian mass is present in the image.
+2. **Hypointense signal on T2-weighted images**: Endometriomas typically appear as hypointense (dark) on T2-weighted images.
+3. **Homogeneous or heterogeneous appearance**: Endometriomas can be either homogeneous or heterogeneous in appearance.
+4. **Presence of internal septations or calcifications**: These are less common but can be seen in some cases.
+5. **Size and location**: The mass should be located in the ovarian region.
+
+Analyzing the slices:
+
+- **Slice 1 to Slice 25**: The images show a mass in the right adnexal region, which is consistent with the location of an ovarian mass.
+- **Slice 26 to Slice 32**: The mass appears to be hypointense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+- **Internal structure**: There are no visible internal septations or calcifications in the mass.
+- **Size and location**: The mass is relatively large and located in the right adnexal region, which is consistent with an ovarian mass.
+
+Given the hypointense signal on T2-weighted images and the location, the mass is consistent with an endometrioma.
+
+Final Answer: yes"
+D2-073,negative,known,real,known_em,ref,yes,2.0000001192092896,b7da97bd89a96496,"To determine the presence of an ovarian endometrioma, we need to look for a well-defined, often complex, cystic lesion in the pelvis, typically located in the adnexal region. The lesion should have a heterogeneous signal intensity on T2-weighted images, with areas of high and low signal intensity, which is characteristic of the fluid and solid components of an endometrioma.
+
+In the provided slices, we observe a lesion in the left adnexal region that appears to be a cystic structure with areas of high and low signal intensity, consistent with the appearance of an endometrioma. The lesion is well-defined and has a heterogeneous signal pattern, which is typical for an endometrioma. There is also some surrounding inflammation or edema, which is common in cases of endometriosis.
+
+Given the clinical history of known ovarian endometrioma and the imaging findings, it is reasonable to conclude that the lesion in the left adnexal region is indeed an ovarian endometrioma.
+
+Final Answer: yes"
+D2-074,cyst,irrelevant,real,none,ref,yes,-0.125,623d1ac3b3196fcc,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a cystic lesion in the right ovary (slice 1-38). The lesion appears to be hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is well-defined and has a smooth wall, which is also typical for endometriomas.
+
+Final Answer: yes"
+D2-074,cyst,irrelevant,real,knee,ref,yes,-1.5000001192092896,623d1ac3b3196fcc,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a well-defined, cystic lesion in the left adnexal region, which is consistent with the appearance of an endometrioma. The lesion is hyperintense on T2-weighted images, which is typical for endometriomas. There are no clear signs of internal septations or complex internal structures that would suggest a different pathology.
+
+Given the clinical history of knee pain and the imaging findings, it is reasonable to conclude that the lesion in the left adnexal region is consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-074,cyst,irrelevant,real,pain,ref,yes,-0.125,623d1ac3b3196fcc,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the endometrioma. Additionally, the lesion should have a well-defined wall and may show internal septations or a complex appearance.
+
+In the provided slices, we observe a well-defined, cystic lesion in the right ovary (slice 19-23) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the right adnexal region and has a smooth wall, which is also typical for endometriomas.
+
+The presence of this lesion, along with the patient's history of chronic pelvic pain, strongly suggests the diagnosis of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-074,cyst,known,real,known_em,ref,yes,2.7499999403953552,623d1ac3b3196fcc,"The provided MRI slices show a well-defined, homogenous, and slightly hyperintense mass in the left adnexal region, which is consistent with the appearance of an ovarian endometrioma. The mass is located in the left adnexal area, and its signal intensity is higher than that of the surrounding fat, which is typical for endometriomas on T2-weighted images. There is no evidence of significant enhancement or heterogeneous signal intensity that would suggest a different pathology. The size and location are also consistent with a known ovarian endometrioma.
+
+Final Answer: yes"
+D2-075,cyst,irrelevant,real,none,ref,yes,1.125,8f99e9b61024e08a,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we can observe a well-defined, round, and homogenous hyperintense lesion in the right ovary in several slices (e.g., SLICE 10, SLICE 11, SLICE 12, etc.). This appearance is consistent with the typical appearance of an endometrioma on T2-weighted images.
+
+The lesion's location in the right ovary, its size, and the homogenous hyperintense signal are all consistent with the imaging findings of an endometrioma. There is no evidence of a similar lesion in the left ovary in these slices.
+
+Final Answer: yes"
+D2-075,cyst,irrelevant,real,knee,ref,yes,-0.125,8f99e9b61024e08a,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, endometriomas often have a well-defined wall and may show internal septations or nodules.
+
+In the provided slices, we observe a well-defined, cystic lesion in the right adnexal region (slice 10-15). This lesion is hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion also shows internal septations, which are common in endometriomas.
+
+Given the clinical history of knee pain and the imaging findings, it is reasonable to conclude that the lesion in the right adnexal region is consistent with an ovarian endometrioma.
+
+Final Answer: yes"
+D2-075,cyst,irrelevant,real,pain,ref,yes,1.25,8f99e9b61024e08a,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of fluid within the cyst. Additionally, endometriomas often have a well-defined wall and may show internal septations or nodules.
+
+In the provided slices, we observe a well-defined, cystic lesion in the right ovary (slice 10-15) that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the right adnexal region and has a smooth wall, which is also typical for endometriomas.
+
+The presence of this lesion, along with the patient's history of chronic pelvic pain, strongly suggests the diagnosis of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-075,cyst,known,real,known_em,ref,yes,3.2499998211860657,8f99e9b61024e08a,"The provided MRI slices show a well-defined, round, and homogenous mass in the left adnexal region, which is characteristic of an ovarian endometrioma. The mass has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the presence of fluid and blood products. There is no evidence of significant enhancement on the provided images, which is also consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-076,cyst,irrelevant,real,none,ref,yes,0.125,312eec593dccc62d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left ovary in SLICE 14, SLICE 15, and SLICE 16. This lesion appears to be hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion's location and appearance are also consistent with the typical location and appearance of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-076,cyst,irrelevant,real,knee,ref,yes,-0.625,312eec593dccc62d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we observe a well-defined, round, and homogenous lesion in the left adnexal region that appears hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma, which is a cystic lesion that contains endometrial tissue and is often found in the ovaries.
+
+The lesion's location, size, and signal characteristics are consistent with an endometrioma. However, it is important to note that the diagnosis of an endometrioma should be confirmed with additional imaging, such as contrast-enhanced MRI or ultrasound, and possibly with histopathological examination if the lesion is surgically removed.
+
+Final Answer: yes"
+D2-076,cyst,irrelevant,real,pain,ref,yes,0.375,312eec593dccc62d,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a well-defined, round, and homogenous lesion in the left ovary (SLICE 15-20) that appears hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region and has a smooth contour, which is also characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-076,cyst,known,real,known_em,ref,yes,2.7500001192092896,312eec593dccc62d,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content within the cystic fluid. There is no evidence of solid components or heterogeneous signal intensity that would suggest a different pathology. The lesion's location and appearance are consistent with the known clinical history of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-080,cyst,irrelevant,real,none,ref,yes,-0.5000000596046448,f4d8fa1d75d9eaf4,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images. In the provided slices, we can observe a lesion in the left adnexal region that appears to be cystic and hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma. The lesion is located in the left ovary and has a well-defined border, which is also characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-080,cyst,irrelevant,real,knee,ref,yes,-1.9999999403953552,f4d8fa1d75d9eaf4,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is typically hyperintense on T2-weighted images, which is characteristic of endometriomas. In the provided slices, we observe a lesion in the left ovary that appears to be cystic and hyperintense on T2-weighted images, which is consistent with the appearance of an endometrioma.
+
+The lesion is located in the left ovary and has a well-defined border. It is hyperintense on T2-weighted images, which is a key feature of endometriomas. The presence of this lesion in the left ovary, along with the clinical history of knee pain, which can be associated with endometriosis, supports the possibility of an endometrioma.
+
+Final Answer: yes"
+D2-080,cyst,irrelevant,real,pain,ref,yes,-0.75,f4d8fa1d75d9eaf4,"To determine if there is an ovarian endometrioma, we need to look for a cystic lesion in the ovary that is hyperintense on T2-weighted images, which is characteristic of endometriomas. 
+
+In the provided slices, we observe a lesion in the left ovary that appears to be cystic and hyperintense on T2-weighted images. This is consistent with the appearance of an endometrioma. The lesion is located in the left adnexal region and has a well-defined border, which is typical for endometriomas. The hyperintensity on T2-weighted images is indicative of the high water content within the lesion, which is a common feature of endometriomas.
+
+Final Answer: yes"
+D2-080,cyst,known,real,known_em,ref,yes,2.7499999403953552,f4d8fa1d75d9eaf4,"The provided MRI slices show a well-defined, round, and homogenous lesion in the left adnexal region, which is characteristic of an ovarian endometrioma. The lesion has a high signal intensity on T2-weighted images, which is typical for endometriomas due to the high water content and the presence of blood products. The lesion's location, size, and signal characteristics are consistent with the clinical history of a known ovarian endometrioma.
+
+Final Answer: yes"

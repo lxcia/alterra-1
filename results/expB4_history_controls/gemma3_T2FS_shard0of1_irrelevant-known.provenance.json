@@ -1,0 +1,14 @@
+{
+  "csv": "gemma3_T2FS_shard0of1_irrelevant-known.csv",
+  "rows": 232,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expB4_history_controls.py",
+    "--model",
+    "gemma3",
+    "--parts",
+    "irrelevant,known"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T02:14:22-0400"
+}

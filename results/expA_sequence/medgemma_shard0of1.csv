@@ -1,0 +1,1353 @@
+subject,label,pix,name,described_as,logit_yes_no,endo,lesion_type,endo_raw,type_raw
+D2-002,cyst,T1FS,true,T1-weighted fat-suppressed,-4.124999927356839,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic appearance often seen in endometriomas. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the morphology in these slices is highly suggestive of an endometrioma, particularly given the typical location and appearance within the ovary. The presence of internal echoes or septations can be seen in endometriomas.
+
+Final Answer: endometrioma"
+D2-002,cyst,T1FS,swapped,T2-weighted fat-suppressed,-4.000000014901161,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic T2 hyperintense appearance, often described as having a ""ground glass"" appearance. This appearance is highly suggestive of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The presence of internal septations and a thick wall further supports this diagnosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific characteristics of this lesion are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-002,cyst,T1FS,none,(none),-4.500000054016709,yes,endometrioma,"Based on the provided MRI slices, there is a large cystic structure in the right adnexa, consistent with an ovarian endometrioma. This is supported by the characteristic appearance of a complex cyst with internal echoes, often described as a ""ground glass"" appearance, which is typical for endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or fluid levels. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-002,cyst,T2FS,true,T2-weighted fat-suppressed,-3.7500000968575478,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with multiple small cysts within a larger cystic cavity. This morphology is highly suggestive of an endometrioma, which is a type of ovarian cyst filled with old blood, resulting from endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated appearance and the typical location within the ovary strongly favor an endometrioma.
+
+Final Answer: endometrioma"
+D2-002,cyst,T2FS,swapped,T1-weighted fat-suppressed,-3.624999988824129,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the right ovary and measures approximately 5.5 x 4.5 cm.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with multiple small cysts within a larger cystic cavity. This morphology is highly suggestive of an endometrioma, which is a type of ovarian cyst caused by endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated appearance and the typical location within the ovary strongly favor an endometrioma. The lack of significant internal enhancement or solid components further supports this diagnosis.
+
+Final Answer: endometrioma"
+D2-002,cyst,T2FS,none,(none),-4.874999992549419,yes,endometrioma,"Based on the provided MRI slices, there is a large cystic structure in the right adnexa, consistent with an ovarian endometrioma. The cyst is well-defined and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or fluid-fluid levels. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-003,cyst,T1FS,true,T1-weighted fat-suppressed,-4.750000134110451,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most consistent with an endometrioma. Endometriomas typically appear as cystic structures with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The location and morphology are highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-003,cyst,T1FS,swapped,T2-weighted fat-suppressed,-4.875000137835741,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of endometriomas, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (usually unilocular and anechoic), dermoid (often contains fat and calcifications), or hemorrhagic cyst (often has a high signal intensity on T2-weighted images due to blood). The lack of significant internal septations or solid components further supports the likelihood of an endometrioma.
+"
+D2-003,cyst,T1FS,none,(none),-5.124999940395355,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic structures with characteristic features of an endometrioma, such as a homogeneous low-signal intensity appearance on T1-weighted images and a high-signal intensity appearance on T2-weighted images.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-003,cyst,T2FS,true,T2-weighted fat-suppressed,-4.3749998938292265,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal intensity, and is located in the expected location of the ovary.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion with a thin, smooth wall. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located in the left ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific characteristics in this case are most consistent with an endometrioma.
+"
+D2-003,cyst,T2FS,swapped,T1-weighted fat-suppressed,-4.124999895691872,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often referred to as a ""chocolate cyst"". The surrounding ovarian tissue appears relatively normal, and there are no obvious signs of hemorrhage or complex features suggestive of other cyst types like dermoid or hemorrhagic cysts. While a simple cyst is possible, the appearance is more consistent with an endometrioma given the typical signal characteristics.
+
+Final Answer: endometrioma"
+D2-003,cyst,T2FS,none,(none),-4.62499981187284,yes,endometrioma,"Based on the provided MRI slices, there is a cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is supported by the characteristic appearance of a complex cyst with low-signal intensity on T1-weighted images and high-signal intensity on T2-weighted images, often with internal debris or septations.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with internal septations and a slightly heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific features observed in the MRI are most suggestive of an endometrioma.
+"
+D2-006,cyst,T1FS,true,T1-weighted fat-suppressed,-4.374999940395355,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic appearance often seen in endometriomas. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology, including the internal septations and homogeneous signal intensity (though subtle), is highly suggestive of an endometrioma. The presence of a complex cyst with internal septations and a slightly heterogeneous appearance is typical for an endometrioma.
+
+Final Answer: endometrioma"
+D2-006,cyst,T1FS,swapped,T2-weighted fat-suppressed,-4.375000067055225,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic appearance often seen in endometriomas. The internal echoes and septations are consistent with this diagnosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology strongly suggests an endometrioma.
+
+Final Answer: endometrioma"
+D2-006,cyst,T1FS,none,(none),-5.000000014901161,yes,hemorrhagic cyst,"Based on the provided MRI slices, there is a complex cystic lesion in the left adnexa, which could represent an ovarian endometrioma. The lesion appears to have some internal septations and possibly a slightly heterogeneous appearance.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple septations and internal echoes, suggestive of hemorrhage.
+
+Final Answer: Final Answer: hemorrhagic cyst"
+D2-006,cyst,T2FS,true,T2-weighted fat-suppressed,-1.25,yes,endometrioma,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion within the left ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion is located within the ovary and has a distinct appearance compared to the surrounding ovarian tissue.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic low signal intensity on T2-weighted images, consistent with the typical appearance of an endometrioma. The presence of internal echoes or septations, often described as ""ground glass"" appearance, further supports this diagnosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and signal characteristics are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-006,cyst,T2FS,swapped,T1-weighted fat-suppressed,-1.2499999701976776,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as well-defined, T1-hypointense (dark) lesions with internal septations and/or debris, located in the adnexal regions.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic low signal intensity on T1-weighted images, consistent with the typical appearance of an endometrioma. The presence of internal echoes or septations, often described as ""ground glass"" appearance, further supports this diagnosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and signal characteristics are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-006,cyst,T2FS,none,(none),-1.4999999701976776,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as cystic lesions with internal septations and low signal intensity on T1-weighted images, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a thick, enhancing wall, particularly in the lower aspect. This appearance is highly characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The internal echoes and septations are consistent with old blood products within the cyst. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific features in this case strongly suggest an endometrioma.
+"
+D2-008,endometrioma,T1FS,true,T1-weighted fat-suppressed,-6.250000008381903,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific appearance in these slices is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-008,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-6.375000165775418,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific signal characteristics and morphology in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-008,endometrioma,T1FS,none,(none),-6.625000054016709,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic structures with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific appearance in these slices is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-008,endometrioma,T2FS,true,T2-weighted fat-suppressed,-6.1250001192092896,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly internal debris or septations.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-008,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,-6.125000148080289,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-008,endometrioma,T2FS,none,(none),-6.624999801628292,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often described as having a ""ground glass"" or ""chocolate cyst"" appearance due to the presence of old blood products. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts can occur, the overall morphology and typical appearance in this context are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-011,cyst,T1FS,true,T1-weighted fat-suppressed,-3.99999987334013,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. The signal characteristics are consistent with an endometrioma, which typically appears as a T1-weighted hyperintense (bright) lesion with homogeneous signal intensity. The presence of internal septations or low-level internal echoes might further support this diagnosis, although these features are not clearly visible in all slices. The surrounding ovarian tissue appears normal.
+
+Other possibilities like simple cyst, dermoid, or hemorrhagic cyst are less likely given the typical appearance. Simple cysts are usually anechoic (black) on T1-weighted images. Dermoids often contain fat or calcifications, which are not evident here. Hemorrhagic cysts can appear hyperintense but often have more complex signal characteristics or internal debris. The overall appearance is most consistent with an endometrioma.
+Final Answer: endometrioma"
+D2-011,cyst,T1FS,swapped,T2-weighted fat-suppressed,-4.375000208616257,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (usually unilocular and anechoic), dermoid (often contains fat and calcifications), or hemorrhagic cyst (often has a high signal intensity on T2-weighted images due to blood). The lack of significant internal septations or solid components further supports the likelihood of an endometrioma.
+"
+D2-011,cyst,T1FS,none,(none),-4.375000229105353,yes,endometrioma,"Based on the provided axial MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears to have a thick, enhancing wall and internal septations, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-011,cyst,T2FS,true,T2-weighted fat-suppressed,-6.749999968800694,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion within the ovary. It has a characteristic ""ground glass"" appearance due to the presence of old blood products. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which would typically be unilocular and without internal echoes), a dermoid (which often contains fat, calcifications, or hair), or a hemorrhagic cyst (which would typically show more acute blood products and possibly a higher signal intensity on T1-weighted images). The appearance is highly suggestive of an endometrioma, which is a cyst filled with old blood resulting from endometriosis.
+
+Final Answer: endometrioma"
+D2-011,cyst,T2FS,swapped,T1-weighted fat-suppressed,-6.624999775085598,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Reasoning:
+1.  **Image Quality:** The slices are of good quality, allowing for detailed visualization of the pelvic structures.
+2.  **Ovarian Appearance:** The ovaries are located in the pelvis, and their morphology appears normal. There are no distinct cystic lesions or complex structures suggestive of an endometrioma.
+3.  **Fat Suppression:** The fat-suppressed sequence is appropriate for evaluating pelvic structures, as it helps to differentiate fat (which appears dark) from other tissues.
+4.  **Absence of Specific Features:** Endometriomas typically appear as cystic lesions with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images. These features are not evident in the provided slices.
+
+Conclusion:
+There is no definitive evidence of an ovarian endometrioma in the provided MRI images.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears normal, and there are no features suggestive of other types of cysts like a simple cyst (which would typically be uniformly hypointense), a dermoid (which often contains fat and calcifications), or a hemorrhagic cyst (which might show internal echoes or septations).
+
+Final Answer: endometrioma"
+D2-011,cyst,T2FS,none,(none),-7.250000005122274,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with internal septations and a slightly heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts are possible, the specific features observed in the MRI are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-013,cyst,T1FS,true,T1-weighted fat-suppressed,-4.3750000186264515,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some subtle findings might be present, they are not definitive for an endometrioma.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. The internal contents are predominantly dark (low signal intensity) on T1-weighted images, which is characteristic of old blood products commonly seen in endometriomas. The surrounding ovarian tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the dark internal contents strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-013,cyst,T1FS,swapped,T2-weighted fat-suppressed,-4.499999834224582,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some subtle findings might be present, they are not definitive for an endometrioma.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic low signal intensity on T2-weighted images, consistent with the typical appearance of an endometrioma. The internal echoes seen within the cyst are also suggestive of old blood products, commonly found in endometriomas. The surrounding ovarian tissue appears normal.
+
+Final Answer: endometrioma"
+D2-013,cyst,T1FS,none,(none),-4.875000035390258,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some subtle findings might be present, they are not definitive for an endometrioma.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-013,cyst,T2FS,true,T2-weighted fat-suppressed,-6.50000013737008,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears relatively normal, and there are no significant internal septations or solid components visible in these slices. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the classic appearance in these slices strongly suggests an endometrioma.
+
+Final Answer: endometrioma"
+D2-013,cyst,T2FS,swapped,T1-weighted fat-suppressed,-6.624999811407179,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While small endometriomas can sometimes be difficult to detect, the current images do not show any characteristic findings such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears relatively normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-013,cyst,T2FS,none,(none),-6.8749999683350325,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often described as having a ""ground glass"" or ""chocolate cyst"" appearance due to the presence of old blood products. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts can occur, the overall morphology and typical appearance in this context are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-039,cyst,T1FS,true,T1-weighted fat-suppressed,-5.374999959953129,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic appearance often seen in endometriomas. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology, including the internal septations and homogeneous signal intensity (though subtle), is highly suggestive of an endometrioma. The presence of internal echoes or debris might also support this diagnosis.
+
+Final Answer: endometrioma"
+D2-039,cyst,T1FS,swapped,T2-weighted fat-suppressed,-5.37500022072345,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic appearance often seen in endometriomas. The internal echoes and septations are consistent with this diagnosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology strongly suggests an endometrioma.
+
+Final Answer: endometrioma"
+D2-039,cyst,T1FS,none,(none),-5.9999999003484845,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some subtle findings might be present, they are not definitive for an endometrioma.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-039,cyst,T2FS,true,T2-weighted fat-suppressed,-3.0000001192092896,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion within the right ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The lesion appears to have a homogeneous signal intensity, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion with a thin, smooth wall. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located in the left ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific characteristics in these slices strongly suggest an endometrioma.
+"
+D2-039,cyst,T2FS,swapped,T1-weighted fat-suppressed,-3.250000074505806,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, round, T1-hypointense (dark) lesion located in the right adnexa, consistent with the location of the ovary. The lesion demonstrates a characteristic appearance for an endometrioma, often described as a ""ground glass"" appearance due to the presence of old blood products. The lesion is also associated with a thickened, T1-hypointense capsule, which is a common finding in endometriomas.
+
+Conclusion:
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the right ovary. It has a characteristic appearance on T1-weighted images, often showing a slightly hyperintense rim (though this is not clearly visible in all slices) and a hypointense center. This appearance is highly suggestive of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and location are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-039,cyst,T2FS,none,(none),-3.8750001192092896,yes,endometrioma,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, round, cystic lesion located in the right adnexa, consistent with the location of the ovary. The lesion has a characteristic appearance of an endometrioma, often described as having a ""ground glass"" appearance due to the presence of old blood products within the cyst. The lesion is also associated with a thickened and irregular endometrial stripe, which is a common finding in patients with endometriosis.
+
+Conclusion:
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with internal septations and a somewhat heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology strongly suggests an endometrioma.
+
+Final Answer: endometrioma"
+D2-040,endometrioma,T1FS,true,T1-weighted fat-suppressed,-5.625000047497451,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most consistent with an endometrioma. Endometriomas typically appear as cystic structures with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The location and morphology are highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-040,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-5.8750001564621925,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific signal characteristics and morphology in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-040,endometrioma,T1FS,none,(none),-5.875000194646418,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic structures with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with internal septations and a slightly heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology strongly suggests an endometrioma.
+
+Final Answer: endometrioma"
+D2-040,endometrioma,T2FS,true,T2-weighted fat-suppressed,-5.4999998630955815,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While small endometriomas can sometimes be difficult to detect, the current images do not show any characteristic findings such as a cystic lesion with homogeneous high signal intensity on T2-weighted images, often associated with endometriomas.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which is typically anechoic or hypoechoic), dermoid (which often contains fat and calcifications), or hemorrhagic cyst (which typically has a high signal intensity on T2-weighted images).
+
+Final Answer: endometrioma"
+D2-040,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,-5.499999986961484,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance on T1-weighted images, often showing a homogeneous low signal intensity (dark) due to the presence of old blood products (hemosiderin). While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts can occur, the typical appearance and location are highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-040,endometrioma,T2FS,none,(none),-5.875000177882612,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with internal septations and a slightly heterogeneous signal intensity, which is consistent with the typical features of an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific morphology and location strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-041,endometrioma,T1FS,true,T1-weighted fat-suppressed,-2.6249999552965164,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic mass in the pelvis, predominantly occupying the left adnexal region. The mass exhibits heterogeneous signal intensity, with some areas appearing hypointense and others hyperintense. There is a suggestion of internal septations and possibly some internal debris or calcifications. The mass appears to be displacing the uterus and potentially the bladder.
+
+Considering the characteristics of the mass, including its size, multiloculated nature, and internal heterogeneity, it is highly suspicious for an ovarian endometrioma. Endometriomas typically appear as complex cystic masses with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance. However, they can also present with heterogeneous signal intensity, especially if there is hemorrhage or necrosis within the cyst. The large size and displacement of adjacent structures further support the possibility of an ovarian mass.
+
+Therefore, based on the imaging findings, there is a high suspicion for an ovarian endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with heterogeneous internal signal intensity. The presence of multiple septations and internal echoes suggests a complex cystic structure. Given these features, the most likely nature of the lesion is an endometrioma.
+
+Final Answer: endometrioma"
+D2-041,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-2.6249999552965164,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic mass in the pelvis, predominantly occupying the left adnexal region. The mass exhibits multiple internal septations and heterogeneous signal intensity, with some areas appearing hypointense and others hyperintense. This appearance is highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or complex fluid. The appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-041,endometrioma,T1FS,none,(none),-3.3749999925494194,yes,endometrioma,"Based on the provided MRI slices, there is a large, complex cystic mass in the pelvis, likely originating from the left ovary. The mass exhibits multiple internal septations and heterogeneous signal intensity, which are characteristic features of an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-041,endometrioma,T2FS,true,T2-weighted fat-suppressed,-1.0000000596046448,yes,endometrioma,"Based on the provided MRI slices, there is a large, multiloculated cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion is T2 hyperintense and demonstrates low signal intensity on T1-weighted images, with evidence of internal septations and wall thickening.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-041,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,-0.6249999701976776,yes,endometrioma,"Based on the provided MRI slices, there is a large, multiloculated cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion demonstrates characteristic features such as low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, with internal septations and possibly internal debris.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Reasoning:
+1.  **Multiloculated appearance:** The cyst has a complex, multi-compartment structure.
+2.  **Internal septations:** There are visible internal divisions within the cyst.
+3.  **Possible internal debris/solid components:** The internal contents appear heterogeneous, potentially containing old blood or fibrous tissue.
+4.  **Location:** The lesion is located in the ovary.
+5.  **T1-weighted signal:** While not explicitly stated, endometriomas typically have a characteristic signal intensity on T1-weighted images, often appearing hyperintense (bright) due to the presence of old blood products.
+
+Considering these features, an endometrioma is the most likely diagnosis.
+
+Final Answer: endometrioma"
+D2-041,endometrioma,T2FS,none,(none),-1.7500000447034836,yes,endometrioma,"Based on the provided MRI slices, there is a large, multiloculated cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion demonstrates characteristic features such as low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, along with internal septations and wall thickening.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-042,cyst,T1FS,true,T1-weighted fat-suppressed,-4.624999865889549,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. The internal contents are predominantly dark (low signal intensity) on T1-weighted images, which is characteristic of old blood products commonly seen in endometriomas. The lesion is also located in the adnexa, consistent with an ovarian origin. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the dark internal contents strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-042,cyst,T1FS,swapped,T2-weighted fat-suppressed,-4.7500001434236765,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure. While other types of cysts are possible, the appearance is most consistent with an endometrioma, which often presents as a complex cyst with low signal intensity on T2-weighted images, sometimes with internal echoes or septations. The lack of significant internal hemorrhage or solid components makes hemorrhagic or dermoid cysts less likely. A simple cyst is possible, but the appearance is more suggestive of an endometrioma given the typical characteristics.
+
+Final Answer: endometrioma"
+D2-042,cyst,T1FS,none,(none),-5.374999986961484,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or low-signal material. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-042,cyst,T2FS,true,T2-weighted fat-suppressed,-5.500000017695129,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (usually unilocular and anechoic), dermoid (often contains fat, calcifications, or hair), or hemorrhagic cyst (often has a high signal intensity on T2-weighted images due to fresh blood). The absence of other significant findings in the pelvis further supports this conclusion.
+
+Final Answer: endometrioma"
+D2-042,cyst,T2FS,swapped,T1-weighted fat-suppressed,-5.375000209547579,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-042,cyst,T2FS,none,(none),-5.999999822117388,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the internal septations and heterogeneous appearance strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-054,endometrioma,T1FS,true,T1-weighted fat-suppressed,-4.625000035390258,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the uterus anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with a complex internal architecture. The internal echoes and septations are suggestive of a complex cyst. Given the clinical context of a pelvic MRI, the most likely nature of this complex ovarian cyst is an endometrioma.
+
+Final Answer: endometrioma"
+D2-054,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-4.624999787658453,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the uterus anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. The internal echoes within the cyst, particularly in the lower portion, are characteristic of old blood, often seen in endometriomas. The lesion is also located in the typical location for an endometrioma (pelvic sidewall/ovarian region). While other cystic lesions are possible, the appearance is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-054,endometrioma,T1FS,none,(none),-5.124999839812517,yes,endometrioma,"Based on the provided MRI slices, there is a large, well-defined, T1 hypointense, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or fluid levels. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-054,endometrioma,T2FS,true,T2-weighted fat-suppressed,-1.8749999403953552,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the uterus anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a large, multiloculated cystic structure located in the left ovary. It has a characteristic appearance with multiple small cysts within a larger cystic cavity. This morphology is highly suggestive of an endometrioma, which is a type of ovarian cyst filled with old blood, resulting from endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated appearance and the typical location within the ovary strongly favor an endometrioma.
+
+Final Answer: endometrioma"
+D2-054,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,-1.6250000447034836,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the left adnexa. This lesion is consistent with an ovarian endometrioma. The lesion appears to be located within the left ovary and has a characteristic appearance, including a hypointense rim and internal septations.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a large, multiloculated cystic structure located in the left ovary. It has a characteristic appearance with multiple internal septations and a somewhat heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated nature and internal septations strongly suggest an endometrioma. The absence of a distinct capsule or solid component further supports this diagnosis.
+
+Final Answer: endometrioma"
+D2-054,endometrioma,T2FS,none,(none),-3.374999962747097,yes,endometrioma,"Based on the provided MRI slices, there is a large cystic structure in the left adnexa, consistent with an ovarian endometrioma. The cyst appears to have a complex appearance with internal septations and possibly internal debris, which are characteristic features of endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or fluid-fluid levels. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-056,cyst,T1FS,true,T1-weighted fat-suppressed,-6.249999781139195,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other types of cysts are possible, the appearance is most consistent with an endometrioma, which typically presents as a cystic lesion with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The lack of internal septations, solid components, or significant enhancement makes other diagnoses like dermoid or hemorrhagic cyst less likely. A simple cyst is also possible, but the appearance is more suggestive of an endometrioma given the typical characteristics.
+
+Final Answer: endometrioma"
+D2-056,cyst,T1FS,swapped,T2-weighted fat-suppressed,-6.375000164844096,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific signal characteristics and morphology in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-056,cyst,T1FS,none,(none),-6.499999810010195,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a cystic lesion with internal echoes or a complex cyst.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific appearance in these slices is most consistent with an endometrioma.
+"
+D2-056,cyst,T2FS,true,T2-weighted fat-suppressed,-3.2499999403953552,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with the typical appearance of endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion with a thin, smooth wall. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located in the right ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific characteristics in these slices strongly suggest an endometrioma.
+"
+D2-056,cyst,T2FS,swapped,T1-weighted fat-suppressed,-3.249999914318323,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as well-defined, T1-hypointense (dark) lesions with internal septations and/or nodularity, located in the adnexal regions.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the right ovary. It has a characteristic appearance on T1-weighted images, often showing a homogeneous low signal intensity (dark) due to the presence of old blood products (hemosiderin). While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and signal characteristics are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-056,cyst,T2FS,none,(none),-3.6250000298023224,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T1-weighted images, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the internal septations and heterogeneous appearance strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-070,endometrioma,T1FS,true,T1-weighted fat-suppressed,-0.5,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a well-defined, round, T1 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the right ovary and appears to be of similar signal intensity to the surrounding ovarian tissue.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most consistent with an endometrioma. Endometriomas typically appear as cystic structures with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The location and morphology are highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-070,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-0.4999999403953552,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other cyst types like a simple cyst (usually unilocular and anechoic), dermoid (often contains fat and calcifications), or hemorrhagic cyst (typically has a high signal intensity on T2-weighted images due to blood). The presence of a complex cyst with low T2 signal intensity is highly suggestive of an endometrioma.
+Final Answer: endometrioma"
+D2-070,endometrioma,T1FS,none,(none),-1.375,yes,endometrioma,"Based on the provided MRI slices, there is a cystic structure in the right adnexa, consistent with an ovarian endometrioma. This is supported by the presence of a complex cystic lesion with internal echoes, which is a characteristic finding for endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple septations and internal echoes, consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-070,endometrioma,T2FS,true,T2-weighted fat-suppressed,-3.000000111758709,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst. The presence of multiple smaller cystic structures within the ovary could also be consistent with endometriomas.
+
+Final Answer: endometrioma"
+D2-070,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,-2.6250000596046448,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T1 hyperintense (bright) lesion within the left ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood. The lesion appears to have a homogeneous signal intensity, consistent with a fluid-filled structure. The surrounding ovarian tissue appears normal.
+
+Conclusion:
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the left ovary. It has a characteristic appearance consistent with an endometrioma, which often presents as a complex cyst with low signal intensity on T1-weighted images due to the presence of old blood products (hemosiderin). While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and signal characteristics in this image are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-070,endometrioma,T2FS,none,(none),-3.7499999180436134,yes,endometrioma,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a complex cystic lesion in the right ovary. The lesion has a thick, irregular wall and internal septations, which are characteristic features of an endometrioma. The surrounding tissue appears normal.
+
+Conclusion:
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The internal septations and heterogeneous appearance are consistent with old blood products within the cyst. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific characteristics seen in these slices strongly suggest an endometrioma.
+"
+D2-074,cyst,T1FS,true,T1-weighted fat-suppressed,-6.2500001369044185,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure. While other types of cysts are possible, the appearance is most consistent with an endometrioma, which often presents as a complex cyst with low signal intensity on T1-weighted images, potentially with internal echoes or septations, although this specific lesion appears relatively simple. The location within the ovary is also typical for an endometrioma.
+
+Final Answer: endometrioma"
+D2-074,cyst,T1FS,swapped,T2-weighted fat-suppressed,-6.500000100582838,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific signal characteristics and morphology in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-074,cyst,T1FS,none,(none),-6.500000105239451,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a cystic lesion with internal echoes or a complex cyst.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the internal septations and heterogeneous appearance are more suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-074,cyst,T2FS,true,T2-weighted fat-suppressed,-5.62499981559813,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which is typically anechoic or hypoechoic), dermoid (which often contains fat and calcifications), or hemorrhagic cyst (which typically has a high signal intensity on T2-weighted images due to blood).
+
+Final Answer: endometrioma"
+D2-074,cyst,T2FS,swapped,T1-weighted fat-suppressed,-5.624999895691872,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific characteristics of this lesion are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-074,cyst,T2FS,none,(none),-6.124999971129,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (e.g., homogeneous low signal intensity on T1-weighted images, high signal intensity on T2-weighted images, and often associated with a capsule).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific appearance in these slices strongly suggests an endometrioma.
+"
+D2-075,cyst,T1FS,true,T1-weighted fat-suppressed,-3.124999962747097,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or complex fluid. This appearance is highly suggestive of an endometrioma.
+
+Reasoning:
+1.  **Multiloculated appearance:** The cyst has a complex, somewhat ""ground glass"" or septated appearance, which is characteristic of endometriomas.
+2.  **Internal contents:** The internal contents appear complex, possibly containing old blood products or debris, consistent with the breakdown of ectopic endometrial tissue.
+3.  **Location:** While the exact location within the pelvis isn't fully visualized across all slices, the lesion is located in the adnexal region, consistent with an ovarian origin.
+
+Therefore, the most likely nature of the dominant ovarian cystic lesion is an endometrioma.
+
+Final Answer: endometrioma"
+D2-075,cyst,T1FS,swapped,T2-weighted fat-suppressed,-3.0000001043081284,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or low-signal material. This appearance is highly suggestive of an endometrioma.
+
+Reasoning:
+1.  **Multiloculated appearance:** The cyst has multiple compartments or septations, which is characteristic of endometriomas.
+2.  **Internal signal characteristics:** The internal signal is predominantly dark (low signal) on T2-weighted images, consistent with the presence of old blood products or debris often found within endometriomas.
+3.  **Location:** While the exact location within the pelvis isn't specified, the appearance is typical for an ovarian lesion.
+
+Therefore, the most likely nature of the dominant ovarian cystic lesion is an endometrioma.
+
+Final Answer: endometrioma"
+D2-075,cyst,T1FS,none,(none),-2.749999962747097,yes,endometrioma,"Based on the provided MRI slices, there is a large, complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears multiloculated with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or fluid levels. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-075,cyst,T2FS,true,T2-weighted fat-suppressed,-3.8749999180436134,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is suggested by the characteristic appearance of a complex cyst with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images (though T1 is not shown here), often with internal echoes or septations.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) cystic structure located in the adnexa. It has a characteristic appearance consistent with an endometrioma, often described as having a ""ground glass"" appearance due to the presence of old blood products within the cyst. The surrounding ovarian tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific characteristics of this lesion strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-075,cyst,T2FS,swapped,T1-weighted fat-suppressed,-3.8749998919665813,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of a large cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears as a well-defined, multiloculated cystic structure with internal echoes, which is characteristic of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific characteristics of this lesion are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-075,cyst,T2FS,none,(none),-4.6249997690320015,yes,endometrioma,"Based on the provided MRI slices, there is a large cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is supported by the characteristic appearance of a complex cyst with internal echoes, often described as a ""ground glass"" appearance, which is typical for endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a thick, enhancing wall, particularly in the lower aspect. This appearance is highly characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood resulting from endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific features observed in the images strongly suggest an endometrioma.
+"
+D2-076,cyst,T1FS,true,T1-weighted fat-suppressed,-5.374999804422259,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. The signal characteristics are consistent with an endometrioma, which typically appears as a T1-hypointense (dark) lesion with a characteristic ""ground glass"" appearance due to the presence of old blood products. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall appearance strongly suggests an endometrioma.
+
+Final Answer: endometrioma"
+D2-076,cyst,T1FS,swapped,T2-weighted fat-suppressed,-5.49999990221113,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images, a ""ground glass"" appearance, or a peripheral rim of high signal intensity on T1-weighted images.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific signal characteristics and morphology in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-076,cyst,T1FS,none,(none),-5.624999770894647,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a cystic lesion with internal echoes or a complex cyst.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with internal septations and a slightly heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific features observed in the MRI are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-076,cyst,T2FS,true,T2-weighted fat-suppressed,1.6250000447034836,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion demonstrates characteristic features such as a thick, enhancing wall and internal septations.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion with a thin, smooth wall. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located in the left ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific characteristics in this case strongly suggest an endometrioma.
+"
+D2-076,cyst,T2FS,swapped,T1-weighted fat-suppressed,1.4999999701976776,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a well-defined, round, T1 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion is located in the left adnexa, and its appearance is characteristic of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the left ovary. It has a characteristic appearance on T1-weighted images, often showing a slightly hyperintense rim (though this is not clearly visible in all slices) and a hypointense center. This appearance is highly suggestive of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and location are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-076,cyst,T2FS,none,(none),1.5000000298023224,yes,endometrioma,"Based on the provided MRI slices, there is a cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is supported by the presence of a well-defined, non-enhancing cystic lesion with internal septations, located in the expected location of the ovary.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the left ovary. It has a characteristic appearance with internal septations and a slightly heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts are possible, the specific features observed in the MRI are most suggestive of an endometrioma.
+"
+D2-077,endometrioma,T1FS,true,T1-weighted fat-suppressed,-5.249999804422259,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific appearance in these slices is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-077,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-5.375000016763806,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which is typically anechoic or hypoechoic and may have thin walls), dermoid (which often contains fat and calcifications), or hemorrhagic cyst (which typically has a high signal intensity on T2-weighted images due to blood). The lesion is also not clearly visible in the provided slices, making 'none' unlikely.
+"
+D2-077,endometrioma,T1FS,none,(none),-5.499999882653356,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic structures with characteristic features of an endometrioma, such as a homogeneous low-signal intensity appearance on T1-weighted images and a high-signal intensity appearance on T2-weighted images, or a ""ground glass"" appearance on T2-weighted images.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a thick, enhancing wall, particularly in the lower pole. This appearance is highly characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, resulting from endometriosis. The thick wall and internal septations are typical features. While other cysts like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific morphology in these slices strongly suggests an endometrioma.
+"
+D2-077,endometrioma,T2FS,true,T2-weighted fat-suppressed,-2.750000074505806,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the right side. These cysts are T2 hyperintense (bright), which is characteristic of endometriomas. The presence of internal echoes or septations within these cysts further supports the diagnosis. The size and appearance of these lesions are consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears relatively normal, and there are no obvious signs of hemorrhage or other features suggestive of other cyst types like dermoid or hemorrhagic cyst. While a simple cyst is possible, the appearance is more consistent with an endometrioma given the typical signal characteristics.
+"
+D2-077,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,-2.6249999031424522,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the right side. These cysts are well-defined and have a characteristic appearance consistent with endometriomas, which are ovarian cysts filled with old blood. The presence of these cysts, especially in the context of a female pelvis MRI, strongly suggests the diagnosis of ovarian endometriomas.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the right ovary. It has a characteristic appearance often associated with endometriomas, which are ovarian cysts containing old blood, appearing as low signal intensity on T1-weighted images. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-077,endometrioma,T2FS,none,(none),-4.3750000316649675,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. The characteristic appearance of endometriomas includes a cystic structure with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a hypointense rim. These features are visible in the ovaries in multiple slices.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a thick, enhancing wall, particularly in the lower aspect. This appearance is highly characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood resulting from endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific features observed in the images strongly suggest an endometrioma.
+"
+D2-078,endometrioma,T1FS,true,T1-weighted fat-suppressed,-3.8749998919665813,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with a complex internal architecture. The internal echoes and septations are suggestive of a complex cyst. Given the clinical context of a pelvic MRI, the most likely nature of such a complex ovarian cyst is an endometrioma.
+
+Final Answer: endometrioma"
+D2-078,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-3.8749998807907104,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, multiloculated cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with a complex internal architecture. The internal echoes and septations are suggestive of a complex cyst. Given the clinical context of a pelvic MRI, the most likely nature of this complex ovarian cyst is an endometrioma.
+
+Final Answer: endometrioma"
+D2-078,endometrioma,T1FS,none,(none),-4.25,yes,endometrioma,"Based on the provided MRI slices, there is a large, multiloculated cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to have a complex appearance with internal septations and possibly some internal debris.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or fluid levels. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-078,endometrioma,T2FS,true,T2-weighted fat-suppressed,1.3749999701976776,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma.
+
+Reasoning:
+The slices show a complex cystic lesion in the right adnexa, likely within the ovary. The lesion appears to have a heterogeneous signal intensity, with areas of high signal intensity (bright) and low signal intensity (dark). This appearance is characteristic of an endometrioma, which is a cyst filled with old blood, often referred to as a ""chocolate cyst"". The presence of multiple cysts of varying sizes, particularly the large one seen in the right ovary, further supports this diagnosis.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion within the ovary. It has a characteristic ""ground glass"" appearance due to the presence of old blood products. The lesion is located within the ovary, consistent with an ovarian origin. The appearance is highly suggestive of an endometrioma, which is a cyst formed by ectopic endometrial tissue.
+
+Final Answer: endometrioma"
+D2-078,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,1.3750000298023224,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma.
+
+Reasoning:
+The slices show a complex cystic lesion in the right adnexa, likely within the ovary. The lesion appears to have a heterogeneous internal structure, possibly containing internal echoes or septations, which are characteristic features of endometriomas. The lesion is located in the adnexal region, consistent with the location of the ovary.
+
+Conclusion:
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. On T1-weighted images, endometriomas typically appear as low signal intensity (dark) masses, often with a characteristic ""ground glass"" appearance due to the presence of old blood products. The lesion in the provided images shows this typical appearance.
+
+Final Answer: endometrioma"
+D2-078,endometrioma,T2FS,none,(none),0.375,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. The characteristic appearance of endometriomas includes a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a hypointense rim. These features are visible in the provided slices.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a thick, enhancing wall, particularly evident in slices 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34. These features are highly characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The internal septations and thick wall are typical findings. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific morphology in this case strongly suggests an endometrioma."
+D2-079,endometrioma,T1FS,true,T1-weighted fat-suppressed,-3.874999910593033,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the left adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the left ovary. It has a characteristic appearance with multiple small cysts within a larger cystic structure. This morphology is highly suggestive of an endometrioma, which is a type of ovarian cyst caused by endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated appearance is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-079,endometrioma,T1FS,swapped,T2-weighted fat-suppressed,-3.999999823048711,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the left adnexa, consistent with an ovarian endometrioma. This is suggested by the characteristic appearance of a cyst with low signal intensity on T2-weighted images, often with a homogeneous or slightly heterogeneous internal appearance, and its location within the adnexal region.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the left ovary. It has a characteristic appearance with multiple small cysts within a larger cystic structure. This morphology is highly suggestive of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated appearance and typical location are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-079,endometrioma,T1FS,none,(none),-3.874999910593033,yes,endometrioma,"Based on the provided MRI slices, there is a complex cystic lesion in the left adnexa, which could represent an ovarian endometrioma. The lesion appears to have some internal septations and possibly a slightly heterogeneous appearance.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or low-level internal echoes. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-079,endometrioma,T2FS,true,T2-weighted fat-suppressed,-3.1249999701976776,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the left side. These cysts are T2 hyperintense (bright on T2-weighted images), which is characteristic of endometriomas. The presence of internal echoes or septations within these cysts further supports the diagnosis. The location within the ovaries and the T2 signal characteristics are consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion is located within the ovary, and its appearance is consistent with the typical features of an endometrioma on MRI.
+
+Final Answer: endometrioma"
+D2-079,endometrioma,T2FS,swapped,T1-weighted fat-suppressed,-3.2499998919665813,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the left side. These cysts are hyperintense on T1-weighted images, which is characteristic of endometriomas. The presence of these cysts, along with the typical location within the ovaries, strongly suggests the presence of ovarian endometriomas.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific appearance and location are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-079,endometrioma,T2FS,none,(none),-4.250000139698386,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. The characteristic appearance of endometriomas includes a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a hypointense nodular rim. These features are present in the ovaries in the provided images.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often described as having a ""ground glass"" or ""chocolate cyst"" appearance due to the presence of old blood products. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts are possible, the overall morphology and typical appearance in this context strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-001,negative,T1FS,true,T1-weighted fat-suppressed,-5.0000001806765795,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a large, well-defined, T1 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the left ovary anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with a complex internal architecture. The internal echoes and septations are suggestive of a complex cyst. Given the clinical context of a pelvic MRI, the most likely nature of such a complex ovarian cyst is an endometrioma.
+
+Final Answer: endometrioma"
+D2-001,negative,T1FS,swapped,T2-weighted fat-suppressed,-4.87500006519258,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be displacing the left ovary anteriorly and medially.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other cyst types like a simple cyst (usually unilocular and anechoic), dermoid (often contains fat and calcifications), or hemorrhagic cyst (typically has a high signal intensity on T2-weighted images due to blood). The lack of significant internal septations or solid components further supports the likelihood of an endometrioma.
+"
+D2-001,negative,T1FS,none,(none),-5.749999855645001,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The uterus appears enlarged and heterogeneous, which could be consistent with adenomyosis, but there are no specific findings suggestive of an endometrioma, such as a cystic lesion with internal echoes or a complex cyst.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a large, multiloculated cyst with internal septations and possibly some internal debris or fluid-fluid levels. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-001,negative,T2FS,true,T2-weighted fat-suppressed,-4.0000002309679985,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of a complex cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, which is characteristic of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion within the ovary. It has a characteristic ""ground glass"" appearance due to the presence of old blood products. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which would typically be unilocular and without internal echoes), a dermoid (which often contains fat, calcifications, or hair), or a hemorrhagic cyst (which would typically show more acute blood products and potentially a more complex appearance). The appearance is highly suggestive of an endometrioma, which is a cyst formed by ectopic endometrial tissue.
+
+Final Answer: endometrioma"
+D2-001,negative,T2FS,swapped,T1-weighted fat-suppressed,-4.1250000558793545,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T1 hyperintense (bright) lesion within the left ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood. The lesion appears to have a homogeneous signal intensity, consistent with a cystic structure. The surrounding ovarian tissue appears normal.
+
+Conclusion:
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. On T1-weighted images, endometriomas typically appear as low signal intensity (dark) masses, often with a characteristic ""ground glass"" appearance due to the presence of old blood products. The lesion in the provided images shows this typical appearance.
+
+Final Answer: endometrioma"
+D2-001,negative,T2FS,none,(none),-4.374999945983291,yes,endometrioma,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The characteristic appearance of an endometrioma is a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a ""ground glass"" appearance. This is consistent with the findings in the provided slices.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the left ovary. It has a characteristic appearance with internal septations and a somewhat heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology strongly suggests an endometrioma.
+
+Final Answer: endometrioma"
+D2-004,negative,T1FS,true,T1-weighted fat-suppressed,-5.874999857507646,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. The signal characteristics are consistent with an endometrioma, which typically appears as a T1-weighted hyperintense (bright) lesion with homogeneous signal intensity. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance in these slices is most suggestive of an endometrioma. Further evaluation with contrast-enhanced MRI or ultrasound would be needed for definitive characterization.
+"
+D2-004,negative,T1FS,swapped,T2-weighted fat-suppressed,-5.999999810941517,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which is typically anechoic or hypoechoic and may have thin walls), dermoid (which often contains fat and calcifications), or hemorrhagic cyst (which typically has a high signal intensity on T2-weighted images due to blood). The lesion's appearance is most consistent with an endometrioma.
+"
+D2-004,negative,T1FS,none,(none),-6.250000085681677,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some subtle findings might be present, they are not definitive for an endometrioma.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-004,negative,T2FS,true,T2-weighted fat-suppressed,-6.250000204890966,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round to oval structure located in the adnexa. It is predominantly dark (hypointense) on T2-weighted images, which is characteristic of endometriomas due to the presence of old blood products. The lesion does not show significant internal septations or solid components, which would be more suggestive of other types of cysts. The surrounding ovarian tissue appears normal.
+
+Final Answer: endometrioma"
+D2-004,negative,T2FS,swapped,T1-weighted fat-suppressed,-6.249999847263098,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T1-weighted images or the typical appearance of an endometrioma.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears normal, and there are no other significant findings to suggest other types of cysts like simple cysts, dermoids, or hemorrhagic cysts.
+
+Final Answer: endometrioma"
+D2-004,negative,T2FS,none,(none),-6.62499984446913,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-signal intensity walls and internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be an endometrioma.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often described as having a ""ground glass"" or ""chocolate cyst"" appearance, which is typical for endometriomas. The surrounding ovarian tissue appears relatively normal.
+
+Conclusion:
+Final Answer: endometrioma"
+D2-005,negative,T1FS,true,T1-weighted fat-suppressed,-4.0000001806765795,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. The internal contents are predominantly dark (low signal intensity) on T1-weighted images, which is characteristic of old blood products commonly seen in endometriomas. The surrounding ovarian tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the dark internal contents strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-005,negative,T1FS,swapped,T2-weighted fat-suppressed,-3.875000011175871,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. The internal echoes within the cyst, particularly in the lower pole, are characteristic of old blood products, which are commonly seen in endometriomas. The lesion's location and appearance are highly suggestive of an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the presence of internal echoes points strongly towards an endometrioma.
+
+Final Answer: endometrioma"
+D2-005,negative,T1FS,none,(none),-4.499999854713678,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-005,negative,T2FS,true,T2-weighted fat-suppressed,0.5000000596046448,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion is located in the left adnexa, and its appearance is characteristic of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) cystic structure located in the left ovary. It has a characteristic appearance consistent with an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located in the adnexa, consistent with an ovarian origin. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-005,negative,T2FS,swapped,T1-weighted fat-suppressed,0.4999999403953552,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a well-defined, round, T1 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion is located in the left adnexa, and its appearance is characteristic of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the left ovary. It has a characteristic appearance consistent with an endometrioma, often described as having a ""ground glass"" appearance due to the presence of old blood products within the cyst. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and likely presence of old blood products (suggested by the T1 signal) favor an endometrioma. The absence of solid components or other specific features makes these other options less likely.
+Final Answer: endometrioma"
+D2-005,negative,T2FS,none,(none),-0.7499999403953552,yes,endometrioma,"Based on the provided MRI slices, there is a large, well-defined, T1 hyperintense, T2 hypointense lesion in the left adnexa, consistent with an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a thick, enhancing wall, particularly evident in the later slices (e.g., slices 14-18). This appearance is highly characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific features in this case strongly suggest an endometrioma.
+"
+D2-010,negative,T1FS,true,T1-weighted fat-suppressed,-6.2499999748542905,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other types of cysts are possible, the appearance is most consistent with an endometrioma, which typically presents as a cystic lesion with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The lack of internal septations, solid components, or significant enhancement makes other possibilities like dermoid or hemorrhagic cyst less likely. A simple cyst is also possible but often appears less well-defined and may have a slightly different signal intensity.
+
+Final Answer: endometrioma"
+D2-010,negative,T1FS,swapped,T2-weighted fat-suppressed,-6.2500001806765795,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific signal characteristics and morphology in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-010,negative,T1FS,none,(none),-6.62500018812716,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a cystic lesion with internal echoes or a complex mass.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or low-level internal echoes. This appearance is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-010,negative,T2FS,true,T2-weighted fat-suppressed,-5.249999958090484,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears normal, and there are no other significant findings to suggest other types of cysts like simple cysts, dermoids, or hemorrhagic cysts.
+
+Final Answer: endometrioma"
+D2-010,negative,T2FS,swapped,T1-weighted fat-suppressed,-5.249999923631549,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the adnexa. On T1-weighted images, endometriomas typically appear as low signal intensity (dark) structures, often with a characteristic ""ground glass"" appearance due to the presence of old blood products. The lesion is also located in the adnexa, consistent with an ovarian origin. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the typical appearance and location strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-010,negative,T2FS,none,(none),-5.625000020489097,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often described as having a ""ground glass"" or ""chocolate cyst"" appearance due to the presence of old blood products. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts are possible, the overall morphology and location are most consistent with an endometrioma, especially in the context of a female pelvis.
+
+Final Answer: endometrioma"
+D2-012,negative,T1FS,true,T1-weighted fat-suppressed,-5.624999834224582,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the left ovary. It has a characteristic appearance consistent with an endometrioma, which often presents as a complex cyst with low signal intensity on T1-weighted images due to the presence of old blood products (hemosiderin). While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and signal characteristics in these slices are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-012,negative,T1FS,swapped,T2-weighted fat-suppressed,-5.749999939464033,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which is typically anechoic or hypoechoic and may have thin walls), dermoid (which often contains fat and calcifications), or hemorrhagic cyst (which typically has a high signal intensity on T2-weighted images due to blood). The lack of significant internal echoes or septations also makes a hemorrhagic cyst less likely.
+
+Final Answer: endometrioma"
+D2-012,negative,T1FS,none,(none),-6.1249999068677425,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a complex cystic mass with internal echoes or septations.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic appearance, including internal septations and possibly a homogeneous or slightly heterogeneous internal signal intensity. This morphology is highly suggestive of an endometrioma, which is a type of ovarian cyst associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific features seen in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-012,negative,T2FS,true,T2-weighted fat-suppressed,-5.374999956227839,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-012,negative,T2FS,swapped,T1-weighted fat-suppressed,-5.1250001061707735,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-012,negative,T2FS,none,(none),-5.75000018440187,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure located in the right ovary. It has a characteristic appearance with internal septations and a slightly heterogeneous signal intensity, which is consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts are possible, the specific features observed in the MRI are most suggestive of an endometrioma.
+"
+D2-014,negative,T1FS,true,T1-weighted fat-suppressed,-5.125000135973096,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features suggestive of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other types of cysts are possible, the appearance is most consistent with an endometrioma, which often presents as a complex cyst with low signal intensity on T1-weighted images due to the presence of old blood products and hemosiderin. The other options are less likely given the typical appearance:
+*   Simple cysts are usually unilocular and have a thin wall.
+*   Dermoid cysts often contain fat and calcifications, which are not clearly visible here.
+*   Hemorrhagic cysts typically have a more complex appearance with internal echoes or septations, often related to acute bleeding.
+*   The absence of a definitive diagnosis does not rule out any specific type, but the characteristics point towards endometrioma as the most probable nature.
+
+Final Answer: endometrioma"
+D2-014,negative,T1FS,swapped,T2-weighted fat-suppressed,-5.124999991618097,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific appearance in these slices is most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-014,negative,T1FS,none,(none),-5.750000079162419,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with multiple internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-014,negative,T2FS,true,T2-weighted fat-suppressed,-1.7500000298023224,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears relatively normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-014,negative,T2FS,swapped,T1-weighted fat-suppressed,-1.625,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and possibly low-level internal echoes, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears relatively normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-014,negative,T2FS,none,(none),-1.9999998807907104,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T1-weighted images, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often described as having a ""ground glass"" or ""chocolate cyst"" appearance due to the presence of old blood products. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts are possible, the overall morphology and location are highly suggestive of an endometrioma, especially in the context of a pelvic MRI.
+
+Final Answer: endometrioma"
+D2-015,negative,T1FS,true,T1-weighted fat-suppressed,-5.3750001061707735,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts are possible, the appearance is most consistent with an endometrioma. Endometriomas typically appear as cystic structures with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The location and morphology are highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-015,negative,T1FS,swapped,T2-weighted fat-suppressed,-5.374999935738742,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific signal characteristics and morphology in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-015,negative,T1FS,none,(none),-5.874999941326678,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a cystic lesion with internal echoes or a complex cyst.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the internal septations and heterogeneous appearance strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-015,negative,T2FS,true,T2-weighted fat-suppressed,-1.9999999850988388,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the right adnexa (right ovary), there is a complex cystic lesion with internal septations and possibly low-level internal echoes, which are characteristic features of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The surrounding ovarian tissue appears normal, and there are no features suggestive of a simple cyst, dermoid, or hemorrhagic cyst.
+
+Final Answer: endometrioma"
+D2-015,negative,T2FS,swapped,T1-weighted fat-suppressed,-1.7500000149011612,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the right adnexa (right ovary), there is a complex cystic lesion with internal septations and possibly low-level internal echoes, which are characteristic features of an endometrioma.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be an **endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the right ovary. It has a characteristic appearance on T1-weighted images, often showing a slightly hyperintense rim (though this is not clearly visible in all slices) and a hypointense center, which is typical for endometriomas. The surrounding ovarian tissue appears normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and location are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-015,negative,T2FS,none,(none),-2.375000022351742,yes,endometrioma,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right ovary appears as a complex cystic structure with internal echoes, consistent with the appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated nature and internal septations strongly suggest an endometrioma. The lack of significant enhancement or solid components further supports this diagnosis.
+"
+D2-016,negative,T1FS,true,T1-weighted fat-suppressed,-6.749999897554517,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a peripheral rim of enhancement.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most consistent with an endometrioma. Endometriomas typically appear as cystic structures with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The location and morphology are highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-016,negative,T1FS,swapped,T2-weighted fat-suppressed,-6.874999999534339,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which is typically anechoic or hypoechoic and may have thin walls), dermoid (which often contains fat and calcifications), or hemorrhagic cyst (which typically has a high signal intensity on T2-weighted images due to blood). The lack of significant internal echoes or septations also makes a hemorrhagic cyst less likely.
+
+Final Answer: endometrioma"
+D2-016,negative,T1FS,none,(none),-7.3749998258426785,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a cystic lesion with internal echoes or a complex cyst.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the internal septations and heterogeneous appearance are more suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-016,negative,T2FS,true,T2-weighted fat-suppressed,-4.8749998193234205,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion located in the right ovary. It has a characteristic appearance consistent with an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (usually unilocular, thin-walled, no internal echoes), dermoid (often contains fat, calcifications, or hair), or hemorrhagic cyst (often has internal echoes). The presence of a T2 hyperintense lesion within the ovary, especially in a female patient, strongly suggests an endometrioma.
+"
+D2-016,negative,T2FS,swapped,T1-weighted fat-suppressed,-4.750000165775418,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a well-defined, round, T1 hyperintense lesion located in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance for this condition.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific appearance in these slices is most consistent with an endometrioma.
+Final Answer: endometrioma"
+D2-016,negative,T2FS,none,(none),-5.250000067055225,yes,endometrioma,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right ovary appears as a complex cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often associated with endometriomas, which are ovarian cysts filled with old blood, typically appearing as low signal intensity on T1-weighted images and high signal intensity on T2-weighted images. The location and morphology are consistent with an endometrioma. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most suggestive of an endometrioma.
+"
+D2-017,negative,T1FS,true,T1-weighted fat-suppressed,-5.499999913387001,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. While other types of cysts are possible, the appearance is most consistent with an endometrioma, which typically presents as a cystic lesion with homogeneous low signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance on T2-weighted images (though T2 is not provided here). The lack of significant internal septations, solid components, or complex features makes other diagnoses like dermoid or hemorrhagic cyst less likely. A simple cyst is also possible, but the appearance is more suggestive of an endometrioma given the typical characteristics.
+
+Final Answer: endometrioma"
+D2-017,negative,T1FS,swapped,T2-weighted fat-suppressed,-5.624999917112291,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of endometriomas, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. Its appearance is consistent with an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the characteristics seen in these slices are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-017,negative,T1FS,none,(none),-5.875000082887709,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show any characteristic features of an endometrioma, such as a complex cystic mass with internal echoes or septations.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a complex cyst with internal septations and possibly some internal debris or solid components. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-017,negative,T2FS,true,T2-weighted fat-suppressed,-2.2499999701976776,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion with a thin, smooth wall. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located in the right ovary. While other cystic lesions like simple cysts, dermoids, and hemorrhagic cysts can occur, the specific characteristics of this lesion (T2 hyperintensity, smooth wall, likely internal echoes representing old blood) strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-017,negative,T2FS,swapped,T1-weighted fat-suppressed,-2.3750000298023224,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the right side. These cysts are hyperintense on T1-weighted images, which is characteristic of endometriomas. The presence of these cysts, along with their typical location and signal characteristics, strongly suggests the presence of ovarian endometriomas.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the right ovary. It has a characteristic appearance on T1-weighted images, often showing a slightly hyperintense rim (though this is not clearly visible in all slices) and a hypointense center. This appearance is highly suggestive of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and location are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-017,negative,T2FS,none,(none),-2.750000089406967,yes,endometrioma,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and possibly internal debris, consistent with the appearance of endometriomas.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with internal septations and a slightly heterogeneous appearance. These features are characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the multiloculated nature and internal septations strongly suggest an endometrioma.
+
+Final Answer: endometrioma"
+D2-018,negative,T1FS,true,T1-weighted fat-suppressed,-3.750000026077032,no,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T1-weighted images and a high signal intensity on T2-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and relatively homogeneous cystic structure located in the right ovary. It has a characteristic appearance consistent with an endometrioma, which often presents as a complex cyst with low signal intensity on T1-weighted images due to the presence of old blood products (hemosiderin). While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the overall morphology and signal characteristics in this image are most suggestive of an endometrioma.
+
+Final Answer: endometrioma"
+D2-018,negative,T1FS,swapped,T2-weighted fat-suppressed,-4.124999858438969,no,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located within the ovary and does not show features suggestive of other types of cysts like a simple cyst (which is typically anechoic or hypoechoic and may have thin walls), dermoid (which often contains fat and calcifications), or hemorrhagic cyst (which typically has a high signal intensity on T2-weighted images due to blood). The lesion's appearance is most consistent with an endometrioma.
+"
+D2-018,negative,T1FS,none,(none),-4.374999895691872,no,endometrioma,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic structures with characteristic features of an endometrioma, such as a homogeneous low-signal intensity appearance on T1-weighted images and a high-signal intensity appearance on T2-weighted images, or a ""ground glass"" appearance on T2-weighted images.
+
+Final Answer: no","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, multiloculated cystic structure with a characteristic appearance, including internal septations and possibly a homogeneous or slightly heterogeneous internal signal intensity. This morphology is highly suggestive of an endometrioma, which is a type of ovarian cyst associated with endometriosis. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific features seen in these slices are most consistent with an endometrioma.
+
+Final Answer: endometrioma"
+D2-018,negative,T2FS,true,T2-weighted fat-suppressed,-3.0,yes,endometrioma,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion located in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance for this condition.
+
+Final Answer: yes","Based on the provided axial T2-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, T2 hyperintense (bright) lesion with a thin, smooth wall. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood, often associated with endometriosis. The lesion is located in the left ovary. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts can occur, the specific characteristics in the provided images strongly suggest an endometrioma.
+"
+D2-018,negative,T2FS,swapped,T1-weighted fat-suppressed,-2.749999910593033,yes,endometrioma,"Based on the provided axial T1-weighted fat-suppressed MRI slices, there is a well-defined, round, T1 hyperintense lesion located in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the expected location of the right ovary and demonstrates the characteristic appearance of an endometrioma on T1-weighted imaging.
+
+Final Answer: yes","Based on the provided axial T1-weighted fat-suppressed MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, and hypointense (dark) structure within the ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from ectopic endometrial tissue. The surrounding ovarian tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the specific appearance and location are most consistent with an endometrioma.
+"
+D2-018,negative,T2FS,none,(none),-2.9999999329447746,yes,endometrioma,"Based on the provided MRI slices, there is a well-defined, T1 hyperintense, T2 hypointense lesion in the right adnexa, consistent with an endometrioma.
+
+Final Answer: yes","Based on the provided MRI slices, the dominant ovarian cystic lesion appears to be a **Final Answer: endometrioma**.
+
+Reasoning:
+The lesion is a well-defined, round, cystic structure located in the ovary. It has a characteristic appearance often associated with endometriomas, which are ovarian cysts containing old blood, typically appearing as low signal intensity on T1-weighted images and high signal intensity on T2-weighted images. The surrounding tissue appears relatively normal. While other cystic lesions like simple cysts, dermoids, or hemorrhagic cysts are possible, the appearance is most consistent with an endometrioma.
+"

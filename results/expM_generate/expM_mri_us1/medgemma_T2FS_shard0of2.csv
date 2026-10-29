@@ -1,0 +1,694 @@
+subject,gt,em_side,seq,abl,layout,label,hist,logit_yes_no,endo,endo_raw,truncated
+D2-000,cyst,,T2FS,real,us1,em,empty,4.2499998062849045,yes,"Based on the MRI images provided, there is a large cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-000,cyst,,T2FS,real,us1,em,known_em,5.374999940395355,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-000,cyst,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-000,cyst,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-002,cyst,,T2FS,real,us1,em,empty,3.375000014901161,yes,"Based on the MRI images provided, there is a large cystic lesion in the right adnexa, which is consistent with an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-002,cyst,,T2FS,real,us1,em,known_em,5.1250001937150955,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and measures approximately 5.5 x 5.1 x 5.2 cm.",False
+D2-002,cyst,,T2FS,blank,us1,em,empty,1.8749999105930328,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-002,cyst,,T2FS,blank,us1,em,known_em,3.4999999701976776,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-004,negative,,T2FS,real,us1,em,empty,2.750000074505806,yes,"Based on the provided MRI images, there is a complex cystic lesion in the right adnexa, which could represent an endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-004,negative,,T2FS,real,us1,em,known_em,4.999999776482582,yes,"Yes, there is an ovarian endometrioma in the MRI volume.
+
+The MRI shows a well-defined, T1 hyperintense, T2 hypointense lesion in the right ovary, consistent with an endometrioma.
+
+Final Answer: yes",False
+D2-004,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-004,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-006,cyst,,T2FS,real,us1,em,empty,6.000000089406967,yes,"Yes, there is an ovarian endometrioma in the MRI volume.
+
+The MRI shows a well-defined, T1 hypointense, T2 hyperintense lesion in the left ovary, consistent with an endometrioma. There is also a large amount of free fluid in the pelvis, which could be related to the endometrioma.
+
+Final Answer: yes",False
+D2-006,cyst,,T2FS,real,us1,em,known_em,6.374999858438969,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the left ovary and measures approximately 5.5 x 4.5 x 4.5 cm.",False
+D2-006,cyst,,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-006,cyst,,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-010,negative,,T2FS,real,us1,em,empty,4.125000111758709,yes,"Based on the provided MRI images, there is a large cystic lesion in the left adnexa, which could represent an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-010,negative,,T2FS,real,us1,em,known_em,5.250000163912773,yes,"Yes, there is an ovarian endometrioma in the MRI volume.
+
+The MRI shows a complex cystic lesion in the left ovary, which is consistent with an endometrioma. The lesion has a thick wall and internal echoes, which are characteristic features of an endometrioma.
+
+The size of the lesion is approximately 4.5 x 3.5 x 4.0 cm.
+
+The surrounding structures are normal.
+
+The uterus is unremarkable.
+
+The bladder is unremarkable.
+
+The bowel is unremarkable.
+
+The lymph nodes are unremarkable.
+
+The visualized portions of the small bowel and colon are unremarkable.
+
+The visualized portions of the lungs are unremarkable.
+
+The visualized portions of the liver, spleen, pancreas, and adrenal glands are unremarkable.
+
+The visualized portions of the kidneys are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions of the tendons are unremarkable.
+
+The visualized portions of the joints are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the blood vessels are unremarkable.
+
+The visualized portions of the nerves are unremarkable.
+
+The visualized portions of the lymph nodes are unremarkable.
+
+The visualized portions of the vessels are unremarkable.
+
+The visualized portions of the organs are unremarkable.
+
+The visualized portions of the tissues are unremarkable.
+
+The visualized portions of the bones are unremarkable.
+
+The visualized portions of the cartilage are unremarkable.
+
+The visualized portions of the bone marrow are unremarkable.
+
+The visualized portions of the muscles are unremarkable.
+
+The visualized portions of the soft tissues are unremarkable.
+
+The visualized portions of the skin are unremarkable.
+
+The visualized portions of the subcutaneous fat are unremarkable.
+
+The visualized portions of the fascia are unremarkable.
+
+The visualized portions of the ligaments are unremarkable.
+
+The visualized portions",True
+D2-010,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-010,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-012,negative,,T2FS,real,us1,em,empty,4.000000216066837,yes,"Based on the provided MRI images, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal echoes, consistent with endometriomas.
+
+Final Answer: yes",False
+D2-012,negative,,T2FS,real,us1,em,known_em,5.249999895691872,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-012,negative,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-012,negative,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-014,negative,,T2FS,real,us1,em,empty,5.125000171363354,yes,"Based on the provided MRI images, there is a cystic lesion in the left adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-014,negative,,T2FS,real,us1,em,known_em,5.625000014901161,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-014,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-014,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-016,negative,,T2FS,real,us1,em,empty,4.625000223517418,yes,"Based on the provided MRI images, there is a large cystic lesion in the right adnexa, which could represent an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-016,negative,,T2FS,real,us1,em,known_em,5.500000163912773,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and appears as a complex cystic mass.",False
+D2-016,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-016,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-018,negative,,T2FS,real,us1,em,empty,4.625000149011612,yes,"Based on the provided MRI images, there is a cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-018,negative,,T2FS,real,us1,em,known_em,5.499999828636646,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-018,negative,,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-018,negative,,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-020,negative,,T2FS,real,us1,em,empty,3.124999985098839,yes,"Based on the provided MRI images, there is a possible ovarian endometrioma in the left ovary. The lesion appears as a complex cystic structure with internal echoes, which is suggestive of an endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-020,negative,,T2FS,real,us1,em,known_em,4.874999798834324,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-020,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-020,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-022,negative,,T2FS,real,us1,em,empty,3.875000089406967,yes,"Based on the provided MRI images, there is a cystic lesion in the right ovary that could represent an endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-022,negative,,T2FS,real,us1,em,known_em,5.375000141561031,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-022,negative,,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-022,negative,,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-024,negative,,T2FS,real,us1,em,empty,4.500000059604645,yes,"Based on the provided MRI images, there is a large cystic lesion in the right adnexa, which could represent an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-024,negative,,T2FS,real,us1,em,known_em,5.375000096857548,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and appears as a complex cystic mass.",False
+D2-024,negative,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-024,negative,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-026,negative,,T2FS,real,us1,em,empty,3.1250000447034836,yes,"Based on the provided MRI images, there is a large cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-026,negative,,T2FS,real,us1,em,known_em,4.875000029802322,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-026,negative,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-026,negative,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-028,negative,,T2FS,real,us1,em,empty,4.125000074505806,yes,"Based on the provided MRI images, there is a cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-028,negative,,T2FS,real,us1,em,known_em,5.125000037252903,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-028,negative,,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-028,negative,,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-038,negative,,T2FS,real,us1,em,empty,3.3750001192092896,yes,"Based on the provided MRI images, there is a possible ovarian endometrioma in the right ovary. The lesion appears as a complex cystic structure with internal echoes, which is suggestive of an endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-038,negative,,T2FS,real,us1,em,known_em,4.6250001564621925,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-038,negative,,T2FS,blank,us1,em,empty,1.8749999701976776,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-038,negative,,T2FS,blank,us1,em,known_em,3.4999998956918716,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-040,endometrioma,left,T2FS,real,us1,em,empty,3.1249999403953552,yes,"Based on the provided MRI images, there is a possible ovarian endometrioma in the right ovary. The lesion appears as a complex cystic structure with internal echoes, which is suggestive of an endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-040,endometrioma,left,T2FS,real,us1,em,known_em,4.625000081956387,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-040,endometrioma,left,T2FS,blank,us1,em,empty,1.7499999403953552,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-040,endometrioma,left,T2FS,blank,us1,em,known_em,3.2500001043081284,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-042,cyst,,T2FS,real,us1,em,empty,2.3750000596046448,no,"Based on the provided MRI images, there is no clear evidence of an ovarian endometrioma. The images show a normal uterus and ovaries.
+
+Final Answer: no",False
+D2-042,cyst,,T2FS,real,us1,em,known_em,4.875000044703484,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-042,cyst,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-042,cyst,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-044,negative,,T2FS,real,us1,em,empty,4.125000201165676,yes,"Based on the provided MRI images, there is a cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-044,negative,,T2FS,real,us1,em,known_em,4.625000081956387,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-044,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-044,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-046,negative,,T2FS,real,us1,em,empty,3.500000089406967,yes,"Based on the provided MRI images, there is a cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-046,negative,,T2FS,real,us1,em,known_em,4.750000007450581,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-046,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-046,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-048,negative,,T2FS,real,us1,em,empty,4.750000022351742,yes,"Based on the provided MRI images, there is a large, complex cystic lesion in the right adnexa, which could represent an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-048,negative,,T2FS,real,us1,em,known_em,5.624999836087227,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and is consistent with an endometrioma.",False
+D2-048,negative,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-048,negative,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-050,negative,,T2FS,real,us1,em,empty,2.3750000447034836,no,"Based on the provided MRI images, there is no clear evidence of an ovarian endometrioma. The images show normal ovarian structures and no distinct cystic lesions suggestive of an endometrioma.
+
+Final Answer: no",False
+D2-050,negative,,T2FS,real,us1,em,known_em,3.874999977648258,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary. The lesion appears as a complex cystic structure with internal echoes, consistent with an endometrioma.
+
+Final Answer: yes",False
+D2-050,negative,,T2FS,blank,us1,em,empty,1.8750000894069672,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-050,negative,,T2FS,blank,us1,em,known_em,3.6250000298023224,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-052,negative,,T2FS,real,us1,em,empty,4.375000134110451,yes,"Based on the provided MRI images, there is a large, complex cystic lesion in the right adnexa, which could represent an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-052,negative,,T2FS,real,us1,em,known_em,5.3749998062849045,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and appears as a complex cystic mass with internal echoes.",False
+D2-052,negative,,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-052,negative,,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-054,endometrioma,right,T2FS,real,us1,em,empty,5.124999761581421,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and appears as a complex cystic mass with internal echoes. This finding is consistent with an endometrioma.",False
+D2-054,endometrioma,right,T2FS,real,us1,em,known_em,5.874999918043613,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and measures approximately 5.5 x 5.1 x 5.2 cm.",False
+D2-054,endometrioma,right,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-054,endometrioma,right,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-056,cyst,,T2FS,real,us1,em,empty,4.624999888241291,yes,"Based on the provided MRI images, there is a large cystic lesion in the right adnexa, which could represent an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-056,cyst,,T2FS,real,us1,em,known_em,5.62500012665987,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-056,cyst,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-056,cyst,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-058,negative,,T2FS,real,us1,em,empty,4.374999925494194,yes,"Based on the MRI images provided, there is a large cystic lesion in the right adnexa, which is consistent with an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-058,negative,,T2FS,real,us1,em,known_em,5.4999998435378075,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and measures approximately 4.5 x 4.1 x 4.1 cm.",False
+D2-058,negative,,T2FS,blank,us1,em,empty,1.875,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-058,negative,,T2FS,blank,us1,em,known_em,3.3749999403953552,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-060,negative,,T2FS,real,us1,em,empty,3.500000089406967,yes,"Based on the provided MRI images, there is a large cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-060,negative,,T2FS,real,us1,em,known_em,5.000000067055225,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-060,negative,,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-060,negative,,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-062,negative,,T2FS,real,us1,em,empty,3.9999998211860657,yes,"Based on the provided MRI images, there is a large, complex cystic lesion in the right adnexa, which could represent an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-062,negative,,T2FS,real,us1,em,known_em,4.999999918043613,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and appears as a complex cystic mass with internal echoes.",False
+D2-062,negative,,T2FS,blank,us1,em,empty,1.8750001192092896,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-062,negative,,T2FS,blank,us1,em,known_em,3.5000000447034836,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-065,negative,,T2FS,real,us1,em,empty,3.3749998956918716,yes,"Based on the provided MRI images, there is a cystic lesion in the left ovary that could represent an endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-065,negative,,T2FS,real,us1,em,known_em,4.750000022351742,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-065,negative,,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-065,negative,,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-067,negative,,T2FS,real,us1,em,empty,3.6249999403953552,yes,"Based on the provided MRI images, there is a cystic lesion in the left adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-067,negative,,T2FS,real,us1,em,known_em,5.125000052154064,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the left ovary and is consistent with an endometrioma.",False
+D2-067,negative,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-067,negative,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-071,endometrioma,right,T2FS,real,us1,em,empty,5.000000223517418,yes,"Based on the provided MRI images, there is a large, complex cystic lesion in the pelvis, likely representing an ovarian endometrioma. The lesion is multiloculated and has internal echoes, consistent with the appearance of an endometrioma.
+
+Final Answer: yes",False
+D2-071,endometrioma,right,T2FS,real,us1,em,known_em,5.750000044703484,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the right ovary and is consistent with an endometrioma.",False
+D2-071,endometrioma,right,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-071,endometrioma,right,T2FS,blank,us1,em,known_em,3.6249999403953552,yes,"Based on the provided MRI image, there is an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-073,negative,,T2FS,real,us1,em,empty,5.124999970197678,yes,"Based on the MRI images provided, there is a cystic lesion in the left adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-073,negative,,T2FS,real,us1,em,known_em,5.750000163912773,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The lesion is located in the left ovary and measures approximately 3.5 x 3.5 x 3.5 cm.",False
+D2-073,negative,,T2FS,blank,us1,em,empty,1.8749999701976776,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-073,negative,,T2FS,blank,us1,em,known_em,3.250000089406967,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-075,cyst,,T2FS,real,us1,em,empty,3.7500001192092896,yes,"Based on the provided MRI images, there is a large cystic lesion in the right adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-075,cyst,,T2FS,real,us1,em,known_em,5.25,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-075,cyst,,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-075,cyst,,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False
+D2-077,endometrioma,left,T2FS,real,us1,em,empty,4.8750001937150955,yes,"Based on the MRI images provided, there is a large cystic structure in the right adnexa, which is consistent with an ovarian endometrioma.
+
+Final Answer: yes",False
+D2-077,endometrioma,left,T2FS,real,us1,em,known_em,5.499999940395355,yes,"Yes, there is an ovarian endometrioma in the MRI volume. The large cystic lesion in the right ovary is consistent with an endometrioma.",False
+D2-077,endometrioma,left,T2FS,blank,us1,em,empty,2.0,yes,"Based on the provided MRI images, there is a suspected ovarian endometrioma in the right ovary.
+
+Final Answer: yes",False
+D2-077,endometrioma,left,T2FS,blank,us1,em,known_em,3.3749999701976776,yes,"Based on the provided image, there is an ovarian endometrioma.
+Final Answer: yes",False
+D2-079,endometrioma,left,T2FS,real,us1,em,empty,4.249999932944775,yes,"Based on the provided MRI images, there is a large cystic lesion in the left adnexa, which could represent an ovarian endometrioma. However, further evaluation is needed to confirm the diagnosis.
+
+Final Answer: yes",False
+D2-079,endometrioma,left,T2FS,real,us1,em,known_em,5.625000014901161,yes,"Yes, there is an ovarian endometrioma in the MRI volume.",False
+D2-079,endometrioma,left,T2FS,blank,us1,em,empty,1.8749999403953552,yes,"Based on the provided MRI images, there is an ovarian endometrioma present.
+
+Final Answer: yes",False
+D2-079,endometrioma,left,T2FS,blank,us1,em,known_em,3.374999910593033,yes,"Based on the provided image, there is an ovarian endometrioma present.
+Final Answer: yes",False

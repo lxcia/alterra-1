@@ -1,0 +1,24 @@
+# 1. positive controls (ct_repro.py already run as the smoke test)
+experiments/expP_positive_controls.py --parts P1,P3,P4
+experiments/expP_positive_controls.py --parts P2
+experiments/expX_cxr_laterality.py
+# 2. synthetic lesions
+experiments/expC2_synthetic_side.py --generate
+experiments/expC4_psychometric.py --shard 0 --nshards 2
+experiments/expC4_psychometric.py --shard 1 --nshards 2
+# 3. free-text reports
+experiments/expR_freetext_report.py --shard 0 --nshards 2
+experiments/expR_freetext_report.py --shard 1 --nshards 2
+# 4. appendix
+experiments/expA_sequence.py
+experiments/expA2_contrast.py --generate
+experiments/expA3_type_order.py
+experiments/expD_slices.py
+experiments/expD2_shuffle_confirm.py
+experiments/expE_invariance.py
+experiments/expF_pushback.py
+experiments/expN_noise.py
+# 5. other Failure 2 experiments on D2
+experiments/expB2_history_dose.py
+experiments/expB_history.py
+experiments/expB3_history_x_paraphrase.py

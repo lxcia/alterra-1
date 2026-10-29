@@ -1,0 +1,1435 @@
+subject,label,kind,idx,logit_yes_no,side_argmax,lp_left,lp_right,lp_bilateral,lp_none,answer,raw
+D2-000,cyst,para_endo,0,-4.6249998696148396,,,,,,,
+D2-000,cyst,para_endo,1,-2.625000111758709,,,,,,,
+D2-000,cyst,para_endo,2,-0.8749999701976776,,,,,,,
+D2-000,cyst,para_endo,3,-0.6250000596046448,,,,,,,
+D2-000,cyst,para_endo,4,-1.6249999403953552,,,,,,,
+D2-000,cyst,para_side,0,,left,-0.010948466137051582,-7.885948657989502,-12.823448181152344,-10.510948181152344,,
+D2-000,cyst,para_side,1,,left,-0.01559819933027029,-8.01559829711914,-11.57809829711914,-9.14059829711914,,
+D2-000,cyst,para_side,2,,left,-0.007617118768393993,-7.882616996765137,-12.382616996765137,-9.632616996765137,,
+D2-000,cyst,para_side,3,,left,-0.04985981807112694,-7.299860000610352,-9.049860000610352,-8.174860000610352,,
+D2-000,cyst,para_side,4,,left,-0.019382482394576073,-8.26938247680664,-13.83188247680664,-9.64438247680664,,
+D2-000,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-000,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show a large pelvic mass, but its characteristics are not specific enough to confirm endometrioma. Additional imaging modalities or clinical correlation might be necessary for a definitive diagnosis.
+
+Final Answer: no"
+D2-000,cyst,sample_endo,2,,,,,,,yes,"There are multiple large, low-signal intensity lesions located in the adnexa bilaterally. They are predominantly cystic in appearance. These lesions are consistent with bilateral ovarian endometriomas.
+
+Final Answer: yes"
+D2-000,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a large pelvic mass, specifically on the left side. This mass appears complex, with multiple internal echoes and septations, consistent with an endometrioma. The mass displaces the normally located uterus and ovaries to the right. Although further imaging or correlation with clinical history is necessary for definitive diagnosis, the imaging findings are highly suspicious.
+
+Final Answer: no"
+D2-000,cyst,sample_endo,4,,,,,,,yes,"The provided axial T2-weighted fat-suppressed MRI slices show numerous bilateral adnexal cysts, likely representing ovarian endometriomas. One large cyst is noted in the left adnexa measuring approximately 5.5 cm in diameter. Additionally, numerous smaller cysts are visible in both adnexal regions.
+
+Final Answer: yes"
+D2-000,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary is significantly enlarged with a complex cystic lesion measuring approximately 7.7 cm. The right ovary appears relatively normal in size and morphology.
+"
+D2-000,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The left ovarian cystic lesion is significantly larger compared to the right ovarian cystic lesion. Visual inspection of the contiguous slices confirms the presence of a large, complex appearing cyst on the left ovary.
+
+Final Answer: left"
+D2-000,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 17, 18, 19, 20, and 21.
+"
+D2-000,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 8.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-000,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large, multiloculated cystic lesion is visible in the left adnexa. The lesion appears to extend into the pelvis and occupies a significant portion of the left adnexal region. While a lesion is also present on the right side, it appears smaller and less prominent than the left-sided lesion.
+
+**Final Answer: left**"
+D2-001,negative,para_endo,0,-4.0000002309679985,,,,,,,
+D2-001,negative,para_endo,1,-2.2500001043081284,,,,,,,
+D2-001,negative,para_endo,2,0.125,,,,,,,
+D2-001,negative,para_endo,3,0.6249999403953552,,,,,,,
+D2-001,negative,para_endo,4,-0.6250000596046448,,,,,,,
+D2-001,negative,para_side,0,,left,-0.013078385964035988,-7.888078212738037,-12.763078689575195,-10.638078689575195,,
+D2-001,negative,para_side,1,,left,-0.014782067388296127,-8.014781951904297,-11.764781951904297,-9.514781951904297,,
+D2-001,negative,para_side,2,,left,-0.0058044688776135445,-8.380804061889648,-13.005804061889648,-9.880804061889648,,
+D2-001,negative,para_side,3,,left,-0.06678229570388794,-7.441782474517822,-9.316781997680664,-8.191781997680664,,
+D2-001,negative,para_side,4,,left,-0.026797760277986526,-8.1517972946167,-13.5267972946167,-9.4017972946167,,
+D2-002,cyst,para_endo,0,-3.7500000968575478,,,,,,,
+D2-002,cyst,para_endo,1,-0.75,,,,,,,
+D2-002,cyst,para_endo,2,0.6250000298023224,,,,,,,
+D2-002,cyst,para_endo,3,1.5000000298023224,,,,,,,
+D2-002,cyst,para_endo,4,0.0,,,,,,,
+D2-002,cyst,para_side,0,,left,-0.011976124718785286,-8.13697624206543,-13.07447624206543,-11.13697624206543,,
+D2-002,cyst,para_side,1,,left,-0.016727076843380928,-8.016727447509766,-11.891727447509766,-9.516727447509766,,
+D2-002,cyst,para_side,2,,left,-0.006129277404397726,-8.131129264831543,-12.506129264831543,-10.006129264831543,,
+D2-002,cyst,para_side,3,,left,-0.06079413741827011,-7.685794353485107,-9.43579387664795,-8.56079387664795,,
+D2-002,cyst,para_side,4,,left,-0.01930437609553337,-8.394304275512695,-13.831804275512695,-9.769304275512695,,
+D2-002,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-002,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, but they do not contain sufficient detail to assess the ovaries for characteristic features of an endometrioma (such as a ground-glass appearance or internal echoes). Further evaluation with contrast-enhanced pelvic MRI or ultrasound is typically required for the diagnosis.
+
+Final Answer: no"
+D2-002,cyst,sample_endo,2,,,,,,,no,"There are multiple bilateral renal cysts, which are common and usually benign. There are also perineural cysts in the pelvis, which are common and usually incidental. There is also a large cystic structure in the left ovary, in the expected location of the ovary, which could represent a cyst or an endometrioma. Please keep in mind that a definitive diagnosis requires clinical correlation and potentially further imaging.
+
+Final Answer: no"
+D2-002,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+The presence of a dermoid cyst does not definitively rule out an ovarian endometrioma, as both can sometimes appear similarly. However, based on the provided images alone, the findings are more consistent with a dermoid cyst.
+
+Final Answer: no"
+D2-002,cyst,sample_endo,4,,,,,,,no,"The provided axial T2-weighted fat-suppressed MRI images show the pelvis. There is a large multiloculated cystic mass in the left adnexa, consistent with an ovarian cyst. Some of the cysts appear to partially fill with fluid, which could be consistent with an endometrioma, but further characterization or follow-up imaging is needed to confirm this diagnosis. However, based on the provided images alone, it cannot be definitively concluded that this is an ovarian endometrioma.
+
+Final Answer: no"
+D2-002,cyst,sample_side,0,,,,,,,left,Final Answer: left
+D2-002,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The left ovarian cystic lesion is significantly larger compared to the right ovarian cystic lesion. Visual inspection of the contiguous slices confirms the relative size difference.
+
+Final Answer: left"
+D2-002,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis. This is evident in multiple slices, including slice 13, 19, 21, 25, 27, 29, 31, 33, 35, and 37.
+"
+D2-002,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-002,cyst,sample_side,4,,,,,,,unparsed,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show the pelvic region. A prominent cystic lesion is visible within the left ovary. Several smaller lesions are also partially visible within the right ovary, but the left lesion is the largest."
+D2-003,cyst,para_endo,0,-4.3749998938292265,,,,,,,
+D2-003,cyst,para_endo,1,-1.7500000447034836,,,,,,,
+D2-003,cyst,para_endo,2,-0.25,,,,,,,
+D2-003,cyst,para_endo,3,0.7500000298023224,,,,,,,
+D2-003,cyst,para_endo,4,-0.8749999701976776,,,,,,,
+D2-003,cyst,para_side,0,,left,-0.010058666579425335,-7.760058879852295,-12.635058403015137,-10.760058403015137,,
+D2-003,cyst,para_side,1,,left,-0.011313335038721561,-7.886313438415527,-11.573813438415527,-9.386313438415527,,
+D2-003,cyst,para_side,2,,left,-0.006951788440346718,-7.881951808929443,-12.569451332092285,-9.881951332092285,,
+D2-003,cyst,para_side,3,,left,-0.05064386501908302,-7.4256439208984375,-9.300643920898438,-8.050643920898438,,
+D2-003,cyst,para_side,4,,left,-0.014548295177519321,-7.889548301696777,-13.202048301696777,-9.389548301696777,,
+D2-003,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-003,cyst,sample_endo,1,,,,,,,yes,"Based on the provided T2-weighted fat suppressed MRI images, there is a complex cystic lesion in the right adnexa, measuring approximately 4.3 x 3.6 x 3.5 cm. This lesion is characterized by multiple small echogenic foci within it, suggestive of internal hemorrhage or debris. The lesion is located adjacent to the uterus and ovaries. Given these findings, it is highly suspicious for an ovarian endometrioma, also known as a ""chocolate cyst"".
+
+Final Answer: yes"
+D2-003,cyst,sample_endo,2,,,,,,,no,"There is no definitive evidence of an ovarian endometrioma based on the provided T2-weighted fat-suppressed MRI slices. While there is some incidental signal intensity seen within the left ovary, it does not meet the typical criteria for a well-defined endometrioma, which usually demonstrates high signal intensity on T1-weighted images, isointense or hypointense on T2-weighted images, and demonstrates dark signal intensity on diffusion-weighted imaging. 
+
+Final Answer: no"
+D2-003,cyst,sample_endo,3,,,,,,,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+The presence of a dermoid cyst is seen on slices 12, 15, and 16.
+
+Final Answer: yes"
+D2-003,cyst,sample_endo,4,,,,,,,yes,"The slices provided show T2-weighted fat-suppressed images of the pelvis. There is a lesion observed in the left ovary. This lesion appears as a fat-containing structure, characteristic of an endometrioma. The surrounding normal ovarian tissue is also visible. Based on these findings, the presence of an ovarian endometrioma cannot be ruled out and is likely present.
+
+Final Answer: yes"
+D2-003,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary is identified in the axial plane of slices 24 through 31. The most enlarged of these cysts in the left ovary is observed in slice 24.
+"
+D2-003,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The left ovarian cystic lesion is significantly larger compared to the right ovarian cystic lesion. Visual inspection of the contiguous slices confirms this finding.
+Final Answer: left"
+D2-003,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis.
+"
+D2-003,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-003,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show the pelvic region. A relatively large cystic structure is visible in the left adnexa, situated between the left ovary and the uterus. While there are smaller cystic structures visible on the right side as well, the one on the left appears significantly larger.
+
+Final Answer: left"
+D2-004,negative,para_endo,0,-6.250000204890966,,,,,,,
+D2-004,negative,para_endo,1,-3.4999999552965164,,,,,,,
+D2-004,negative,para_endo,2,-1.7500000447034836,,,,,,,
+D2-004,negative,para_endo,3,-0.25,,,,,,,
+D2-004,negative,para_endo,4,-2.8750000819563866,,,,,,,
+D2-004,negative,para_side,0,,left,-0.011386174708604813,-7.511386394500732,-12.198885917663574,-10.386385917663574,,
+D2-004,negative,para_side,1,,left,-0.011953272856771946,-7.386953353881836,-11.074453353881836,-9.136953353881836,,
+D2-004,negative,para_side,2,,left,-0.006066835951060057,-8.006067276000977,-12.318567276000977,-9.631067276000977,,
+D2-004,negative,para_side,3,,left,-0.051061030477285385,-7.051061153411865,-8.926060676574707,-7.926061153411865,,
+D2-004,negative,para_side,4,,left,-0.024257643148303032,-8.02425765991211,-13.39925765991211,-9.39925765991211,,
+D2-005,negative,para_endo,0,0.5000000596046448,,,,,,,
+D2-005,negative,para_endo,1,0.75,,,,,,,
+D2-005,negative,para_endo,2,2.1250001043081284,,,,,,,
+D2-005,negative,para_endo,3,2.3749999701976776,,,,,,,
+D2-005,negative,para_endo,4,1.2499999403953552,,,,,,,
+D2-005,negative,para_side,0,,left,-0.013064384460449219,-7.888064384460449,-13.45056438446045,-11.38806438446045,,
+D2-005,negative,para_side,1,,left,-0.018158741295337677,-8.018158912658691,-12.268158912658691,-9.768158912658691,,
+D2-005,negative,para_side,2,,left,-0.007197877392172813,-8.257198333740234,-13.194698333740234,-10.507198333740234,,
+D2-005,negative,para_side,3,,left,-0.09003832936286926,-7.715038299560547,-10.215038299560547,-8.965038299560547,,
+D2-005,negative,para_side,4,,left,-0.03331847861409187,-8.408318519592285,-14.720818519592285,-10.408318519592285,,
+D2-006,cyst,para_endo,0,-1.25,,,,,,,
+D2-006,cyst,para_endo,1,0.7499999701976776,,,,,,,
+D2-006,cyst,para_endo,2,1.6250000298023224,,,,,,,
+D2-006,cyst,para_endo,3,1.6250000298023224,,,,,,,
+D2-006,cyst,para_endo,4,0.0,,,,,,,
+D2-006,cyst,para_side,0,,left,-0.008028261363506317,-7.883028030395508,-12.570528030395508,-10.633028030395508,,
+D2-006,cyst,para_side,1,,left,-0.009850109927356243,-8.00985050201416,-11.00985050201416,-9.50985050201416,,
+D2-006,cyst,para_side,2,,left,-0.005578663665801287,-7.880578517913818,-11.943078994750977,-9.630578994750977,,
+D2-006,cyst,para_side,3,,left,-0.033665481954813004,-7.658665657043457,-9.033665657043457,-8.408665657043457,,
+D2-006,cyst,para_side,4,,left,-0.014269928447902203,-8.014269828796387,-12.951769828796387,-9.514269828796387,,
+D2-006,cyst,sample_endo,0,,,,,,,unparsed,Final Answer: The final answer is $\boxed{yes}$
+D2-006,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show pelvic structures including the uterus, adnexa, and surrounding soft tissues. However, for a comprehensive assessment of ovarian pathology, a dedicated MRI of the pelvis with pelvic urogynaecology protocol, including contrast enhancement, is typically required. Visual inspection of these static slices along with the axial T2 weighted fat-suppressed images is insufficient to rule out or confirm an endometrioma. Ovarian endometriomas often have a characteristic appearance, but their presence or absence can be subtle, especially with moderate size or in cases of recent postsurgical intervention. Further imaging and clinical correlation would be needed for accurate diagnosis.
+
+Final Answer: no"
+D2-006,cyst,sample_endo,2,,,,,,,yes,"There are multiple bilateral ovarian endometriomas.
+
+Final Answer: yes"
+D2-006,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+The presence of multiple cystic structures with fat signal intensity does raise the possibility of a complex adnexal lesion. However, given the morphology on T2-weighted images, a dermoid cyst is a likely consideration.
+
+Final Answer: no"
+D2-006,cyst,sample_endo,4,,,,,,,yes,"The slices provided show multiple large cysts located within the pelvis, predominantly involving the right adnexal region. Several of these cysts are fluid-filled, demonstrating T2 hyperintensity with a characteristic dark rim appearance on fat-suppressed sequences. These findings are highly suggestive of endometriomas.
+
+Final Answer: yes"
+D2-006,cyst,sample_side,0,,,,,,,left,Final Answer: left
+D2-006,cyst,sample_side,1,,,,,,,left,"Based on the provided MRI slices, the largest ovarian cystic lesion appears to be on the **left** side. This is indicated by the larger, more prominent cystic structure seen in the left adnexa, particularly in the later slices (e.g., SLICE 18, SLICE 22).
+
+Final Answer: left"
+D2-006,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis.
+"
+D2-006,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-006,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large, well-defined cystic lesion is visible in the left adnexa. Multiple smaller cystic lesions are also present on the right side, but the one on the left is significantly larger.
+Final Answer: left"
+D2-008,endometrioma,para_endo,0,-6.1250001192092896,,,,,,,
+D2-008,endometrioma,para_endo,1,-4.000000212341547,,,,,,,
+D2-008,endometrioma,para_endo,2,-1.9999998956918716,,,,,,,
+D2-008,endometrioma,para_endo,3,-1.3750000447034836,,,,,,,
+D2-008,endometrioma,para_endo,4,-2.8750000819563866,,,,,,,
+D2-008,endometrioma,para_side,0,,left,-0.012012285180389881,-7.262012481689453,-12.449512481689453,-10.262012481689453,,
+D2-008,endometrioma,para_side,1,,left,-0.014126308262348175,-7.264126300811768,-11.264126777648926,-9.139126777648926,,
+D2-008,endometrioma,para_side,2,,left,-0.006219437345862389,-7.756219387054443,-12.381219863891602,-9.381219863891602,,
+D2-008,endometrioma,para_side,3,,left,-0.055610667914152145,-6.930610656738281,-8.930610656738281,-7.805610656738281,,
+D2-008,endometrioma,para_side,4,,left,-0.019348107278347015,-7.89434814453125,-13.01934814453125,-9.01934814453125,,
+D2-008,endometrioma,sample_endo,0,,,,,,,no,Final Answer: no
+D2-008,endometrioma,sample_endo,1,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the pelvis, there is no obvious evidence of an ovarian endometrioma. 
+
+The ovaries appear unremarkable, and no distinct endometrioma characteristics such as the ""ground glass"" appearance or the characteristic ""popcorn"" sign are visible. However, a definitive diagnosis requires a thorough evaluation of multiple images taken along the ovarian axes, visualization of the ovarian cortex, and potentially correlation with clinical findings or other imaging modalities.
+
+Final Answer: no
+"
+D2-008,endometrioma,sample_endo,2,,,,,,,no,"There are several pelvic organs visible, including the uterus, ovaries, and vagina. The patient is female, and the imaging modality is MRI. While incidental findings are possible, the slices provided do not clearly demonstrate an ovarian endometrioma. Therefore, based on the provided images, I cannot definitively conclude that an ovarian endometrioma is present.
+
+Final Answer: no"
+D2-008,endometrioma,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no definitive evidence of an ovarian endometrioma. The slices show the ovaries, uterus, and surrounding structures in the female pelvis. While subtle findings can sometimes be suggestive, the provided images do not demonstrate typical features such as a cystic mass with magnetic susceptibility artifact within the ovary, which are characteristic of an endometrioma. Therefore, the conclusion is that there is no clear evidence of an ovarian endometrioma in these slices.
+
+Final Answer: no"
+D2-008,endometrioma,sample_endo,4,,,,,,,no,"The provided axial T2-weighted fat-suppressed MRI slices show the pelvis. There is no apparent ovarian endometrioma visualized in the provided slices.
+
+Ovarian endometriomas typically appear as round or oval-shaped masses with diffuse low signal intensity on T2-weighted images, potentially demonstrating pseudocapsule and surrounding nodular enhancement on half-Fourier acquisition single-shot turbo spin-echo (HASTE) sequences. While there are some fluid-containing structures, they do not have the characteristic appearance of an endometrioma.
+
+Final Answer: no"
+D2-008,endometrioma,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary is identified in the axial plane of slices 24 through 31. The most enlarged of these cysts in the left ovary is observed in slice 24.
+"
+D2-008,endometrioma,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side of the pelvis.
+
+Reasoning:
+- Slices 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 show structures consistent with the left ovary, including a relatively large cystic structure.
+- Slices 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 show structures consistent with the right ovary, which appears less prominent than the left ovary based on cyst size.
+
+Final Answer: left"
+D2-008,endometrioma,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 10 and 11.
+"
+D2-008,endometrioma,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a slightly T2 hyperintense structure measuring approximately 3.1 x 3.6 x 3.0 cm.
+
+Final Answer: left"
+D2-008,endometrioma,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show the pelvic region. A cystic lesion is visible in the left ovary. While there might be smaller lesions partially visible or more clearly delineated on the right, the most prominent and larger lesion is on the left side.
+Final Answer: left"
+D2-010,negative,para_endo,0,-5.249999958090484,,,,,,,
+D2-010,negative,para_endo,1,-3.250000037252903,,,,,,,
+D2-010,negative,para_endo,2,-1.1249999701976776,,,,,,,
+D2-010,negative,para_endo,3,-1.6249999850988388,,,,,,,
+D2-010,negative,para_endo,4,-2.3749999701976776,,,,,,,
+D2-010,negative,para_side,0,,left,-0.008706112392246723,-7.883706092834473,-12.696206092834473,-10.508706092834473,,
+D2-010,negative,para_side,1,,left,-0.010429050773382187,-7.7604289054870605,-11.322929382324219,-9.385429382324219,,
+D2-010,negative,para_side,2,,left,-0.005032609682530165,-8.255032539367676,-12.630032539367676,-10.005032539367676,,
+D2-010,negative,para_side,3,,left,-0.0400586873292923,-7.540058612823486,-9.540059089660645,-8.290059089660645,,
+D2-010,negative,para_side,4,,left,-0.017508473247289658,-8.392508506774902,-13.767508506774902,-9.517508506774902,,
+D2-011,cyst,para_endo,0,-6.749999968800694,,,,,,,
+D2-011,cyst,para_endo,1,-4.624999765306711,,,,,,,
+D2-011,cyst,para_endo,2,-2.000000074505806,,,,,,,
+D2-011,cyst,para_endo,3,-2.4999998807907104,,,,,,,
+D2-011,cyst,para_endo,4,-2.749999888241291,,,,,,,
+D2-011,cyst,para_side,0,,left,-0.01764095015823841,-7.392641067504883,-12.517641067504883,-10.392641067504883,,
+D2-011,cyst,para_side,1,,left,-0.01625416800379753,-7.39125394821167,-11.391254425048828,-9.266254425048828,,
+D2-011,cyst,para_side,2,,left,-0.007339774165302515,-8.132339477539062,-12.694839477539062,-9.757339477539062,,
+D2-011,cyst,para_side,3,,left,-0.06829197704792023,-6.818292140960693,-8.568291664123535,-7.943292140960693,,
+D2-011,cyst,para_side,4,,left,-0.030217565596103668,-7.78021764755249,-12.905217170715332,-8.905217170715332,,
+D2-011,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-011,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show pelvic structures including the uterus, ovaries, and surrounding ligaments. However, detecting an ovarian endometrioma typically requires specific imaging characteristics such as a cystic lesion with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images, often with associated enhancement after contrast administration. The T2-weighted fat-suppressed images provided show dark lesions, which could represent various pathologies, including normal cysts or other ovarian abnormalities. Without additional information like contrast-enhanced imaging, T1-weighted images, or further characterization of the lesions identified, it is impossible to confirm or rule out the presence of an endometrioma.
+
+Final Answer: no"
+D2-011,cyst,sample_endo,2,,,,,,,yes,"There are multiple pelvic endometriomas, which are ovarian cysts containing old blood, often called ""chocolate cysts"".  This is evident in the image slices.
+
+Final Answer: yes"
+D2-011,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic high signal intensity within a cystic structure consistent with a dermoid cyst, particularly its posterior peripheral nodular component seen on some of the images. While these findings could potentially be consistent with an endometrioma based on imaging characteristics alone, the clinical context and specific characteristics of the mass (e.g., strand-like structures, high T1 signal within the nodule) often help differentiate between the two. Therefore, while endometrioma is a possibility, the imaging findings are most consistent with a left ovarian dermoid cyst.
+
+Final Answer: no"
+D2-011,cyst,sample_endo,4,,,,,,,yes,"The provided axial T2-weighted fat-suppressed MRI images show the female pelvis and pubic symphysis. There are multiple large rounded masses seen symmetrically present within the adnexal regions bilaterally, which appear hyperintense on T2-weighted images with diminished signal on the fat-suppressed sequence. These findings are most consistent with bilateral ovarian endometriomas.
+
+Final Answer: yes"
+D2-011,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's leg is positioned on the right side of the image.
+"
+D2-011,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The images show a collection of cysts within the ovaries. Comparing the size of the cysts on the left (Image 16, 17, 18, 19, 20) and the right sides (Image 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34), the left ovary contains the most prominent cysts, suggesting it is the largest in size.
+Final Answer: final answer is left"
+D2-011,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left pelvic side.
+"
+D2-011,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a slightly T2 hyperintense structure measuring approximately 3.1 x 3.6 x 3.0 cm.
+
+Final Answer: left"
+D2-011,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show the pelvic region. A relatively large cystic structure is visible in the left adnexa, situated between the left ovary and the uterus. While there are smaller cystic structures visible on the right side as well, the one on the left appears significantly larger.
+
+Final Answer: left"
+D2-012,negative,para_endo,0,-5.374999956227839,,,,,,,
+D2-012,negative,para_endo,1,-2.750000074505806,,,,,,,
+D2-012,negative,para_endo,2,-0.8750000298023224,,,,,,,
+D2-012,negative,para_endo,3,-1.125,,,,,,,
+D2-012,negative,para_endo,4,-2.249999910593033,,,,,,,
+D2-012,negative,para_side,0,,left,-0.007704897318035364,-7.257704734802246,-12.070204734802246,-10.507704734802246,,
+D2-012,negative,para_side,1,,left,-0.011223869398236275,-7.511223793029785,-10.886223793029785,-9.261223793029785,,
+D2-012,negative,para_side,2,,left,-0.006995589472353458,-7.756995677947998,-11.88199520111084,-9.63199520111084,,
+D2-012,negative,para_side,3,,left,-0.03921918570995331,-6.789219379425049,-8.16421890258789,-7.914219379425049,,
+D2-012,negative,para_side,4,,left,-0.014517277479171753,-8.014516830444336,-12.764516830444336,-9.514516830444336,,
+D2-013,cyst,para_endo,0,-6.50000013737008,,,,,,,
+D2-013,cyst,para_endo,1,-4.749999983236194,,,,,,,
+D2-013,cyst,para_endo,2,-1.2500000596046448,,,,,,,
+D2-013,cyst,para_endo,3,-2.1250001043081284,,,,,,,
+D2-013,cyst,para_endo,4,-2.7500000968575478,,,,,,,
+D2-013,cyst,para_side,0,,left,-0.012581617571413517,-7.762581825256348,-12.762581825256348,-10.637581825256348,,
+D2-013,cyst,para_side,1,,left,-0.011141233146190643,-7.636141300201416,-11.511140823364258,-9.386140823364258,,
+D2-013,cyst,para_side,2,,left,-0.0054723224602639675,-8.130472183227539,-12.755472183227539,-9.755472183227539,,
+D2-013,cyst,para_side,3,,left,-0.04782382771372795,-7.422823905944824,-9.547823905944824,-8.172823905944824,,
+D2-013,cyst,para_side,4,,left,-0.026265263557434082,-8.151265144348145,-13.588765144348145,-9.151265144348145,,
+D2-013,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-013,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show pelvic structures including the uterus, ovaries, and surrounding ligaments. However, detecting an ovarian endometrioma typically requires specific imaging characteristics such as a cystic lesion with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images, often with a characteristic ""ground glass"" appearance. These specific features are crucial for diagnosis. Without clearer visualization of the ovaries and specific signal characteristics, I cannot confidently confirm the presence of an endometrioma.
+
+Final Answer: no"
+D2-013,cyst,sample_endo,2,,,,,,,yes,"There are multiple pelvic masses, some which are cystic. Some of these are well-circumscribed and predominantly hypointense on T2-weighted images, which is characteristic of endometriomas. There are also some larger, more heterogenous pelvic masses that may represent larger endometriomas, or other pathologies such as cysts. On the other hand, some of the cystic masses appear to be located in the adnexal region, which is the location of the ovaries. There also appear to be some evidence of internal septations within some of the cystic masses, which can further support the diagnosis of endometriomas.
+
+Based on these findings, it is highly suggestive of the presence of ovarian endometriomas.
+
+Final Answer: yes"
+D2-013,cyst,sample_endo,3,,,,,,,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+The presence of a dermoid cyst is seen on slices 12, 13, and 14.
+
+Final Answer: yes"
+D2-013,cyst,sample_endo,4,,,,,,,no,"The provided axial T2-weighted fat-suppressed MRI images show the pelvis. There is no visual evidence of an ovarian endometrioma in these images.
+
+Final Answer: no"
+D2-013,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Rationale: The largest ovarian cystic lesion appears to be located on the left side, particularly on axial T2-weighted fat-suppressed image 12. There is a distinct, well-defined cystic structure projecting from the left adnexa, appearing bright on T2-weighted sequences. While small cysts or follicles may be present on the right, the largest and most prominent structure identified is on the left."
+D2-013,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The left ovarian cystic lesion is significantly larger compared to the right ovarian cystic lesion. Visual inspection of the contiguous slices confirms this finding.
+Final Answer: left"
+D2-013,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 10 and 11.
+"
+D2-013,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a slightly T2 hyperintense structure measuring approximately 3.1 x 3.6 x 3.0 cm.
+
+Final Answer: left"
+D2-013,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large cystic structure is visible in the left ovary. The structure is of high signal intensity, consistent with a cyst. A similar, but smaller, cystic structure is visible in the right ovary, but it is smaller than the one on the left side. Therefore, the largest lesion is located on the left side.
+
+Final Answer: left"
+D2-014,negative,para_endo,0,-1.7500000298023224,,,,,,,
+D2-014,negative,para_endo,1,0.0,,,,,,,
+D2-014,negative,para_endo,2,0.875,,,,,,,
+D2-014,negative,para_endo,3,1.4999999552965164,,,,,,,
+D2-014,negative,para_endo,4,-0.125,,,,,,,
+D2-014,negative,para_side,0,,left,-0.011877882294356823,-8.13687801361084,-12.51187801361084,-10.88687801361084,,
+D2-014,negative,para_side,1,,left,-0.012495091184973717,-8.012495040893555,-11.449995040893555,-9.762495040893555,,
+D2-014,negative,para_side,2,,left,-0.005287590902298689,-8.505287170410156,-12.505287170410156,-10.130287170410156,,
+D2-014,negative,para_side,3,,left,-0.04846672713756561,-7.673466682434082,-9.173466682434082,-8.548466682434082,,
+D2-014,negative,para_side,4,,left,-0.019540080800652504,-8.519539833068848,-13.519539833068848,-9.894539833068848,,
+D2-015,negative,para_endo,0,-1.9999999850988388,,,,,,,
+D2-015,negative,para_endo,1,-0.375,,,,,,,
+D2-015,negative,para_endo,2,1.0000000596046448,,,,,,,
+D2-015,negative,para_endo,3,2.0000000298023224,,,,,,,
+D2-015,negative,para_endo,4,-1.125,,,,,,,
+D2-015,negative,para_side,0,,left,-0.011388178914785385,-7.261388301849365,-12.511387825012207,-10.636387825012207,,
+D2-015,negative,para_side,1,,left,-0.012963660061359406,-7.637963771820068,-11.32546329498291,-9.63796329498291,,
+D2-015,negative,para_side,2,,left,-0.004473796579986811,-7.754473686218262,-12.254473686218262,-10.129473686218262,,
+D2-015,negative,para_side,3,,left,-0.04643426835536957,-7.17143440246582,-9.29643440246582,-8.67143440246582,,
+D2-015,negative,para_side,4,,left,-0.02023669332265854,-8.02023696899414,-13.14523696899414,-9.89523696899414,,
+D2-016,negative,para_endo,0,-4.8749998193234205,,,,,,,
+D2-016,negative,para_endo,1,-2.6250000819563866,,,,,,,
+D2-016,negative,para_endo,2,-0.375,,,,,,,
+D2-016,negative,para_endo,3,-0.875,,,,,,,
+D2-016,negative,para_endo,4,-1.0,,,,,,,
+D2-016,negative,para_side,0,,left,-0.01067015714943409,-7.510670185089111,-12.573169708251953,-10.885669708251953,,
+D2-016,negative,para_side,1,,left,-0.013387314043939114,-7.638387203216553,-11.388387680053711,-9.638387680053711,,
+D2-016,negative,para_side,2,,left,-0.007052409462630749,-8.132052421569824,-12.444552421569824,-10.132052421569824,,
+D2-016,negative,para_side,3,,left,-0.06654118001461029,-6.9415411949157715,-8.816540718078613,-8.566540718078613,,
+D2-016,negative,para_side,4,,left,-0.024206912145018578,-7.89920711517334,-12.96170711517334,-9.39920711517334,,
+D2-017,negative,para_endo,0,-2.2499999701976776,,,,,,,
+D2-017,negative,para_endo,1,0.0,,,,,,,
+D2-017,negative,para_endo,2,0.5,,,,,,,
+D2-017,negative,para_endo,3,1.3750000298023224,,,,,,,
+D2-017,negative,para_endo,4,-1.2500000298023224,,,,,,,
+D2-017,negative,para_side,0,,left,-0.015132272616028786,-6.515132427215576,-12.265131950378418,-10.390131950378418,,
+D2-017,negative,para_side,1,,left,-0.015608410350978374,-7.015608310699463,-11.453108787536621,-9.640608787536621,,
+D2-017,negative,para_side,2,,left,-0.008521858602762222,-7.133522033691406,-12.008522033691406,-9.758522033691406,,
+D2-017,negative,para_side,3,,left,-0.058893833309412,-6.43389368057251,-8.808894157409668,-8.058894157409668,,
+D2-017,negative,para_side,4,,left,-0.01866070367395878,-7.518660545349121,-12.831160545349121,-9.393660545349121,,
+D2-018,negative,para_endo,0,-3.0,,,,,,,
+D2-018,negative,para_endo,1,-0.375,,,,,,,
+D2-018,negative,para_endo,2,1.0000000298023224,,,,,,,
+D2-018,negative,para_endo,3,1.375,,,,,,,
+D2-018,negative,para_endo,4,-0.125,,,,,,,
+D2-018,negative,para_side,0,,left,-0.007040808908641338,-7.507040977478027,-12.007040977478027,-10.507040977478027,,
+D2-018,negative,para_side,1,,left,-0.00888265110552311,-7.758882522583008,-11.071382522583008,-9.508882522583008,,
+D2-018,negative,para_side,2,,left,-0.004568140488117933,-7.629568099975586,-11.879568099975586,-9.629568099975586,,
+D2-018,negative,para_side,3,,left,-0.03346755728125572,-7.283467769622803,-8.658467292785645,-8.283467292785645,,
+D2-018,negative,para_side,4,,left,-0.011544330045580864,-8.011544227600098,-12.949044227600098,-9.511544227600098,,
+D2-019,negative,para_endo,0,-4.1250000931322575,,,,,,,
+D2-019,negative,para_endo,1,-2.000000074505806,,,,,,,
+D2-019,negative,para_endo,2,-0.625,,,,,,,
+D2-019,negative,para_endo,3,0.7499999403953552,,,,,,,
+D2-019,negative,para_endo,4,-1.1249999403953552,,,,,,,
+D2-019,negative,para_side,0,,left,-0.01085271779447794,-7.635852813720703,-12.385852813720703,-10.260852813720703,,
+D2-019,negative,para_side,1,,left,-0.011058235540986061,-7.886058330535889,-11.32355785369873,-9.26105785369873,,
+D2-019,negative,para_side,2,,left,-0.005904256831854582,-8.380904197692871,-12.943404197692871,-9.755904197692871,,
+D2-019,negative,para_side,3,,left,-0.04046415165066719,-7.665463924407959,-9.040464401245117,-7.915463924407959,,
+D2-019,negative,para_side,4,,left,-0.015706872567534447,-8.140707015991211,-13.203207015991211,-9.515707015991211,,
+D2-020,negative,para_endo,0,-3.750000052154064,,,,,,,
+D2-020,negative,para_endo,1,-2.500000052154064,,,,,,,
+D2-020,negative,para_endo,2,-0.25,,,,,,,
+D2-020,negative,para_endo,3,-0.125,,,,,,,
+D2-020,negative,para_endo,4,-0.8749999701976776,,,,,,,
+D2-020,negative,para_side,0,,left,-0.012935888953506947,-8.262935638427734,-12.950435638427734,-11.012935638427734,,
+D2-020,negative,para_side,1,,left,-0.011920054443180561,-8.386919975280762,-11.949419975280762,-9.761919975280762,,
+D2-020,negative,para_side,2,,left,-0.006093495525419712,-8.25609302520752,-12.63109302520752,-10.00609302520752,,
+D2-020,negative,para_side,3,,left,-0.04781382903456688,-8.047813415527344,-9.985313415527344,-8.797813415527344,,
+D2-020,negative,para_side,4,,left,-0.026501886546611786,-8.776501655578613,-14.401501655578613,-10.026501655578613,,
+D2-021,negative,para_endo,0,-4.874999936670065,,,,,,,
+D2-021,negative,para_endo,1,-2.000000089406967,,,,,,,
+D2-021,negative,para_endo,2,-0.6249999403953552,,,,,,,
+D2-021,negative,para_endo,3,-0.375,,,,,,,
+D2-021,negative,para_endo,4,-1.6250000149011612,,,,,,,
+D2-021,negative,para_side,0,,left,-0.011105629615485668,-7.261105537414551,-12.07360553741455,-10.38610553741455,,
+D2-021,negative,para_side,1,,left,-0.0131290964782238,-7.513129234313965,-10.888129234313965,-9.138129234313965,,
+D2-021,negative,para_side,2,,left,-0.00805368646979332,-7.758053779602051,-11.82055377960205,-9.38305377960205,,
+D2-021,negative,para_side,3,,left,-0.05150077864527702,-6.8015007972717285,-8.30150032043457,-7.6765007972717285,,
+D2-021,negative,para_side,4,,left,-0.021894294768571854,-7.896894454956055,-12.709394454956055,-9.271894454956055,,
+D2-022,negative,para_endo,0,-4.500000083819032,,,,,,,
+D2-022,negative,para_endo,1,-1.6249999701976776,,,,,,,
+D2-022,negative,para_endo,2,-0.375,,,,,,,
+D2-022,negative,para_endo,3,1.1250000298023224,,,,,,,
+D2-022,negative,para_endo,4,-1.5000000298023224,,,,,,,
+D2-022,negative,para_side,0,,left,-0.012050682678818703,-7.387050628662109,-11.44955062866211,-10.01205062866211,,
+D2-022,negative,para_side,1,,left,-0.011270548216998577,-7.511270523071289,-10.511270523071289,-9.261270523071289,,
+D2-022,negative,para_side,2,,left,-0.00565867917612195,-7.6306586265563965,-11.630659103393555,-9.380659103393555,,
+D2-022,negative,para_side,3,,left,-0.048849720507860184,-6.923849582672119,-8.173850059509277,-7.798849582672119,,
+D2-022,negative,para_side,4,,left,-0.01982843689620495,-8.019828796386719,-12.894828796386719,-9.519828796386719,,
+D2-023,negative,para_endo,0,-6.875000000931323,,,,,,,
+D2-023,negative,para_endo,1,-4.374999884516001,,,,,,,
+D2-023,negative,para_endo,2,-2.749999888241291,,,,,,,
+D2-023,negative,para_endo,3,-2.3749999552965164,,,,,,,
+D2-023,negative,para_endo,4,-2.874999985098839,,,,,,,
+D2-023,negative,para_side,0,,left,-0.011299426667392254,-7.2612996101379395,-12.323799133300781,-10.136299133300781,,
+D2-023,negative,para_side,1,,left,-0.010216441005468369,-7.385216236114502,-11.07271671295166,-9.01021671295166,,
+D2-023,negative,para_side,2,,left,-0.0052835592068731785,-7.755283355712891,-12.31778335571289,-9.38028335571289,,
+D2-023,negative,para_side,3,,left,-0.04432480037212372,-6.66932487487793,-8.41932487487793,-7.54432487487793,,
+D2-023,negative,para_side,4,,left,-0.018110040575265884,-7.768110275268555,-12.893110275268555,-9.143110275268555,,
+D2-024,negative,para_endo,0,-1.3750000596046448,,,,,,,
+D2-024,negative,para_endo,1,-1.375,,,,,,,
+D2-024,negative,para_endo,2,1.2499999701976776,,,,,,,
+D2-024,negative,para_endo,3,1.0,,,,,,,
+D2-024,negative,para_endo,4,-0.375,,,,,,,
+D2-024,negative,para_side,0,,left,-0.009650364518165588,-7.509650230407715,-13.134650230407715,-11.259650230407715,,
+D2-024,negative,para_side,1,,left,-0.011284928768873215,-7.886284828186035,-11.823784828186035,-9.886284828186035,,
+D2-024,negative,para_side,2,,left,-0.006185790989547968,-8.006185531616211,-12.881185531616211,-10.256185531616211,,
+D2-024,negative,para_side,3,,left,-0.059382278472185135,-7.309382438659668,-9.684382438659668,-8.809382438659668,,
+D2-024,negative,para_side,4,,left,-0.01924848183989525,-7.8942484855651855,-13.894248008728027,-10.019248008728027,,
+D2-025,negative,para_endo,0,-5.750000122003257,,,,,,,
+D2-025,negative,para_endo,1,-3.249999910593033,,,,,,,
+D2-025,negative,para_endo,2,-1.7499999701976776,,,,,,,
+D2-025,negative,para_endo,3,-1.1249999701976776,,,,,,,
+D2-025,negative,para_endo,4,-2.3749999552965164,,,,,,,
+D2-025,negative,para_side,0,,left,-0.013544329442083836,-7.51354455947876,-12.451044082641602,-10.638544082641602,,
+D2-025,negative,para_side,1,,left,-0.013793270103633404,-7.638793468475342,-11.451292991638184,-9.513792991638184,,
+D2-025,negative,para_side,2,,left,-0.006872468627989292,-8.006872177124023,-12.256872177124023,-9.881872177124023,,
+D2-025,negative,para_side,3,,left,-0.055834922939538956,-7.305834770202637,-9.180834770202637,-8.305834770202637,,
+D2-025,negative,para_side,4,,left,-0.02165074832737446,-8.396650314331055,-13.771650314331055,-9.896650314331055,,
+D2-026,negative,para_endo,0,-6.874999891966581,,,,,,,
+D2-026,negative,para_endo,1,-4.624999780207872,,,,,,,
+D2-026,negative,para_endo,2,-2.749999985098839,,,,,,,
+D2-026,negative,para_endo,3,-3.3750000707805157,,,,,,,
+D2-026,negative,para_endo,4,-3.124999910593033,,,,,,,
+D2-026,negative,para_side,0,,left,-0.009134526364505291,-7.384134292602539,-12.259134292602539,-10.759134292602539,,
+D2-026,negative,para_side,1,,left,-0.014444195665419102,-7.389444351196289,-10.951944351196289,-9.264444351196289,,
+D2-026,negative,para_side,2,,left,-0.007909288629889488,-7.632909297943115,-12.070408821105957,-9.757908821105957,,
+D2-026,negative,para_side,3,,left,-0.06336229294538498,-6.563362121582031,-8.313362121582031,-7.813362121582031,,
+D2-026,negative,para_side,4,,left,-0.017799172550439835,-7.642799377441406,-12.642799377441406,-9.392799377441406,,
+D2-027,negative,para_endo,0,-4.000000178813934,,,,,,,
+D2-027,negative,para_endo,1,-0.875,,,,,,,
+D2-027,negative,para_endo,2,0.5,,,,,,,
+D2-027,negative,para_endo,3,1.0,,,,,,,
+D2-027,negative,para_endo,4,-0.625,,,,,,,
+D2-027,negative,para_side,0,,left,-0.011410807259380817,-7.511410713195801,-12.1989107131958,-10.6364107131958,,
+D2-027,negative,para_side,1,,left,-0.013562087900936604,-7.388562202453613,-10.826062202453613,-9.263562202453613,,
+D2-027,negative,para_side,2,,left,-0.007732932455837727,-8.132733345031738,-12.382733345031738,-9.882733345031738,,
+D2-027,negative,para_side,3,,left,-0.056470099836587906,-7.306469917297363,-8.681469917297363,-8.056469917297363,,
+D2-027,negative,para_side,4,,left,-0.025354359298944473,-7.775354385375977,-12.650354385375977,-9.400354385375977,,
+D2-028,negative,para_endo,0,-3.8750000298023224,,,,,,,
+D2-028,negative,para_endo,1,-1.5,,,,,,,
+D2-028,negative,para_endo,2,0.125,,,,,,,
+D2-028,negative,para_endo,3,1.0000000298023224,,,,,,,
+D2-028,negative,para_endo,4,-1.5000000447034836,,,,,,,
+D2-028,negative,para_side,0,,left,-0.015162448398768902,-7.390162467956543,-12.202662467956543,-10.390162467956543,,
+D2-028,negative,para_side,1,,left,-0.011497781611979008,-7.761497974395752,-11.511497497558594,-9.386497497558594,,
+D2-028,negative,para_side,2,,left,-0.005282491911202669,-7.880282402038574,-12.255282402038574,-9.505282402038574,,
+D2-028,negative,para_side,3,,left,-0.04559839516878128,-7.29559850692749,-9.170598030090332,-8.295598030090332,,
+D2-028,negative,para_side,4,,left,-0.024353977292776108,-8.149353981018066,-13.711853981018066,-9.649353981018066,,
+D2-029,negative,para_endo,0,-3.624999914318323,,,,,,,
+D2-029,negative,para_endo,1,-1.8749999701976776,,,,,,,
+D2-029,negative,para_endo,2,0.125,,,,,,,
+D2-029,negative,para_endo,3,0.375,,,,,,,
+D2-029,negative,para_endo,4,-1.0,,,,,,,
+D2-029,negative,para_side,0,,left,-0.011892843060195446,-7.386892795562744,-12.011893272399902,-10.511893272399902,,
+D2-029,negative,para_side,1,,left,-0.013318854384124279,-7.38831901550293,-10.88831901550293,-9.13831901550293,,
+D2-029,negative,para_side,2,,left,-0.006116126198321581,-8.131115913391113,-12.381115913391113,-9.881115913391113,,
+D2-029,negative,para_side,3,,left,-0.06910420954227448,-6.694104194641113,-8.194104194641113,-7.694104194641113,,
+D2-029,negative,para_side,4,,left,-0.023826465010643005,-8.023826599121094,-13.086326599121094,-9.398826599121094,,
+D2-038,negative,para_endo,0,-4.8749999376013875,,,,,,,
+D2-038,negative,para_endo,1,-3.6249998807907104,,,,,,,
+D2-038,negative,para_endo,2,-0.5,,,,,,,
+D2-038,negative,para_endo,3,0.25,,,,,,,
+D2-038,negative,para_endo,4,-1.7500000149011612,,,,,,,
+D2-038,negative,para_side,0,,left,-0.010906606912612915,-8.635906219482422,-13.260906219482422,-11.010906219482422,,
+D2-038,negative,para_side,1,,left,-0.010025384835898876,-8.385025024414062,-12.010025024414062,-9.635025024414062,,
+D2-038,negative,para_side,2,,left,-0.0052597238682210445,-8.75525951385498,-13.38025951385498,-10.25525951385498,,
+D2-038,negative,para_side,3,,left,-0.04621722549200058,-8.04621696472168,-9.98371696472168,-8.54621696472168,,
+D2-038,negative,para_side,4,,left,-0.018352581188082695,-9.018352508544922,-14.580852508544922,-10.143352508544922,,
+D2-039,cyst,para_endo,0,-3.0000001192092896,,,,,,,
+D2-039,cyst,para_endo,1,-2.1250001043081284,,,,,,,
+D2-039,cyst,para_endo,2,0.5,,,,,,,
+D2-039,cyst,para_endo,3,1.125,,,,,,,
+D2-039,cyst,para_endo,4,-0.8750000298023224,,,,,,,
+D2-039,cyst,para_side,0,,left,-0.009334847331047058,-7.884335041046143,-12.759334564208984,-10.509334564208984,,
+D2-039,cyst,para_side,1,,left,-0.010437190532684326,-7.88543701171875,-11.57293701171875,-9.26043701171875,,
+D2-039,cyst,para_side,2,,left,-0.005586606450378895,-8.130586624145508,-12.568086624145508,-9.505586624145508,,
+D2-039,cyst,para_side,3,,left,-0.030231906101107597,-7.905231952667236,-9.655231475830078,-8.280231475830078,,
+D2-039,cyst,para_side,4,,left,-0.013414249755442142,-8.26341438293457,-13.82591438293457,-9.76341438293457,,
+D2-039,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-039,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show pelvic structures including the uterus, ovaries, and surrounding ligaments. However, without additional information such as prior imaging, clinical history, or other MRI sequences (e.g., pre/post contrast), it is impossible to accurately assess for a endometrioma. Therefore, I cannot conclude whether or not an ovarian endometrioma is present.
+
+Final Answer: no"
+D2-039,cyst,sample_endo,2,,,,,,,yes,"There are multiple bilateral ovarian cysts, which are consistent with ovarian endometriomas. The cysts are cystic structures with low signal intensity on T2-weighted images, analogous to the appearance of endometriomas.
+
+Final Answer: yes"
+D2-039,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+The presence of a dermoid cyst does not definitively rule out an ovarian endometrioma, as both can sometimes appear similarly on MRI. However, given the typical characteristic findings of a dermoid cyst, particularly the smooth peripheral wall and internal strand-like structures, it is more likely to be an ovarian dermoid cyst than an endometrioma.
+
+Final Answer: no"
+D2-039,cyst,sample_endo,4,,,,,,,yes,"The slices provided show T2-weighted fat-suppressed MRI images of the female pelvis. Reviewing the images, there are multiple cystic structures seen within the pelvis. Some of these structures are located in the adnexal regions of both ovaries, and some are located in the cul-de-sac. These findings are consistent with ovarian endometriomas, also known as endometriotic cysts. Pleural cysts are also present. While the exact size and characteristics of these cysts are difficult to assess with certainty without comparison to prior studies or detailed evaluation of the peritoneal cavity, the presence of multiple cystic structures within the adnexal regions raises suspicion for endometriomas.
+
+Final Answer: yes"
+D2-039,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Rationale: The largest ovarian cystic lesion is located on the left side in the provided pelvic MRI images.
+"
+D2-039,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The images show a collection of cysts in the pelvis. Comparing the size of the cysts on the left (Image 16, 17, 18, 19, 20, 21) versus on the right (Image 7, 8, 9, 10, 11, 12, 13, 14, 15), the lesions on the left side appear significantly larger and more numerous in this particular contiguous block of images.
+
+Final Answer: left"
+D2-039,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis. This is evident in multiple slices, including slice 13, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, and 31. The dominant lesion on the left appears to be a complex cystic structure measuring approximately 3.8 x 4.6 cm in axial dimensions, located in the left adnexa and extending into the pelvis.
+"
+D2-039,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-039,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, the lesion in the left ovary (approximately at the 10 o'clock position, 2 o'clock to 4 o'clock) appears to be larger than the cyst in the right ovary (approximately at the 4 o'clock position, 6 o'clock to 8 o'clock).
+
+**Final Answer: left**"
+D2-040,endometrioma,para_endo,0,-5.4999998630955815,,,,,,,
+D2-040,endometrioma,para_endo,1,-3.1250000298023224,,,,,,,
+D2-040,endometrioma,para_endo,2,-1.3749999701976776,,,,,,,
+D2-040,endometrioma,para_endo,3,-0.25,,,,,,,
+D2-040,endometrioma,para_endo,4,-1.6250000149011612,,,,,,,
+D2-040,endometrioma,para_side,0,,left,-0.011635888367891312,-8.011635780334473,-12.636635780334473,-10.511635780334473,,
+D2-040,endometrioma,para_side,1,,left,-0.009770665317773819,-8.009770393371582,-11.384770393371582,-9.134770393371582,,
+D2-040,endometrioma,para_side,2,,left,-0.005288539454340935,-8.255288124084473,-12.630288124084473,-9.755288124084473,,
+D2-040,endometrioma,para_side,3,,left,-0.03931088000535965,-7.664310932159424,-9.414310455322266,-8.039310455322266,,
+D2-040,endometrioma,para_side,4,,left,-0.020967260003089905,-8.395967483520508,-13.895967483520508,-9.520967483520508,,
+D2-040,endometrioma,sample_endo,0,,,,,,,no,Final Answer: no
+D2-040,endometrioma,sample_endo,1,,,,,,,no,"Based on the provided T2-weighted fat suppressed MRI images, there is no clear evidence of an ovarian endometrioma. The ovary appears normal in size and morphology, and there are no characteristic T2-weighted findings suggestive of an endometrioma, such as a mass with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images, or along the ""ground glass"" appearance.
+
+Therefore, the final answer is **Final Answer: no**."
+D2-040,endometrioma,sample_endo,2,,,,,,,no,"There are several pelvic organs visible, including the uterus, ovaries, and vagina. The patient is female, and the imaging modality is MRI. While incidental findings are possible, the slices provided do not clearly demonstrate an ovarian endometrioma. Therefore, based on the provided images, I cannot definitively conclude that an ovarian endometrioma is present.
+
+Final Answer: no"
+D2-040,endometrioma,sample_endo,3,,,,,,,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a slightly higher signal intensity than the surrounding myometrium.
+
+It is difficult to definitively rule out an endometrioma based on these MRI images alone, as the appearance can sometimes overlap. However, the characteristic findings of a dermoid cyst are present.
+
+There is also evidence of a small cyst in the right ovary, which could be a functional cyst or other benign entity.
+
+There is no clear evidence of malignancy in the provided sagittal views.
+
+Therefore, the most likely finding based on the provided images is a left ovarian dermoid cyst.
+
+Final Answer: yes"
+D2-040,endometrioma,sample_endo,4,,,,,,,no,"The provided axial T2-weighted fat-suppressed MRI images show the female pelvis and pubic symphysis. There are no clearly visible ovarian endometriomas present in the provided images. It's important to note that assessing for ovarian endometriomas requires careful visualization of the ovaries, which may be partially obscured by bowel loops in these images. However, based on the visible structures, no definitive endometrioma is identified.
+
+Final Answer: no"
+D2-040,endometrioma,sample_side,0,,,,,,,left,"Final Answer: left
+Rationale: The largest ovarian cystic lesion appears to be located on the left side, particularly on axial T2-weighted fat-suppressed image 12. There is a distinct, well-defined cystic structure projecting from the left adnexa, appearing hypointense relative to the surrounding tissues on this image.
+"
+D2-040,endometrioma,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side of the pelvis.
+
+Reasoning:
+- Slices 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11 show an enlarged, T2 hyperintense cyst in the left adnexa, extending into the pelvis.
+- Slices 12, 13, 14, 15, 16, 17, 18, 19, 20, and 21 show the same type of cyst in the left adnexa.
+- Slices 22, 23, 24, 25, 26, 27, 28, 29, 30, and 31 show a smaller cyst or normal appearance in the right adnexa.
+- The cyst on the left side is significantly larger than any lesion visible on the right side.
+
+Final Answer: left"
+D2-040,endometrioma,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 10 and 11.
+"
+D2-040,endometrioma,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure within the left ovary.
+
+Final Answer: left"
+D2-040,endometrioma,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large, well-defined cystic lesion is visible in the left adnexa. While there is a smaller lesion suggested on the right, the left lesion is significantly larger and more prominent.
+
+**Final Answer:** left"
+D2-041,endometrioma,para_endo,0,-1.0000000596046448,,,,,,,
+D2-041,endometrioma,para_endo,1,1.6249999701976776,,,,,,,
+D2-041,endometrioma,para_endo,2,1.3750000596046448,,,,,,,
+D2-041,endometrioma,para_endo,3,2.624999888241291,,,,,,,
+D2-041,endometrioma,para_endo,4,1.2500000596046448,,,,,,,
+D2-041,endometrioma,para_side,0,,left,-0.009913495741784573,-8.134913444519043,-12.822413444519043,-11.259913444519043,,
+D2-041,endometrioma,para_side,1,,left,-0.013204274699091911,-8.138204574584961,-11.638204574584961,-10.013204574584961,,
+D2-041,endometrioma,para_side,2,,left,-0.0055478415451943874,-8.505547523498535,-12.755547523498535,-10.568047523498535,,
+D2-041,endometrioma,para_side,3,,left,-0.054475534707307816,-7.6794753074646,-9.554475784301758,-9.429475784301758,,
+D2-041,endometrioma,para_side,4,,left,-0.0177327711135149,-8.767732620239258,-13.580232620239258,-10.267732620239258,,
+D2-041,endometrioma,sample_endo,0,,,,,,,no,"Final Answer: The images show a large mass extending from the left ovary, with cystic features and signs of hemorrhage. This mass likely represents a large endometrioma.
+
+Final Answer: no"
+D2-041,endometrioma,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show a large pelvic mass, most likely a benign ovarian cyst, but further characterization is needed to differentiate it from a potential endometrioma.
+
+**Reasoning:**
+
+*   **Large Ovarian Mass:** The images reveal a significant cystic structure within the pelvis, originating most likely from the left ovary.
+*   **Appearance:** The mass appears cystic and partially enhances with contrast (although contrast administration is not explicitly stated, the imaging modality is T2-weighted fat-suppressed with inherent contrast enhancement in many cases, or a follow-up study might have been performed). The internal echoes seen within the cyst are characteristic of a hemorrhagic or complex cyst.
+*   **Differential Diagnosis:** This type of large, complex cystic mass can represent various pathologies, including:
+    *   **Benign Ovarian Cyst:** Simple or complex cystic neoplasms (e.g., dermoid cyst, cystadenoma).
+    *   **Endometrioma:** Ovarian cysts filled with old blood resulting from endometriosis. These can appear complex and may not enhance significantly.
+    *   **Other:** Less common possibilities could include hemorrhagic cysts, thrombosed cysts, or even cystic malignancies (though the appearance here is more suggestive of benignity).
+*   **Need for Further Evaluation:** To definitively diagnose an endometrioma, additional imaging modalities or clinical correlation are necessary. An ovarian endometrioma typically has characteristics such as:
+    *   **""Ground glass"" appearance:** A diffuse, amorphous internal pattern.
+    *   **Central scar:** A hypointense, fluid-filled structure often seen in the dependent portion of the cyst.
+    *   **Poor or absent enhancement:** Endometriomas usually do not enhance significantly with intravenous contrast, unlike many other ovarian cysts.
+    *   **Location:** While they can occur anywhere in the ovary, a lower uterine segment location is common.
+
+**Conclusion:**
+
+While the mass has features consistent with a complex ovarian cyst, it is not specific enough to confirm or rule out an endometrioma. More detailed characterization, potentially including contrast administration, ultrasound with Doppler, or gynecological correlation, is required for a definitive diagnosis.
+
+Final Answer: no"
+D2-041,endometrioma,sample_endo,2,,,,,,,yes,"There is a large left ovarian mass which is hyperintense on T2-weighted imaging and shows wall enhancement after contrast administration. These characteristics are highly suggestive of an endometrioma.
+
+Final Answer: yes"
+D2-041,endometrioma,sample_endo,3,,,,,,,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a large pelvic mass originating from the uterus. While the precise nature of this mass requires further evaluation including clinical correlation and potentially additional imaging sequences or contrast administration, the findings are concerning for an endometrial mass, possibly endometrioma, or other uterine pathology.
+Final Answer: yes"
+D2-041,endometrioma,sample_endo,4,,,,,,,yes,"The slices provided show a large multiloculated cystic lesion in the left adnexa, measuring approximately 9.2 x 11.9 x 10.1 cm. It has a T2 hyperintense appearance with signal dropout on the fat-suppressed sequences. Given the patient's sex and the imaging characteristics, this is highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-041,endometrioma,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's leg is positioned on the right side of the image.
+"
+D2-041,endometrioma,sample_side,1,,,,,,,left,"Based on the provided MRI slices, the largest ovarian cystic lesion appears to be on the **left** side. This is indicated by the significantly enlarged ovary seen in the axial slices, particularly in SLICE 15, SLICE 16, SLICE 17, SLICE 18, and SLICE 19.
+
+Final Answer: left"
+D2-041,endometrioma,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis.
+"
+D2-041,endometrioma,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion is clearly visible on the left pelvic side.
+
+Therefore, the final answer is:
+Final Answer: left"
+D2-041,endometrioma,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show a very large cystic structure arising from the left ovary. This cyst appears to be larger than the structure partially seen on the right side, although the right ovary is less well visualized in the provided slices.
+
+Final Answer: left"
+D2-042,cyst,para_endo,0,-5.500000017695129,,,,,,,
+D2-042,cyst,para_endo,1,-4.000000037252903,,,,,,,
+D2-042,cyst,para_endo,2,-1.3750000298023224,,,,,,,
+D2-042,cyst,para_endo,3,-1.2500000298023224,,,,,,,
+D2-042,cyst,para_endo,4,-2.375000022351742,,,,,,,
+D2-042,cyst,para_side,0,,left,-0.01075743231922388,-7.5107574462890625,-12.885757446289062,-10.635757446289062,,
+D2-042,cyst,para_side,1,,left,-0.014933227561414242,-7.389933109283447,-11.389933586120605,-9.014933586120605,,
+D2-042,cyst,para_side,2,,left,-0.005577715579420328,-8.13057804107666,-12.88057804107666,-9.75557804107666,,
+D2-042,cyst,para_side,3,,left,-0.03867032751441002,-7.288670539855957,-9.413670539855957,-8.163670539855957,,
+D2-042,cyst,para_side,4,,left,-0.019529441371560097,-8.019529342651367,-13.519529342651367,-9.394529342651367,,
+D2-042,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-042,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, but they do not contain sufficient detail to assess the ovaries for characteristic features of an endometrioma (such as a ground-glass appearance or internal echoes). Further evaluation with contrast-enhanced pelvic MRI or ultrasound is typically required for the diagnosis.
+
+Final Answer: no"
+D2-042,cyst,sample_endo,2,,,,,,,yes,"There are multiple pelvic masses, many which are cystic. Some of these are well-circumscribed and predominantly hypointense on T2-weighted images, which is characteristic of endometriomas. While other masses are likely physiologic or represent other pathologies (e.g., paraovarian cysts, hemorrhagic cysts), the presence of multiple, well-circumscribed, T2-hypointense masses in the adnexal regions, in the context of pelvic pain or other symptoms suggestive of endometriosis, raises a strong suspicion for endometriomas.
+
+Final Answer: yes"
+D2-042,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic high signal intensity on T2-weighted images, which is often seen in endometriomas given their typical composition.
+
+Given that dermoid cysts and endometriomas can have similar imaging characteristics, it is difficult to definitively differentiate them based solely on these images. However, a dermoid cyst is a more common finding within the ovary than a complex tubo-ovarian abscess. The symmetric appearance of the ovaries and the presence of a ring-enhancing lesion with daughter cysts in the left ovary are concerning for a complex cyst, which could represent an endometrioma or other ovarian neoplasm.
+
+Given the ambiguity and the potential for sonographic features that can overlap between endometriomas and dermoid cysts, and the possibility of other complex ovarian lesions, a definitive diagnosis cannot be made from these images alone. Therefore, based on the provided information, I cannot definitively conclude if an ovarian endometrioma is present.
+
+Final Answer: no"
+D2-042,cyst,sample_endo,4,,,,,,,no,"The provided axial T2-weighted fat-suppressed MRI slices show the female pelvis and pubic symphysis. There are multiple cysts scattered throughout the ovaries present in the image. I cannot definitively conclude whether these are endometriomas based solely on these images, as further details such as the characteristics of the cysts (e.g., wall thickness, internal echoes, enhancement pattern) and clinical history are required for a definitive diagnosis. Endometriomas typically appear as round or oval, low-signal intensity lesions on T2-weighted images, often with homogeneous enhancement after contrast administration. However, other ovarian lesions can mimic endometriomas. Based on the information available, there is not enough evidence to confirm the presence of an ovarian endometrioma.
+
+Final Answer: no"
+D2-042,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary is identified in the axial slices provided. There is a distinct, large cystic structure in the left adnexa in multiple slices, appearing significantly larger than any lesion on the right side.
+"
+D2-042,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side of the pelvis.
+
+Reasoning:
+- Slices 2, 7, 11, 15, 19, 23, 27, 30, and 34 display strikingly large, T2 hyperintense cystic lesions in the left adnexa (ovarian region).
+- Slices 3, 6, 9, 12, 16, 20, 24, 28, and 31 show smaller cystic structures or lesions in the right adnexa.
+- The lesion in the left ovary appears significantly larger than any lesion on the right side.
+
+Final Answer: left"
+D2-042,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 17 and 18.
+"
+D2-042,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-042,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, the lesion in the left ovary (approximately at the 10 o'clock position, 2nd intercostal space) appears larger in size and diameter compared to the lesion in the right ovary (approximately at the 4 o'clock position, 2nd intercostal space). The left lesion is also slightly more heterogenous in signal intensity, which could suggest cystic components.
+
+**Final Answer: left**"
+D2-043,negative,para_endo,0,-6.50000000372529,,,,,,,
+D2-043,negative,para_endo,1,-3.2500000931322575,,,,,,,
+D2-043,negative,para_endo,2,-1.6250000149011612,,,,,,,
+D2-043,negative,para_endo,3,-0.25,,,,,,,
+D2-043,negative,para_endo,4,-2.5000000298023224,,,,,,,
+D2-043,negative,para_side,0,,left,-0.009253944270312786,-7.634253978729248,-12.57175350189209,-10.50925350189209,,
+D2-043,negative,para_side,1,,left,-0.011831585317850113,-7.761831760406494,-11.449331283569336,-9.261831283569336,,
+D2-043,negative,para_side,2,,left,-0.006706349551677704,-8.381706237792969,-12.756706237792969,-9.756706237792969,,
+D2-043,negative,para_side,3,,left,-0.04166022688150406,-7.666660308837891,-9.54166030883789,-8.29166030883789,,
+D2-043,negative,para_side,4,,left,-0.016507593914866447,-8.266507148742676,-13.516507148742676,-9.391507148742676,,
+D2-044,negative,para_endo,0,-3.4999999292194843,,,,,,,
+D2-044,negative,para_endo,1,-2.250000089406967,,,,,,,
+D2-044,negative,para_endo,2,0.0,,,,,,,
+D2-044,negative,para_endo,3,0.125,,,,,,,
+D2-044,negative,para_endo,4,-1.3750000298023224,,,,,,,
+D2-044,negative,para_side,0,,left,-0.010606937110424042,-7.51060676574707,-12.82310676574707,-10.63560676574707,,
+D2-044,negative,para_side,1,,left,-0.010182693600654602,-7.635182857513428,-11.57268238067627,-9.63518238067627,,
+D2-044,negative,para_side,2,,left,-0.005481925327330828,-8.005481719970703,-12.692981719970703,-10.130481719970703,,
+D2-044,negative,para_side,3,,left,-0.0429806113243103,-7.542980670928955,-9.667980194091797,-8.417980194091797,,
+D2-044,negative,para_side,4,,left,-0.02163873240351677,-8.146638870239258,-13.834138870239258,-9.521638870239258,,
+D2-045,cyst,para_endo,0,-5.500000042840838,,,,,,,
+D2-045,cyst,para_endo,1,-2.9999999031424522,,,,,,,
+D2-045,cyst,para_endo,2,-1.5000000149011612,,,,,,,
+D2-045,cyst,para_endo,3,-1.1249999701976776,,,,,,,
+D2-045,cyst,para_endo,4,-2.375000052154064,,,,,,,
+D2-045,cyst,para_side,0,,left,-0.009003634564578533,-7.384003639221191,-12.321503639221191,-10.259003639221191,,
+D2-045,cyst,para_side,1,,left,-0.011597828939557076,-7.511597633361816,-11.324097633361816,-9.136597633361816,,
+D2-045,cyst,para_side,2,,left,-0.006333873141556978,-7.881333827972412,-12.44383430480957,-9.50633430480957,,
+D2-045,cyst,para_side,3,,left,-0.034431684762239456,-7.034431457519531,-8.909431457519531,-7.784431457519531,,
+D2-045,cyst,para_side,4,,left,-0.017844608053565025,-7.7678446769714355,-13.267844200134277,-9.142844200134277,,
+D2-045,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-045,cyst,sample_endo,1,,,,,,,yes,"Based on the provided T2-weighted fat suppressed MRI images, there is a complex cystic lesion in the right adnexa, just anterior to the right ovary, measuring approximately 6.5 x 5.0 x 5.1 cm. The lesion is hyperintense on T2-weighted images, exhibiting a T1-hypointense signal, consistent with an endometrioma. The wall thickness and internal complexity suggest a cystic mass.
+
+Final Answer: yes"
+D2-045,cyst,sample_endo,2,,,,,,,yes,"There are multiple pelvic endometriomas, which are ovarian cysts containing old blood, often called ""chocolate cysts"".  This is evident in multiple slices across the abdomen and pelvis.
+
+Final Answer: yes"
+D2-045,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic high signal intensity within a cystic structure consistent with a dermoid cyst, particularly its posterior peripheral nodular component seen on some of the images. While these findings could potentially be consistent with an endometrioma based on imaging characteristics alone, the clinical context and specific characteristics of the mass (e.g., strand-like structures, high T1 signal within the nodule) often help differentiate between the two. Therefore, while endometrioma is a possibility, the imaging findings are most consistent with a left ovarian dermoid cyst.
+
+Final Answer: no"
+D2-045,cyst,sample_endo,4,,,,,,,yes,"The provided axial T2-weighted fat-suppressed MRI slices show numerous small endometriomas bilaterally, likely arising from the ovaries. This is consistent with the clinical suspicion of endometriosis.
+
+Final Answer: yes"
+D2-045,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary is identified in the axial plane of slices 24 through 31. The most enlarged of these lesions in the left ovary is observed in slice 24.
+"
+D2-045,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side of the pelvis.
+
+Reasoning:
+- Slices 2, 7, 11, 15, 19, 23, 27, 30, and 34 display strikingly large, multiloculated cystic lesions within the left adnexa (ovary area).
+- The lesions within the right adnexa (ovary area) in slices 1, 3, 4, 5, 8, 12, 13, 16, 17, 18, 20, 21, 22, 25, 26, 28, 29, 31, 32, and 33 appear relatively smaller or less complex compared to the left-sided lesions.
+
+Therefore, the largest lesion is noted on the left side.
+
+Final Answer: left"
+D2-045,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 10 and 11.
+"
+D2-045,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the **left** side. This is based on the size and location of the prominent structures within the pelvis visible in the images, particularly in slices like 10, 13, and 20.
+Final Answer: left"
+D2-045,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large cystic structure is visible in the left ovary. The ovary on the right side appears relatively normal in size and texture within the field of view.
+
+Final Answer: left"
+D2-046,negative,para_endo,0,-6.124999867286533,,,,,,,
+D2-046,negative,para_endo,1,-4.74999993853271,,,,,,,
+D2-046,negative,para_endo,2,-1.8749999701976776,,,,,,,
+D2-046,negative,para_endo,3,-2.375,,,,,,,
+D2-046,negative,para_endo,4,-2.8750000447034836,,,,,,,
+D2-046,negative,para_side,0,,left,-0.013073091395199299,-7.138072967529297,-12.450572967529297,-10.013072967529297,,
+D2-046,negative,para_side,1,,left,-0.011202297173440456,-7.386202335357666,-11.511201858520508,-9.261201858520508,,
+D2-046,negative,para_side,2,,left,-0.005342729389667511,-8.255342483520508,-12.567842483520508,-9.505342483520508,,
+D2-046,negative,para_side,3,,left,-0.043723855167627335,-7.293724060058594,-9.168724060058594,-7.918724060058594,,
+D2-046,negative,para_side,4,,left,-0.019053764641284943,-7.894053936004639,-13.33155345916748,-9.26905345916748,,
+D2-047,negative,para_endo,0,-4.000000225380063,,,,,,,
+D2-047,negative,para_endo,1,-1.8750000596046448,,,,,,,
+D2-047,negative,para_endo,2,0.0,,,,,,,
+D2-047,negative,para_endo,3,0.875,,,,,,,
+D2-047,negative,para_endo,4,-1.6250000596046448,,,,,,,
+D2-047,negative,para_side,0,,left,-0.008619721978902817,-7.508619785308838,-12.44611930847168,-10.88361930847168,,
+D2-047,negative,para_side,1,,left,-0.010331128723919392,-7.885331153869629,-11.385331153869629,-9.635331153869629,,
+D2-047,negative,para_side,2,,left,-0.006958418060094118,-7.881958484649658,-12.6319580078125,-9.7569580078125,,
+D2-047,negative,para_side,3,,left,-0.04349195584654808,-7.418491840362549,-9.293492317199707,-8.043492317199707,,
+D2-047,negative,para_side,4,,left,-0.021299900487065315,-8.021300315856934,-13.271300315856934,-9.771300315856934,,
+D2-048,negative,para_endo,0,-1.1249999701976776,,,,,,,
+D2-048,negative,para_endo,1,-0.7500000298023224,,,,,,,
+D2-048,negative,para_endo,2,0.8749999701976776,,,,,,,
+D2-048,negative,para_endo,3,1.3750000298023224,,,,,,,
+D2-048,negative,para_endo,4,-0.625,,,,,,,
+D2-048,negative,para_side,0,,left,-0.011011547408998013,-7.636011600494385,-13.073511123657227,-11.261011123657227,,
+D2-048,negative,para_side,1,,left,-0.013262389227747917,-7.8882622718811035,-11.950762748718262,-9.888262748718262,,
+D2-048,negative,para_side,2,,left,-0.008697130717337132,-7.883697032928467,-12.696197509765625,-10.008697509765625,,
+D2-048,negative,para_side,3,,left,-0.048983559012413025,-7.173983573913574,-8.923983573913574,-8.798983573913574,,
+D2-048,negative,para_side,4,,left,-0.018989669159054756,-8.268989562988281,-14.018989562988281,-10.268989562988281,,
+D2-049,negative,para_endo,0,-5.500000066123903,,,,,,,
+D2-049,negative,para_endo,1,-2.9999999031424522,,,,,,,
+D2-049,negative,para_endo,2,-1.25,,,,,,,
+D2-049,negative,para_endo,3,-0.5,,,,,,,
+D2-049,negative,para_endo,4,-1.8749999850988388,,,,,,,
+D2-049,negative,para_side,0,,left,-0.011085116304457188,-7.511085033416748,-12.636085510253906,-10.636085510253906,,
+D2-049,negative,para_side,1,,left,-0.012728990986943245,-7.637729167938232,-11.387728691101074,-9.512728691101074,,
+D2-049,negative,para_side,2,,left,-0.006412406452000141,-8.006412506103516,-12.443912506103516,-10.131412506103516,,
+D2-049,negative,para_side,3,,left,-0.06888791173696518,-7.318887710571289,-9.193887710571289,-8.318887710571289,,
+D2-049,negative,para_side,4,,left,-0.02737950161099434,-8.027379035949707,-13.402379035949707,-9.527379035949707,,
+D2-050,negative,para_endo,0,-7.375000134576112,,,,,,,
+D2-050,negative,para_endo,1,-5.249999871477485,,,,,,,
+D2-050,negative,para_endo,2,-3.5000000409781933,,,,,,,
+D2-050,negative,para_endo,3,-3.1249999031424522,,,,,,,
+D2-050,negative,para_endo,4,-3.5000000968575478,,,,,,,
+D2-050,negative,para_side,0,,left,-0.00926953461021185,-7.884269714355469,-12.696769714355469,-10.009269714355469,,
+D2-050,negative,para_side,1,,left,-0.00822856742888689,-7.883228778839111,-11.195728302001953,-9.133228302001953,,
+D2-050,negative,para_side,2,,left,-0.0047944108955562115,-7.754794597625732,-12.317294120788574,-9.379794120788574,,
+D2-050,negative,para_side,3,,left,-0.02646787092089653,-7.651467800140381,-9.401468276977539,-8.026468276977539,,
+D2-050,negative,para_side,4,,left,-0.019377104938030243,-8.144376754760742,-13.206876754760742,-8.769376754760742,,
+D2-051,negative,para_endo,0,-4.37500012665987,,,,,,,
+D2-051,negative,para_endo,1,-1.5000000298023224,,,,,,,
+D2-051,negative,para_endo,2,-0.5000000596046448,,,,,,,
+D2-051,negative,para_endo,3,-0.125,,,,,,,
+D2-051,negative,para_endo,4,-1.999999925494194,,,,,,,
+D2-051,negative,para_side,0,,left,-0.010583817958831787,-7.510583877563477,-12.135583877563477,-10.135583877563477,,
+D2-051,negative,para_side,1,,left,-0.012621759437024593,-7.512621879577637,-11.012621879577637,-9.137621879577637,,
+D2-051,negative,para_side,2,,left,-0.0054920027032494545,-7.880492210388184,-12.005492210388184,-9.630492210388184,,
+D2-051,negative,para_side,3,,left,-0.05167105793952942,-7.051671028137207,-8.551671028137207,-7.801671028137207,,
+D2-051,negative,para_side,4,,left,-0.02296098694205284,-7.897961139678955,-12.710460662841797,-9.022960662841797,,
+D2-052,negative,para_endo,0,-5.374999919906259,,,,,,,
+D2-052,negative,para_endo,1,-3.625000089406967,,,,,,,
+D2-052,negative,para_endo,2,-1.3749999403953552,,,,,,,
+D2-052,negative,para_endo,3,-1.3750000596046448,,,,,,,
+D2-052,negative,para_endo,4,-1.6250000447034836,,,,,,,
+D2-052,negative,para_side,0,,left,-0.011434732005000114,-7.136434555053711,-12.448934555053711,-10.386434555053711,,
+D2-052,negative,para_side,1,,left,-0.014144408516585827,-7.389144420623779,-11.451643943786621,-9.389143943786621,,
+D2-052,negative,para_side,2,,left,-0.005851163994520903,-7.6308512687683105,-12.380850791931152,-9.880850791931152,,
+D2-052,negative,para_side,3,,left,-0.058043453842401505,-6.683043479919434,-8.933043479919434,-8.183043479919434,,
+D2-052,negative,para_side,4,,left,-0.02061745710670948,-7.520617485046387,-12.895617485046387,-9.270617485046387,,
+D2-053,negative,para_endo,0,-3.6250000931322575,,,,,,,
+D2-053,negative,para_endo,1,-1.7499999552965164,,,,,,,
+D2-053,negative,para_endo,2,0.6249999403953552,,,,,,,
+D2-053,negative,para_endo,3,1.1250000298023224,,,,,,,
+D2-053,negative,para_endo,4,-0.125,,,,,,,
+D2-053,negative,para_side,0,,left,-0.009039312601089478,-8.384038925170898,-12.696538925170898,-11.009038925170898,,
+D2-053,negative,para_side,1,,left,-0.013040263205766678,-8.263040542602539,-11.638040542602539,-9.638040542602539,,
+D2-053,negative,para_side,2,,left,-0.006049418356269598,-8.506049156188965,-12.631049156188965,-10.006049156188965,,
+D2-053,negative,para_side,3,,left,-0.05532274767756462,-8.055322647094727,-9.555322647094727,-8.430322647094727,,
+D2-053,negative,para_side,4,,left,-0.019297126680612564,-8.76929759979248,-13.89429759979248,-9.89429759979248,,
+D2-054,endometrioma,para_endo,0,-1.8749999403953552,,,,,,,
+D2-054,endometrioma,para_endo,1,0.0,,,,,,,
+D2-054,endometrioma,para_endo,2,1.1250000298023224,,,,,,,
+D2-054,endometrioma,para_endo,3,1.3750000298023224,,,,,,,
+D2-054,endometrioma,para_endo,4,0.125,,,,,,,
+D2-054,endometrioma,para_side,0,,left,-0.01436617225408554,-8.014366149902344,-13.264366149902344,-11.076866149902344,,
+D2-054,endometrioma,para_side,1,,left,-0.016463270410895348,-8.141463279724121,-12.203963279724121,-10.016463279724121,,
+D2-054,endometrioma,para_side,2,,left,-0.006962324492633343,-8.256962776184082,-13.069462776184082,-10.381962776184082,,
+D2-054,endometrioma,para_side,3,,left,-0.07319626212120056,-7.6981964111328125,-9.948196411132812,-8.948196411132812,,
+D2-054,endometrioma,para_side,4,,left,-0.02992061898112297,-8.65492057800293,-14.46742057800293,-10.02992057800293,,
+D2-054,endometrioma,sample_endo,0,,,,,,,no,Final Answer: no
+D2-054,endometrioma,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show a large pelvic mass, but further evaluation including ultrasound, clinical history, and potentially targeted MRI sequences would be required to confirm the diagnosis.
+
+Final Answer: no"
+D2-054,endometrioma,sample_endo,2,,,,,,,yes,"There is a large left ovarian cyst which could represent an endometrioma.
+
+Final Answer: yes"
+D2-054,endometrioma,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic high signal intensity on T2-weighted images and the well-defined, somewhat lobulated appearance. This morphology is consistent with a dermoid cyst, which can sometimes be misdiagnosed as an endometrioma, although the characteristic findings of an endometrioma differ.
+
+While the appearance has some similarities, the findings are more consistent with a dermoid cyst than a typical endometrioma. However, a definitive diagnosis cannot be made without further evaluation and correlation with clinical history.
+
+Final Answer: no"
+D2-054,endometrioma,sample_endo,4,,,,,,,yes,"The slices provided show a large multiloculated cystic lesion in the left adnexa, measuring approximately 9.2 x 8.6 x 6.9 cm. This lesion appears heterogeneous in signal intensity, with partially cystic components and internal septations. These findings are highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-054,endometrioma,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary shows a large cystic structure. The patient's right ovary shows smaller cysts.
+"
+D2-054,endometrioma,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The largest cystic structure, located in the left adnexal region (pelvic sidewall), appears to be the dominant finding. It has a somewhat septated appearance. The right adnexal region appears relatively unremarkable in comparison. Therefore, the lesion is predominantly located on the left side.
+
+Final Answer: left"
+D2-054,endometrioma,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis.
+"
+D2-054,endometrioma,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic mass measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-054,endometrioma,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show a large, rounded structure in the left adnexal region, appearing cyst-like on a T2-weighted fat-suppressed MRI. This lesion is significantly larger than the corresponding right-sided lesion, which appears less prominent.
+
+Final Answer: left"
+D2-055,negative,para_endo,0,-5.87500015925616,,,,,,,
+D2-055,negative,para_endo,1,-3.6249999292194843,,,,,,,
+D2-055,negative,para_endo,2,-1.125,,,,,,,
+D2-055,negative,para_endo,3,-1.3750000298023224,,,,,,,
+D2-055,negative,para_endo,4,-2.0000000447034836,,,,,,,
+D2-055,negative,para_side,0,,left,-0.01315792091190815,-7.388157844543457,-12.888157844543457,-10.388157844543457,,
+D2-055,negative,para_side,1,,left,-0.013800442218780518,-7.388800621032715,-11.451300621032715,-9.013800621032715,,
+D2-055,negative,para_side,2,,left,-0.0064018648117780685,-7.756402015686035,-12.568902015686035,-9.506402015686035,,
+D2-055,negative,para_side,3,,left,-0.045107271522283554,-7.045107364654541,-9.170106887817383,-7.795107364654541,,
+D2-055,negative,para_side,4,,left,-0.026682740077376366,-7.7766828536987305,-13.65168285369873,-9.27668285369873,,
+D2-056,cyst,para_endo,0,-3.2499999403953552,,,,,,,
+D2-056,cyst,para_endo,1,-0.9999999701976776,,,,,,,
+D2-056,cyst,para_endo,2,0.125,,,,,,,
+D2-056,cyst,para_endo,3,0.875,,,,,,,
+D2-056,cyst,para_endo,4,-0.7499999403953552,,,,,,,
+D2-056,cyst,para_side,0,,left,-0.009335909970104694,-7.634335994720459,-12.0718355178833,-10.8843355178833,,
+D2-056,cyst,para_side,1,,left,-0.01181792002171278,-7.761817932128906,-10.949317932128906,-9.636817932128906,,
+D2-056,cyst,para_side,2,,left,-0.006457178853452206,-7.756457328796387,-12.131457328796387,-10.131457328796387,,
+D2-056,cyst,para_side,3,,left,-0.052966538816690445,-7.052966594696045,-8.302966117858887,-8.177966117858887,,
+D2-056,cyst,para_side,4,,left,-0.014790055342018604,-7.889790058135986,-12.889789581298828,-9.889789581298828,,
+D2-056,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-056,cyst,sample_endo,1,,,,,,,yes,"Based on the provided T2-weighted fat suppressed MRI images, there are multiple complex cystic structures, with some demonstrating areas of low signal intensity suggesting internal hemorrhage or debris. These findings are highly suggestive of endometriomas. The cysts are located within the ovaries, commonly referred to as dermoid cysts or cystadenomas.
+
+Final Answer: yes"
+D2-056,cyst,sample_endo,2,,,,,,,yes,"There are multiple bilateral ovarian cysts, which are consistent with ovarian endometriomas. The cysts are cystic, predominantly hypointense on T2-weighted sequences, and appear to have heterogeneous internal signal intensity. Many cysts contain a focus of diffuse dark (T2 hypointense) material, which is characteristic of hemorrhagic contents. Therefore, the presence of multiple bilateral cystic lesions with hemorrhagic contents is highly suggestive of ovarian endometriomas.
+
+Final Answer: yes"
+D2-056,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+The presence of a dermoid cyst is seen on slices 12, 15, 17, 19, 20, 21.
+
+Final Answer: no"
+D2-056,cyst,sample_endo,4,,,,,,,no,"The slices provided show T2-weighted fat-suppressed images of the female pelvis. There are multiple bilateral adnexal masses. One of these masses on the right side appears to be cystic and somewhat T2 hyperintense, potentially consistent with an endometrioma, although other etiologies cannot be definitively ruled out without further imaging or clinical correlation.
+
+Final Answer: no"
+D2-056,cyst,sample_side,0,,,,,,,left,Final Answer: left
+D2-056,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The left ovarian cystic lesion is significantly larger compared to the right ovarian cystic lesion. Visual inspection of the contiguous slices confirms the relative size difference.
+Final Answer: left"
+D2-056,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 17, 18, 19, 20, and 21.
+"
+D2-056,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-056,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large, well-defined cystic lesion is visible in the left adnexa. The lesion appears homogenously dark on this T2-weighted sequence, characteristic of fluid/cyst content. While smaller lesions are present on the right, the left lesion is significantly larger.
+
+Final Answer: left"
+D2-057,negative,para_endo,0,-1.375,,,,,,,
+D2-057,negative,para_endo,1,0.25,,,,,,,
+D2-057,negative,para_endo,2,1.125,,,,,,,
+D2-057,negative,para_endo,3,1.25,,,,,,,
+D2-057,negative,para_endo,4,0.0,,,,,,,
+D2-057,negative,para_side,0,,left,-0.010362157598137856,-7.760362148284912,-12.38536262512207,-10.51036262512207,,
+D2-057,negative,para_side,1,,left,-0.013066149316728115,-7.638066291809082,-10.763066291809082,-9.388066291809082,,
+D2-057,negative,para_side,2,,left,-0.005827935412526131,-7.630827903747559,-12.193327903747559,-10.130827903747559,,
+D2-057,negative,para_side,3,,left,-0.05824512243270874,-6.8082451820373535,-8.308244705200195,-8.183244705200195,,
+D2-057,negative,para_side,4,,left,-0.019906502217054367,-7.894906520843506,-13.144906044006348,-9.519906044006348,,
+D2-058,negative,para_endo,0,-3.125000089406967,,,,,,,
+D2-058,negative,para_endo,1,-0.8750000298023224,,,,,,,
+D2-058,negative,para_endo,2,0.6250000596046448,,,,,,,
+D2-058,negative,para_endo,3,0.625,,,,,,,
+D2-058,negative,para_endo,4,-0.7499999403953552,,,,,,,
+D2-058,negative,para_side,0,,left,-0.01295448187738657,-7.5129547119140625,-12.825454711914062,-10.887954711914062,,
+D2-058,negative,para_side,1,,left,-0.01328285876661539,-7.638282775878906,-11.700782775878906,-9.638282775878906,,
+D2-058,negative,para_side,2,,left,-0.007456093095242977,-7.882456302642822,-12.444955825805664,-10.007455825805664,,
+D2-058,negative,para_side,3,,left,-0.061647895723581314,-7.061647891998291,-9.31164836883545,-8.56164836883545,,
+D2-058,negative,para_side,4,,left,-0.02405051328241825,-8.14905071258545,-13.52405071258545,-9.64905071258545,,
+D2-059,negative,para_endo,0,-4.000000201165676,,,,,,,
+D2-059,negative,para_endo,1,-1.4999999552965164,,,,,,,
+D2-059,negative,para_endo,2,0.0,,,,,,,
+D2-059,negative,para_endo,3,0.375,,,,,,,
+D2-059,negative,para_endo,4,-1.8749998956918716,,,,,,,
+D2-059,negative,para_side,0,,left,-0.011039961129426956,-7.511039733886719,-12.698539733886719,-10.761039733886719,,
+D2-059,negative,para_side,1,,left,-0.013922595418989658,-7.513922691345215,-11.513922691345215,-9.513922691345215,,
+D2-059,negative,para_side,2,,left,-0.005484652239829302,-8.005484580993652,-12.942984580993652,-10.130484580993652,,
+D2-059,negative,para_side,3,,left,-0.04429902881383896,-7.294299125671387,-9.544299125671387,-8.419299125671387,,
+D2-059,negative,para_side,4,,left,-0.026877371594309807,-8.276877403259277,-14.026877403259277,-9.776877403259277,,
+D2-060,negative,para_endo,0,-4.9999999683350325,,,,,,,
+D2-060,negative,para_endo,1,-2.7500000670552254,,,,,,,
+D2-060,negative,para_endo,2,-1.1250000298023224,,,,,,,
+D2-060,negative,para_endo,3,-0.125,,,,,,,
+D2-060,negative,para_endo,4,-1.8750000298023224,,,,,,,
+D2-060,negative,para_side,0,,left,-0.010025857016444206,-7.135025978088379,-11.822525978088379,-10.135025978088379,,
+D2-060,negative,para_side,1,,left,-0.012176583521068096,-7.012176513671875,-10.699676513671875,-9.012176513671875,,
+D2-060,negative,para_side,2,,left,-0.0058026909828186035,-7.505802631378174,-11.693303108215332,-9.505803108215332,,
+D2-060,negative,para_side,3,,left,-0.03812449797987938,-6.9131245613098145,-8.288124084472656,-7.7881245613098145,,
+D2-060,negative,para_side,4,,left,-0.021961936727166176,-7.6469621658325195,-12.95946216583252,-9.14696216583252,,
+D2-061,negative,para_endo,0,-5.1249998807907104,,,,,,,
+D2-061,negative,para_endo,1,-2.0,,,,,,,
+D2-061,negative,para_endo,2,0.25,,,,,,,
+D2-061,negative,para_endo,3,-1.6249999850988388,,,,,,,
+D2-061,negative,para_endo,4,-2.0000001043081284,,,,,,,
+D2-061,negative,para_side,0,,left,-0.008276095613837242,-7.383275985717773,-12.445775985717773,-10.508275985717773,,
+D2-061,negative,para_side,1,,left,-0.010900593362748623,-7.385900497436523,-11.323400497436523,-9.510900497436523,,
+D2-061,negative,para_side,2,,left,-0.004816952161490917,-7.629817008972168,-12.254817008972168,-9.629817008972168,,
+D2-061,negative,para_side,3,,left,-0.05198481306433678,-6.926984786987305,-8.926984786987305,-7.926984786987305,,
+D2-061,negative,para_side,4,,left,-0.018182387575507164,-7.643182277679443,-12.768182754516602,-9.268182754516602,,
+D2-062,negative,para_endo,0,-3.000000022351742,,,,,,,
+D2-062,negative,para_endo,1,-1.5,,,,,,,
+D2-062,negative,para_endo,2,0.6250000596046448,,,,,,,
+D2-062,negative,para_endo,3,0.6250000298023224,,,,,,,
+D2-062,negative,para_endo,4,-0.5,,,,,,,
+D2-062,negative,para_side,0,,left,-0.014202821999788284,-8.014203071594238,-12.764203071594238,-10.639203071594238,,
+D2-062,negative,para_side,1,,left,-0.014504470862448215,-8.014504432678223,-11.577004432678223,-9.389504432678223,,
+D2-062,negative,para_side,2,,left,-0.0057401107624173164,-8.13074016571045,-12.69324016571045,-9.75574016571045,,
+D2-062,negative,para_side,3,,left,-0.05364794284105301,-7.553647994995117,-9.428647994995117,-8.428647994995117,,
+D2-062,negative,para_side,4,,left,-0.021490449085831642,-8.396490097045898,-13.896490097045898,-9.771490097045898,,
+D2-064,negative,para_endo,0,-1.1249999701976776,,,,,,,
+D2-064,negative,para_endo,1,-0.5,,,,,,,
+D2-064,negative,para_endo,2,1.2500000298023224,,,,,,,
+D2-064,negative,para_endo,3,1.6250000149011612,,,,,,,
+D2-064,negative,para_endo,4,-0.125,,,,,,,
+D2-064,negative,para_side,0,,left,-0.010798354633152485,-8.010798454284668,-13.260798454284668,-11.135798454284668,,
+D2-064,negative,para_side,1,,left,-0.013107212260365486,-8.013107299804688,-11.700607299804688,-9.888107299804688,,
+D2-064,negative,para_side,2,,left,-0.006166124250739813,-8.131166458129883,-12.318666458129883,-10.006166458129883,,
+D2-064,negative,para_side,3,,left,-0.045080263167619705,-7.420080184936523,-9.295080184936523,-8.545080184936523,,
+D2-064,negative,para_side,4,,left,-0.021539684385061264,-8.396539688110352,-13.771539688110352,-9.896539688110352,,
+D2-065,negative,para_endo,0,-5.125000142492354,,,,,,,
+D2-065,negative,para_endo,1,-2.625000089406967,,,,,,,
+D2-065,negative,para_endo,2,-0.25,,,,,,,
+D2-065,negative,para_endo,3,0.125,,,,,,,
+D2-065,negative,para_endo,4,-1.6250000298023224,,,,,,,
+D2-065,negative,para_side,0,,left,-0.010294906795024872,-7.8852949142456055,-12.322794914245605,-10.260294914245605,,
+D2-065,negative,para_side,1,,left,-0.011335612274706364,-7.636335849761963,-11.073835372924805,-9.136335372924805,,
+D2-065,negative,para_side,2,,left,-0.004297664389014244,-7.754297733306885,-12.066797256469727,-9.629297256469727,,
+D2-065,negative,para_side,3,,left,-0.036549460142850876,-7.5365495681762695,-8.91154956817627,-7.9115495681762695,,
+D2-065,negative,para_side,4,,left,-0.01547049917280674,-8.140470504760742,-13.140470504760742,-9.265470504760742,,
+D2-066,negative,para_endo,0,-1.0,,,,,,,
+D2-066,negative,para_endo,1,-0.25,,,,,,,
+D2-066,negative,para_endo,2,1.2500000596046448,,,,,,,
+D2-066,negative,para_endo,3,0.375,,,,,,,
+D2-066,negative,para_endo,4,-1.3749999701976776,,,,,,,
+D2-066,negative,para_side,0,,left,-0.0164040494710207,-7.891404151916504,-12.516404151916504,-10.266404151916504,,
+D2-066,negative,para_side,1,,left,-0.014886601828038692,-8.139886856079102,-11.639886856079102,-9.389886856079102,,
+D2-066,negative,para_side,2,,left,-0.007387463003396988,-7.757387638092041,-12.007387161254883,-9.632387161254883,,
+D2-066,negative,para_side,3,,left,-0.0499102845788002,-7.674910068511963,-9.049910545349121,-8.299910545349121,,
+D2-066,negative,para_side,4,,left,-0.015787724405527115,-8.390788078308105,-13.390788078308105,-9.765788078308105,,
+D2-067,negative,para_endo,0,-4.250000169500709,,,,,,,
+D2-067,negative,para_endo,1,-2.0000001043081284,,,,,,,
+D2-067,negative,para_endo,2,-0.25,,,,,,,
+D2-067,negative,para_endo,3,0.375,,,,,,,
+D2-067,negative,para_endo,4,-1.25,,,,,,,
+D2-067,negative,para_side,0,,left,-0.008787767961621284,-8.008788108825684,-12.821288108825684,-11.008788108825684,,
+D2-067,negative,para_side,1,,left,-0.014877676032483578,-7.889877796173096,-11.514877319335938,-9.389877319335938,,
+D2-067,negative,para_side,2,,left,-0.0065789297223091125,-8.131579399108887,-12.631579399108887,-9.881579399108887,,
+D2-067,negative,para_side,3,,left,-0.043487392365932465,-7.918487548828125,-9.543487548828125,-8.418487548828125,,
+D2-067,negative,para_side,4,,left,-0.019091423600912094,-8.144091606140137,-13.831591606140137,-9.769091606140137,,
+D2-070,endometrioma,para_endo,0,-3.000000111758709,,,,,,,
+D2-070,endometrioma,para_endo,1,-1.2500000298023224,,,,,,,
+D2-070,endometrioma,para_endo,2,0.125,,,,,,,
+D2-070,endometrioma,para_endo,3,0.875,,,,,,,
+D2-070,endometrioma,para_endo,4,-0.125,,,,,,,
+D2-070,endometrioma,para_side,0,,left,-0.008117422461509705,-7.883117198944092,-13.00811767578125,-10.88311767578125,,
+D2-070,endometrioma,para_side,1,,left,-0.011036542244255543,-7.761036396026611,-11.32353687286377,-9.51103687286377,,
+D2-070,endometrioma,para_side,2,,left,-0.006952853873372078,-8.006953239440918,-12.631953239440918,-9.881953239440918,,
+D2-070,endometrioma,para_side,3,,left,-0.04912441596388817,-7.549124240875244,-9.424124717712402,-8.549124717712402,,
+D2-070,endometrioma,para_side,4,,left,-0.0156102878972888,-8.015610694885254,-13.953110694885254,-9.890610694885254,,
+D2-070,endometrioma,sample_endo,0,,,,,,,no,Final Answer: no
+D2-070,endometrioma,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show a large pelvic mass, most likely a fibroid, but further evaluation, including specific characteristics of the mass and potentially complementary imaging, would be needed to confirm its nature. There are no specific findings within these slices that are diagnostic of an endometrioma.
+
+Final Answer: no"
+D2-070,endometrioma,sample_endo,2,,,,,,,yes,"There are multiple pelvic masses, particularly in the right adnexa, that are endometriomas. They are well-defined, round or oval structures with characteristic high signal intensity on T2-weighted images, consistent with endometrioma. Therefore, the preliminary interpretation is:
+
+Final Answer: yes"
+D2-070,endometrioma,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+The presence of a dermoid cyst is seen on slices 12, 15, 17, 19, 20, 21.
+
+Final Answer: no"
+D2-070,endometrioma,sample_endo,4,,,,,,,yes,"The slices provided show multiple round or oval lesions within the adnexa, consistent with endometriomas. There are multiple, well-defined, rounded lesions seen displacing fat laterally and inferiorly, which are suggestive of ovarian endometriomas.
+
+Final Answer: yes"
+D2-070,endometrioma,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary shows a large cystic structure. The patient's right ovary shows smaller cysts.
+"
+D2-070,endometrioma,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The left ovarian cystic lesion is significantly larger compared to the right ovarian cystic lesion. Visual inspection of the contiguous slices confirms this finding.
+Final Answer: left"
+D2-070,endometrioma,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis.
+"
+D2-070,endometrioma,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-070,endometrioma,sample_side,4,,,,,,,unparsed,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show the pelvic region. A prominent cystic lesion is visible within the left ovary. Several smaller lesions are also partially visible within the right ovary, but the left lesion is the largest."
+D2-071,endometrioma,para_endo,0,-2.1250001043081284,,,,,,,
+D2-071,endometrioma,para_endo,1,-0.125,,,,,,,
+D2-071,endometrioma,para_endo,2,1.8750000596046448,,,,,,,
+D2-071,endometrioma,para_endo,3,1.7499999701976776,,,,,,,
+D2-071,endometrioma,para_endo,4,0.375,,,,,,,
+D2-071,endometrioma,para_side,0,,left,-0.007969249971210957,-8.25796890258789,-12.69546890258789,-10.88296890258789,,
+D2-071,endometrioma,para_side,1,,left,-0.009971566498279572,-8.259971618652344,-11.384971618652344,-9.759971618652344,,
+D2-071,endometrioma,para_side,2,,left,-0.004342412576079369,-8.129342079162598,-12.316842079162598,-10.129342079162598,,
+D2-071,endometrioma,para_side,3,,left,-0.036661624908447266,-7.786661624908447,-8.661661148071289,-8.536661148071289,,
+D2-071,endometrioma,para_side,4,,left,-0.016824139282107353,-8.516823768615723,-13.704323768615723,-9.891823768615723,,
+D2-071,endometrioma,sample_endo,0,,,,,,,no,"Final Answer: The images show a large mass extending from the left ovary, with cystic features and signs of hemorrhage. This mass likely represents a large endometrioma.
+
+Final Answer: no"
+D2-071,endometrioma,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show a large pelvic mass, but further evaluation including ultrasound, clinical history, and potentially targeted MRI sequences would be required to confirm the diagnosis.
+
+Final Answer: no"
+D2-071,endometrioma,sample_endo,2,,,,,,,no,"There are multiple pelvic masses, many with cystic components. Some may represent ovarian endometriomas given the pelvic location and appearance. However, other differential diagnoses include hemorrhagic cysts, dermoid cysts, or other ovarian neoplasms such as serous cystadenomas. Precise characterization would require correlation with clinical history and potentially further imaging.
+
+Final Answer: no"
+D2-071,endometrioma,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic high signal intensity on T2-weighted images, which is often seen in endometriomas given their typical composition. However, endometriomas typically have a characteristic ""ground glass"" appearance on T2-weighted images often associated with characteristic findings of endometriomas on T1-weighted images which are also not present here. A simple ovarian cyst or other type of ovarian lesion cannot be definitively ruled out without additional imaging or clinical information.
+
+The overall size of the lesion in the left ovary is concerning and warrants further investigation.
+
+Final Answer: no"
+D2-071,endometrioma,sample_endo,4,,,,,,,yes,"The provided axial T2-weighted fat-suppressed MRI slices show numerous complex adnexal masses, likely representing ovarian endometriomas. These masses demonstrate characteristic T2 hyperintensity with a characteristic dark rim appearance on fat suppression, consistent with endometrioma morphology. While the images are somewhat limited by the lack of a dedicated pelvic sonographic survey and potentially limited resolution, the presence of multiple complex adnexal masses with features suggestive of endometriomas is highly indicative.
+
+Final Answer: yes"
+D2-071,endometrioma,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary shows a large complex cystic mass. The right ovary also contains several smaller cysts.
+"
+D2-071,endometrioma,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The left ovarian cystic lesion appears significantly larger compared to the right ovarian cystic lesion. Visual inspection of the contiguous slices confirms this finding.
+Final Answer: left"
+D2-071,endometrioma,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 17 and 18.
+"
+D2-071,endometrioma,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion is clearly visible on the **left** side. The lesion is a large, multiloculated complex cyst measuring approximately 8.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-071,endometrioma,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show a large, multiloculated cystic lesion in the left adnexa, extending towards the pelvic sidewall. The left ovary is approximately 4.5 x 3.8 cm (based on the image width and apparent volume), and the lesion occupies a significant portion of this volume. The right ovary appears smaller and less involved in the extensive cystic changes compared to the left.
+
+Final Answer: left"
+D2-072,endometrioma,para_endo,0,-4.2500000931322575,,,,,,,
+D2-072,endometrioma,para_endo,1,-2.124999910593033,,,,,,,
+D2-072,endometrioma,para_endo,2,0.7500000298023224,,,,,,,
+D2-072,endometrioma,para_endo,3,1.2500000298023224,,,,,,,
+D2-072,endometrioma,para_endo,4,-1.1249999701976776,,,,,,,
+D2-072,endometrioma,para_side,0,,left,-0.007083777338266373,-8.007083892822266,-12.757083892822266,-10.882083892822266,,
+D2-072,endometrioma,para_side,1,,left,-0.008734473958611488,-8.008734703063965,-11.383734703063965,-9.508734703063965,,
+D2-072,endometrioma,para_side,2,,left,-0.004804257769137621,-8.129804611206055,-12.629804611206055,-9.754804611206055,,
+D2-072,endometrioma,para_side,3,,left,-0.03837473317980766,-7.663374900817871,-9.663374900817871,-8.163374900817871,,
+D2-072,endometrioma,para_side,4,,left,-0.015179004520177841,-8.640178680419922,-14.077678680419922,-9.765178680419922,,
+D2-072,endometrioma,sample_endo,0,,,,,,,no,Final Answer: no
+D2-072,endometrioma,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show a T2-weighted fat-suppressed pelvis, but without further clinical context, comparison to prior imaging, or complementary contrast-enhanced MRI sequences, it is impossible to accurately assess for ovarian endometriomas.
+
+Therefore, I cannot definitively conclude whether an ovarian endometrioma is present.
+
+Final Answer: no"
+D2-072,endometrioma,sample_endo,2,,,,,,,no,"There is no definitive evidence of an ovarian endometrioma based on the provided MRI slices. While some small cystic structures are visible, their characteristics do not strongly suggest an endometrioma, which typically appears as a complex cyst with low-level diffuse T2 signal and an endometriotic nodule (central low signal intensity area). Further evaluation, potentially including contrast enhancement or evaluation of the contralateral ovary, might be necessary for a more definitive diagnosis.
+
+Final Answer: no"
+D2-072,endometrioma,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the right adnexa. This is based on the characteristic oval shaped mass with a slightly higher signal intensity than the surrounding myometrium.
+
+It is difficult to definitively rule out an endometrioma based on these single slices without additional imaging or clinical correlation. However, given the morphology characteristic of a dermoid cyst, it is the more likely diagnosis in this case.
+
+Final Answer: no
+"
+D2-072,endometrioma,sample_endo,4,,,,,,,yes,"The slices provided show T2-weighted fat-suppressed MRI images of the female pelvis. Reviewing the images, there is a well-defined, T2 hyperintense lesion located in the right ovary which appears to partially extend into the adjacent pelvic cavity. These findings are suggestive of an ovarian endometrioma (chocolate cyst).
+
+Final Answer: yes"
+D2-072,endometrioma,sample_side,0,,,,,,,left,Final Answer: left
+D2-072,endometrioma,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The images show a collection of cysts in the pelvis. Comparing the size and appearance of these cysts across all slices, the largest cyst (likely representing a dominant cystadenoma or cystadenocarcinoma) is identified on the left side.
+Final Answer: left"
+D2-072,endometrioma,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 10 and 11.
+"
+D2-072,endometrioma,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a slightly rounded, well-defined structure measuring approximately 3.1 x 3.6 x 3.0 cm.
+
+Final Answer: left"
+D2-072,endometrioma,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a prominent cystic structure is visible in the left ovary. The lesion is of similar signal intensity to urine, consistent with a cyst filled with fluid. The right ovary appears relatively normal in this scan, although occasional small cysts can be present. Given the significant size and appearance of the lesion on the left, it is the most prominent finding.
+
+Final Answer: left"
+D2-073,negative,para_endo,0,-1.6250000298023224,,,,,,,
+D2-073,negative,para_endo,1,-1.6249999701976776,,,,,,,
+D2-073,negative,para_endo,2,1.1249999701976776,,,,,,,
+D2-073,negative,para_endo,3,0.6250000596046448,,,,,,,
+D2-073,negative,para_endo,4,-0.125,,,,,,,
+D2-073,negative,para_side,0,,left,-0.014669886790215969,-7.764669895172119,-12.389669418334961,-10.639669418334961,,
+D2-073,negative,para_side,1,,left,-0.01778113842010498,-7.8927812576293945,-11.517781257629395,-9.517781257629395,,
+D2-073,negative,para_side,2,,left,-0.006598114967346191,-8.131598472595215,-12.694098472595215,-10.131598472595215,,
+D2-073,negative,para_side,3,,left,-0.07401791214942932,-7.3240180015563965,-9.449017524719238,-8.574017524719238,,
+D2-073,negative,para_side,4,,left,-0.02433338575065136,-8.149333000183105,-13.399333000183105,-9.774333000183105,,
+D2-074,cyst,para_endo,0,-5.62499981559813,,,,,,,
+D2-074,cyst,para_endo,1,-2.750000089406967,,,,,,,
+D2-074,cyst,para_endo,2,-1.25,,,,,,,
+D2-074,cyst,para_endo,3,0.0,,,,,,,
+D2-074,cyst,para_endo,4,-2.3749999403953552,,,,,,,
+D2-074,cyst,para_side,0,,left,-0.008300804533064365,-7.75830078125,-12.00830078125,-10.25830078125,,
+D2-074,cyst,para_side,1,,left,-0.009931082837283611,-7.7599310874938965,-11.009930610656738,-9.259930610656738,,
+D2-074,cyst,para_side,2,,left,-0.005515595432370901,-8.005516052246094,-12.130516052246094,-9.630516052246094,,
+D2-074,cyst,para_side,3,,left,-0.042592961341142654,-7.542593002319336,-8.917593002319336,-7.792593002319336,,
+D2-074,cyst,para_side,4,,left,-0.017833014950156212,-8.39283275604248,-13.01783275604248,-9.39283275604248,,
+D2-074,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-074,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show pelvic structures including the uterus, adnexa, and surrounding soft tissues. However, for a comprehensive assessment of ovarian pathology, a dedicated MRI of the pelvis with pelvic urogynaecology protocol, including contrast enhancement, is typically required. Visual inspection of these static slices along with standard axial T2 weighted imaging does not provide sufficient detail to diagnose or exclude an endometrioma. Therefore, I cannot provide a definitive 'yes' or 'no' answer.
+
+Final Answer: no"
+D2-074,cyst,sample_endo,2,,,,,,,no,"There are multiple bilateral renal cysts, which are common and usually benign. There are also perineural cysts in the pelvis. The largest cyst measuring approximately 3. cm on the left and the smaller cyst measuring approximately 2. 5 cm on the right, are likely simple renal cysts.
+
+There are also bilateral subserosal fibroid seen in the uterus.
+
+There are also 2 symmetric paraovarian cyst seen in the left adnexa measuring approximately 1.9 cm and 1.4 cm.
+
+There is no evidence of an ovarian endometrioma on review of the provided imaging.
+
+Final Answer: no"
+D2-074,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic high signal intensity on T2-weighted images and the well-defined, homogeneous appearance of the lesion. While these features can be seen in dermoid cysts, the possibility of an endometrioma cannot be definitively excluded based solely on these images. However, considering the typical appearance and location, a dermoid cyst is the more likely diagnosis.
+Final Answer: no"
+D2-074,cyst,sample_endo,4,,,,,,,no,"The provided axial T2-weighted fat-suppressed MRI slices show the pelvis. There is no apparent ovarian endometrioma visualized in the provided slices.
+
+Ovarian endometriomas typically appear as round or oval T2 hyperintense lesions within the ovary, often with homogeneous signal intensity. While the appearance can vary, the provided images do not demonstrate such a lesion.
+
+Final Answer: no"
+D2-074,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary shows a large cystic structure. The patient's right ovary shows smaller cysts.
+"
+D2-074,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side of the pelvis.
+
+Reasoning:
+- Slices 2, 7, 15, 20, 25, 31, 35, 38 show a distinct cystic lesion in the left adnexa, appearing as a T2 hyperintense structure.
+- Slices 1, 6, 12, 19, 24, 29 show a less defined cystic lesion, possibly representing a smaller cyst or complex cyst, also in the left adnexa.
+- There is no corresponding significant cystic lesion identified on the right side in the provided slices.
+
+Therefore, the largest ovarian cystic lesion is predominantly located on the left.
+
+Final Answer: left"
+D2-074,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 10 and 11.
+"
+D2-074,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a slightly T2 hyperintense structure measuring approximately 3.1 x 3.6 x 3.0 cm.
+
+Final Answer: left"
+D2-074,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large cystic structure is visible in the left ovary. The structure is of similar signal intensity to urine, indicating a fluid-filled lesion. This lesion is larger in size compared to the cystic structure observed in the right ovary.
+
+Final Answer: left"
+D2-075,cyst,para_endo,0,-3.8749999180436134,,,,,,,
+D2-075,cyst,para_endo,1,-1.5,,,,,,,
+D2-075,cyst,para_endo,2,0.0,,,,,,,
+D2-075,cyst,para_endo,3,1.125,,,,,,,
+D2-075,cyst,para_endo,4,-1.25,,,,,,,
+D2-075,cyst,para_side,0,,left,-0.011475862003862858,-7.636476039886475,-12.011475563049316,-10.136475563049316,,
+D2-075,cyst,para_side,1,,left,-0.009453060105443,-7.884453296661377,-11.134452819824219,-9.384452819824219,,
+D2-075,cyst,para_side,2,,left,-0.00776711804792285,-8.132766723632812,-12.132766723632812,-9.632766723632812,,
+D2-075,cyst,para_side,3,,left,-0.04043564200401306,-7.665435791015625,-9.165435791015625,-8.040435791015625,,
+D2-075,cyst,para_side,4,,left,-0.014332564547657967,-8.38933277130127,-13.32683277130127,-9.63933277130127,,
+D2-075,cyst,sample_endo,0,,,,,,,no,Final Answer: no
+D2-075,cyst,sample_endo,1,,,,,,,no,"Based on the provided MRI slices, I cannot definitively determine the presence of an ovarian endometrioma. The images show pelvic structures including the uterus, adnexa, and surrounding soft tissues. However, for a comprehensive assessment of ovarian pathology, a dedicated MRI of the pelvis with pelvic urogynaecology protocol, including contrast enhancement, is typically required. Visual inspection of these static slices along with standard axial T2 weighted fat-suppressed images is insufficient to rule out or confirm an endometrioma. Ovarian endometriomas often have a characteristic appearance on MRI, including a low-signal intensity rim (due to the proteinaceous content) surrounded by a high-signal intensity T2 hyperintense nodule (due to the endometriotic material). This specific signal characteristic might be visible, but it requires careful evaluation by a radiologist experienced in pelvic imaging. Therefore, based solely on these slices, a definitive diagnosis cannot be made.
+
+Final Answer: no"
+D2-075,cyst,sample_endo,2,,,,,,,yes,"There is evidence suggestive of an ovarian endometrioma in the slices provided.
+
+Reasoning:
+- The morphology of the ovarian structures, particularly on slices 18, 20, 21, 23, 25, 27, 30, and 36, demonstrates a complex cystic structure with internal echoes.
+- This morphology is characteristic of an endometrioma, which appears as a complex cyst containing multiple small, low-signal intensity foci (representing old blood products) and internal septations.
+- The location in the right adnexa (pelvis) is also consistent with the typical location of the right ovary.
+
+Based on the presence of a cystic structure with complex internal echoes, characteristic of an endometrioma, the patient has evidence of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-075,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+Final Answer: no
+"
+D2-075,cyst,sample_endo,4,,,,,,,yes,"The slices provided show T2-weighted fat-suppressed MRI images of the female pelvis. There is a large, T2 hypointense, T1 hyperintense mass seen in the right adnexa (corresponding to the right ovary). This mass is well-circumscribed and appears to be located within the ovarian fossa. Based on this imaging finding and the clinical context of female pelvic imaging, there is a high suspicion for an ovarian endometrioma.
+
+Final Answer: yes"
+D2-075,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The patient's left ovary is identified in the axial plane of slices 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. The lesion appears as a large, well-defined fluid-filled cystic structure. The appearance is more prominent in the left ovary."
+D2-075,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side of the pelvis.
+
+Reasoning:
+- Slices 2, 7, 11, 15, 19, and 22 demonstrate a large cystic structure within the left adnexa (ovary area).
+- Slices 3, 6, 10, 14, 18, and 21 show a smaller cystic structure in the right adnexa.
+- The lesion on the left side is significantly larger and more prominent in multiple slices compared to the lesion on the right.
+
+Final Answer: left"
+D2-075,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion appears to be located on the left side of the pelvis in slices 10, 11, 12, 13, and 14.
+"
+D2-075,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 6.6 x 6.0 cm.
+
+Final Answer: left"
+D2-075,cyst,sample_side,4,,,,,,,left,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+Comparing the T2 fat-suppressed images, a large, well-defined cystic structure is visible in the left adnexa. This lesion is significantly larger than the cystic structure observed on the right side.
+
+**Final Answer:** left"
+D2-076,cyst,para_endo,0,1.6250000447034836,,,,,,,
+D2-076,cyst,para_endo,1,1.7500001192092896,,,,,,,
+D2-076,cyst,para_endo,2,2.124999985098839,,,,,,,
+D2-076,cyst,para_endo,3,2.5000000968575478,,,,,,,
+D2-076,cyst,para_endo,4,1.1249999701976776,,,,,,,
+D2-076,cyst,para_side,0,,left,-0.010971694253385067,-8.635972023010254,-13.635972023010254,-11.510972023010254,,
+D2-076,cyst,para_side,1,,left,-0.011097731068730354,-8.76109790802002,-12.26109790802002,-10.38609790802002,,
+D2-076,cyst,para_side,2,,left,-0.005534800700843334,-8.380535125732422,-13.005535125732422,-10.755535125732422,,
+D2-076,cyst,para_side,3,,left,-0.07048241794109344,-8.07048225402832,-10.32048225402832,-9.32048225402832,,
+D2-076,cyst,para_side,4,,left,-0.020830553025007248,-9.020830154418945,-14.708330154418945,-10.395830154418945,,
+D2-076,cyst,sample_endo,0,,,,,,,yes,Final Answer: yes
+D2-076,cyst,sample_endo,1,,,,,,,yes,"Based on the provided T2-weighted fat suppressed MRI images, there is a complex cystic lesion in the left adnexa, measuring approximately 4.3 x 3.6 x 3.5 cm. This lesion is characterized by multiple small echogenic foci within it, suggestive of internal hemorrhage or debris. The lesion is located in the left adnexa. Given these findings, it is highly suspicious for an ovarian endometrioma.
+
+Final Answer: yes"
+D2-076,cyst,sample_endo,2,,,,,,,yes,"There is a cyst in the left adnexa, which may represent an ovarian endometrioma. Based on the imaging characteristics and location, this is a likely finding.
+
+Final Answer: yes"
+D2-076,cyst,sample_endo,3,,,,,,,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of a dermoid cyst in the left adnexa. This is based on the characteristic oval shaped mass with a high signal intensity on T2.
+
+Final Answer: no
+"
+D2-076,cyst,sample_endo,4,,,,,,,yes,"The slices provided show a large multiloculated cystic lesion in the left adnexa, measuring approximately 5.2 x 3.6 x 3.9 cm. This lesion has heterogeneous internal T2 signal, partially bright and partially dark, with solid components of varying signal intensity, predominantly high signal on T1-weighted images and variable signal on T2-weighted images. This appearance is highly suggestive of an endometrioma.
+
+Final Answer: yes"
+D2-076,cyst,sample_side,0,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side in the ovarian region. The lesion appears as a well-defined, rounded structure.
+"
+D2-076,cyst,sample_side,1,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion is located on the **left** side. 
+
+Reasoning:
+The largest cystic structure, located in the left adnexal region (pelvic sidewall), appears more prominent and larger compared to the right adnexal region.
+
+Final Answer: left"
+D2-076,cyst,sample_side,2,,,,,,,left,"Final Answer: left
+Reasoning: The largest cystic lesion is located on the left side of the pelvis.
+"
+D2-076,cyst,sample_side,3,,,,,,,left,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion visualized appears to be located on the left side. The lesion is a large, multiloculated cystic structure measuring approximately 7.1 x 5.6 x 6.0 cm.
+
+Final Answer: left"
+D2-076,cyst,sample_side,4,,,,,,,unparsed,"The largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The image slices show the pelvic region. A prominent cystic lesion is visible within the left ovary. Several smaller lesions are also partially visible within the right ovary, but the left lesion is the largest."
+D2-077,endometrioma,para_endo,0,-2.750000074505806,,,,,,,
+D2-077,endometrioma,para_endo,1,-1.0000000298023224,,,,,,,
+D2-077,endometrioma,para_endo,2,0.875,,,,,,,
+D2-077,endometrioma,para_endo,3,1.1249999701976776,,,,,,,
+D2-077,endometrioma,para_endo,4,-0.25,,,,,,,
+D2-077,endometrioma,para_side,0,,left,-0.009662997908890247,-8.009662628173828,-13.697162628173828,-10.759662628173828,,
+D2-077,endometrioma,para_side,1,,left,-0.01124119758605957,-8.01124095916748,-12.13624095916748,-9.51124095916748,,
+D2-077,endometrioma,para_side,2,,left,-0.005070327315479517,-8.130070686340332,-13.192570686340332,-10.005070686340332,,
+D2-077,endometrioma,para_side,3,,left,-0.03655083850026131,-7.661550998687744,-9.786550521850586,-8.286550521850586,,
+D2-077,endometrioma,para_side,4,,left,-0.018930014222860336,-8.143930435180664,-14.206430435180664,-9.393930435180664,,
+D2-078,endometrioma,para_endo,0,1.3749999701976776,,,,,,,
+D2-078,endometrioma,para_endo,1,1.2500000596046448,,,,,,,
+D2-078,endometrioma,para_endo,2,2.6249999403953552,,,,,,,
+D2-078,endometrioma,para_endo,3,3.2499999403953552,,,,,,,
+D2-078,endometrioma,para_endo,4,1.1250000596046448,,,,,,,
+D2-078,endometrioma,para_side,0,,left,-0.008336271159350872,-8.008336067199707,-13.320836067199707,-11.383336067199707,,
+D2-078,endometrioma,para_side,1,,left,-0.011152432300150394,-8.011152267456055,-11.886152267456055,-10.136152267456055,,
+D2-078,endometrioma,para_side,2,,left,-0.00355528830550611,-8.503555297851562,-13.503555297851562,-10.878555297851562,,
+D2-078,endometrioma,para_side,3,,left,-0.031136877834796906,-8.031136512756348,-10.031136512756348,-9.281136512756348,,
+D2-078,endometrioma,para_side,4,,left,-0.016800109297037125,-8.641799926757812,-14.454299926757812,-10.391799926757812,,
+D2-079,endometrioma,para_endo,0,-3.1249999701976776,,,,,,,
+D2-079,endometrioma,para_endo,1,-0.6249999403953552,,,,,,,
+D2-079,endometrioma,para_endo,2,0.4999999403953552,,,,,,,
+D2-079,endometrioma,para_endo,3,1.7499999552965164,,,,,,,
+D2-079,endometrioma,para_endo,4,-0.25,,,,,,,
+D2-079,endometrioma,para_side,0,,left,-0.009934859350323677,-8.009934425354004,-12.634934425354004,-10.759934425354004,,
+D2-079,endometrioma,para_side,1,,left,-0.013820899650454521,-7.888821125030518,-11.26382064819336,-9.38882064819336,,
+D2-079,endometrioma,para_side,2,,left,-0.00638930918648839,-8.256389617919922,-12.693889617919922,-10.006389617919922,,
+D2-079,endometrioma,para_side,3,,left,-0.045016560703516006,-7.670016765594482,-9.170016288757324,-8.170016288757324,,
+D2-079,endometrioma,para_side,4,,left,-0.019761936739087105,-8.26976203918457,-13.45726203918457,-9.64476203918457,,
+D2-080,cyst,para_endo,0,-5.250000121071935,,,,,,,
+D2-080,cyst,para_endo,1,-3.749999988824129,,,,,,,
+D2-080,cyst,para_endo,2,-1.3749999701976776,,,,,,,
+D2-080,cyst,para_endo,3,-0.875,,,,,,,
+D2-080,cyst,para_endo,4,-2.1249998807907104,,,,,,,
+D2-080,cyst,para_side,0,,left,-0.010406517423689365,-7.010406494140625,-12.447906494140625,-10.385406494140625,,
+D2-080,cyst,para_side,1,,left,-0.01094834879040718,-7.260948181152344,-11.323448181152344,-9.135948181152344,,
+D2-080,cyst,para_side,2,,left,-0.005201616324484348,-8.00520133972168,-12.56770133972168,-9.88020133972168,,
+D2-080,cyst,para_side,3,,left,-0.05594596266746521,-6.680945873260498,-8.805946350097656,-7.930945873260498,,
+D2-080,cyst,para_side,4,,left,-0.0172563549131155,-7.642256259918213,-13.267256736755371,-9.392256736755371,,

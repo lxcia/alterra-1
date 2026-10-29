@@ -1,0 +1,628 @@
+part,subject,cond,truth,answer,raw
+P1,D2-000,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic structures.
+
+Final Answer: The final answer is $\boxed{Pelvis}$"
+P1,D2-001,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomical structures visible in this region.
+
+Final Answer: Pelvis"
+P1,D2-002,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomical structures visible in this region.
+
+Final Answer: The final answer is $\boxed{Pelvis}$"
+P1,D2-003,pelvis,pelvis,pelvis,"The provided axial T2-weighted MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomical structures of the lower abdomen and pelvis.
+
+Final Answer: The final answer is $\boxed{Pelvis}$"
+P1,D2-004,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the vagina, uterus, and surrounding pelvic structures.
+
+Final Answer: Pelvis"
+P1,D2-005,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic cavity.
+
+Final Answer: Pelvis"
+P1,D2-006,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the vulva and surrounding structures. This is evident from the presence of the labia majora, labia minora, clitoris, and the surrounding subcutaneous fat and muscles.
+
+Final Answer: Pelvic region"
+P1,D2-008,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic structures.
+
+Final Answer: Pelvis"
+P1,D2-010,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the lower abdomen and the upper part of the thighs. This is indicated by the presence of the pelvic bones (pelvis), the pubic symphysis, the ischial tuberosities, the gluteal muscles, and the proximal parts of the thighs.
+
+Final Answer: The final answer is $\boxed{Pelvic region}$"
+P1,D2-011,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic structures.
+
+Final Answer: Pelvis"
+P1,D2-012,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic structures.
+
+Final Answer: Pelvis"
+P1,D2-013,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomical structures visible in this region.
+
+Final Answer: Pelvis"
+P1,D2-014,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the vulva and surrounding structures. This is evident from the visible anatomy including the labia majora, labia minora, clitoris, and the vaginal opening.
+
+Final Answer: The final answer is $\boxed{Pelvic region}$"
+P1,D2-015,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomical structures visible in this region.
+
+Final Answer: Pelvis"
+P1,D2-016,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic structures.
+
+Final Answer: Pelvis"
+P1,D2-017,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic structures.
+
+Final Answer: The final answer is $\boxed{Pelvis}$"
+P1,D2-018,pelvis,pelvis,pelvis,"The provided axial T2-weighted MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomical structures visible in this region.
+
+Final Answer: Pelvis"
+P1,D2-019,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the pubic symphysis and surrounding structures. The images demonstrate the bony anatomy of the pelvis, including the pubic bones, ischial tuberosities, and the proximal portions of the femora and the symphysis pubis.
+
+Final Answer: Pelvis"
+P1,D2-020,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomical structures visible in this region.
+
+Final Answer: Pelvis"
+P1,D2-021,pelvis,pelvis,pelvis,"The provided MRI slices show the pelvic region, specifically the female pelvis. This is evident from the presence of the uterus, ovaries, and the overall anatomy of the pelvic structures.
+
+Final Answer: Pelvis"
+P1,BraTS-GLI-00005-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The characteristic C-shaped structure in the center, the corpus callosum, is visible. The brain parenchyma, ventricles, and sulci are also clearly depicted.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00006-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the lateral ventricles, the midline structures (like the corpus callosum and the third ventricle), and the overall shape of the brain are characteristic of a sagittal view of the cerebrum.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00008-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The characteristic C-shaped structure in the center, the corpus callosum, is visible. The ventricles and sulci are also apparent.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00009-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the corpus callosum, lateral ventricles, and the midline structures confirms this.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00020-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The midline structures, including the ventricles and the corpus callosum, are visible. The brain parenchyma is also clearly depicted.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00027-100,brain,brain,brain,"The provided MRI slices show the brain. The characteristic appearance of the brain parenchyma, ventricles, and sulci is consistent with this region.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00033-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the corpus callosum, lateral ventricles, and the midline structures confirms this.
+
+Final Answer: The brain"
+P1,BraTS-GLI-00046-100,brain,brain,brain,"The provided MRI slices show the brain. The characteristic appearance of the brain parenchyma, ventricles, and sulci is consistent with this region.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00060-100,brain,brain,brain,"The provided images show a sagittal view of the brain. The characteristic C-shaped structure in the center is the corpus callosum, which connects the two cerebral hemispheres. The surrounding structures, including the lateral ventricles, are also visible.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00063-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The characteristic C-shaped structure in the center, the corpus callosum, is visible. The ventricles and sulci are also apparent.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00078-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The characteristic C-shaped structure in the center, the corpus callosum, is visible. The brain parenchyma, ventricles, and sulci are also clearly depicted.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00080-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the corpus callosum, lateral ventricles, and the midline structures confirms this.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00085-100,brain,brain,brain,"The provided images show a sagittal view of the brain. The visible structures include the cerebral hemispheres, the corpus callosum, the lateral ventricles, and the midline structures.
+
+Final Answer: The brain"
+P1,BraTS-GLI-00096-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the corpus callosum, lateral ventricles, and the midline structures confirms this.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00463-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the corpus callosum, lateral ventricles, and the midline structures confirms this.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00469-100,brain,brain,brain,"The provided MRI slices show the brain. The characteristic appearance of the brain parenchyma, ventricles, and sulci is consistent with this region.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00472-100,brain,brain,brain,"The provided images are axial T2-weighted MRI slices of the brain. The brain is visible in all the slices, showing the characteristic gray and white matter structures.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00483-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the corpus callosum, lateral ventricles, and the midline structures confirms this.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00485-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The presence of the corpus callosum, lateral ventricles, and midline structures confirms this.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P1,BraTS-GLI-00491-100,brain,brain,brain,"The provided MRI slices show a sagittal view of the brain. The visible structures include the cerebral hemispheres, cerebellum, brainstem, and ventricles.
+
+Final Answer: The final answer is $\boxed{Brain}$"
+P3,D2-001,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely within the vagina. This object is consistent with a large cyst, such as a Bartholin's gland cyst or a vaginal cyst.
+
+Final Answer: yes"
+P3,D2-001,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no large, very bright, round object visible. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-001,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, centered over the symphysis pubis. This object is consistent with a large pelvic cyst, most likely a Bartholin's gland cyst given its location.
+
+Final Answer: yes"
+P3,D2-001,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, centered over the symphysis pubis. This object appears to be a large cyst, likely a Bartholin's gland cyst.
+
+Final Answer: no"
+P3,D2-004,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object appears to be located in the left adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-004,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-004,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely representing a large cyst or mass. This is evident in multiple slices, including slices 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, and 33.
+
+Final Answer: yes"
+P3,D2-004,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely representing a large cyst or mass.
+
+Final Answer: no"
+P3,D2-005,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the left adnexa. This object is consistent with a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-005,absent_askabsent,yes,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, round, very bright object located in the left adnexa.
+
+Final Answer: no"
+P3,D2-005,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely within the vagina. This object is consistent with a large pessary or vaginal prolapse.
+
+Final Answer: yes"
+P3,D2-005,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely representing a large cyst or mass.
+
+Final Answer: no"
+P3,D2-010,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object appears to be located in the left adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-010,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show the pelvic anatomy, including the bladder, uterus, and surrounding soft tissues, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-010,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object is located in the left adnexa and appears to be a large cyst, likely an ovarian cyst.
+
+Final Answer: yes"
+P3,D2-010,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object present in the pelvis. This object is located in the left adnexa and appears to be a large cyst.
+
+Final Answer: no"
+P3,D2-012,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object appears to be located in the right adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-012,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show normal pelvic anatomy, including the uterus, ovaries, and surrounding soft tissues.
+
+Final Answer: yes"
+P3,D2-012,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object appears to be located within the vagina, likely representing a large cyst or mass.
+
+Final Answer: yes"
+P3,D2-012,present_askabsent,no,no,"The images show a large, round, very bright object in the pelvis.
+
+Final Answer: no"
+P3,D2-014,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object is located in the left adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-014,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-014,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely within the vagina. This object appears to be a large cyst or mass.
+
+Final Answer: yes"
+P3,D2-014,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object present in the pelvis. This object is located in the midline, likely representing a large cyst or mass.
+
+Final Answer: no"
+P3,D2-015,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object visible in the right adnexa. This object appears to be located in the right ovary.
+
+Final Answer: yes"
+P3,D2-015,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-015,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the right adnexa. This object is consistent with a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-015,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object present in the pelvis. This object is located in the right adnexa.
+
+Final Answer: no"
+P3,D2-016,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, consistent with the appearance of a large cyst.
+
+Final Answer: yes"
+P3,D2-016,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no large, very bright, round object visible. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-016,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, centered around the level of the pubic symphysis. This object appears to be a large cyst, likely a Bartholin's gland cyst, given its location and appearance.
+
+Final Answer: yes"
+P3,D2-016,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, centered around the level of the pubic symphysis. This object appears to be a large cyst, likely a Bartholin's gland cyst, given its location and appearance.
+
+Final Answer: no"
+P3,D2-017,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object present in the pelvis. This object appears to be located in the right adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-017,absent_askabsent,yes,no,"Based on the visual evidence in the slices provided above, are these images free of any large, very bright, round object? Please provide your reasoning and conclude with 'Final Answer: yes' or 'Final Answer: no'.
+
+Final Answer: no"
+P3,D2-017,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the pelvis. This object appears to be a large cyst, likely a Bartholin's gland cyst, given its location and appearance.
+
+Final Answer: yes"
+P3,D2-017,present_askabsent,no,no,"The images show a large, round, very bright object in the pelvis.
+
+Final Answer: no"
+P3,D2-018,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely within the uterus. This object is consistent with a large uterine fibroid (leiomyoma).
+
+Final Answer: yes"
+P3,D2-018,absent_askabsent,yes,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, round, very bright object located in the midline of the pelvis, likely representing the uterus. There are also multiple smaller, round, very bright objects scattered throughout the pelvis, likely representing ovarian follicles.
+
+The question asks if the images are free of any large, very bright, round object. The uterus is a large, round, very bright object. Therefore, the images are not free of any large, very bright, round object.
+
+Final Answer: no"
+P3,D2-018,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely within the vagina. This object appears to be a large cyst or mass.
+
+Final Answer: yes"
+P3,D2-018,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely representing a large cyst or mass.
+
+Final Answer: no"
+P3,D2-019,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object is located in the left adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-019,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show normal pelvic anatomy, including the uterus, ovaries, and surrounding soft tissues.
+
+Final Answer: yes"
+P3,D2-019,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the pelvis. This object appears to be a large cyst, likely a Bartholin's gland cyst, given its location and appearance.
+
+Final Answer: yes"
+P3,D2-019,present_askabsent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show normal pelvic anatomy, including the bladder, uterus, and surrounding soft tissues.
+
+Final Answer: yes"
+P3,D2-020,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object appears to be located in the left adnexa, likely representing a large ovarian cyst or mass.
+
+Final Answer: yes"
+P3,D2-020,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-020,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the pelvis. This object appears to be a large cyst, likely a Bartholin's gland cyst, given its location and appearance.
+
+Final Answer: yes"
+P3,D2-020,present_askabsent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no large, very bright, round object visible. The images show the pelvic anatomy, including the uterus, ovaries, and surrounding structures, without any obvious large, bright masses.
+
+Final Answer: yes"
+P3,D2-021,absent_askpresent,no,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object in the pelvis. This object appears to be located in the right adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes"
+P3,D2-021,absent_askabsent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there are no large, very bright, round objects visible. The images show normal pelvic anatomy, including the uterus, ovaries, bladder, and surrounding soft tissues.
+
+Final Answer: yes"
+P3,D2-021,present_askpresent,yes,yes,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely representing the uterus. This is consistent with the expected appearance of a uterus on this type of imaging.
+
+Final Answer: yes"
+P3,D2-021,present_askabsent,no,no,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, very bright, round object located in the midline of the pelvis, likely representing a large cyst or fluid collection.
+
+Final Answer: no"
+P4,D2-000,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior axis of the body oriented vertically. This is characteristic of axial imaging.
+Final Answer: Axial"
+P4,D2-000,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing larger than the anterior-posterior dimension. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+
+Final Answer: Axial"
+P4,D2-000,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The sagittal plane divides the body into left and right portions. In these images, the slices show the long axis of the body, the spine, and the pelvic structures, which are best visualized in a sagittal view. The orientation is consistent with a sagittal plane.
+
+Final Answer: Sagittal plane"
+P4,D2-001,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with a standard pelvic MRI protocol.
+
+Final Answer: Axial"
+P4,D2-001,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from top to bottom. This is characteristic of axial imaging.
+
+Final Answer: Axial"
+P4,D2-001,sagittal,sagittal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing as height and the anterior-posterior dimension appearing as width. This is characteristic of axial imaging. The orientation is consistent with a standard axial plane in MRI.
+
+Final Answer: Axial"
+P4,D2-002,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-002,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior and inferior aspects of the pelvis visible in the top and bottom portions of the image, respectively. This is characteristic of an axial (transverse) plane. The orientation is consistent with standard pelvic imaging protocols.
+
+Final Answer: Axial"
+P4,D2-002,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of a sagittal view. The superior-inferior axis is clearly visible, and the left and right sides of the pelvis are well-defined.
+
+Final Answer: Sagittal"
+P4,D2-003,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-003,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from top to bottom. This is characteristic of axial imaging.
+
+Final Answer: Axial"
+P4,D2-003,sagittal,sagittal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing as height and the anterior-posterior dimension appearing as width. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+
+Final Answer: Axial"
+P4,D2-004,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-004,coronal,coronal,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from top to bottom. This is characteristic of axial imaging.
+
+Final Answer: Axial plane"
+P4,D2-004,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The sagittal plane divides the body into left and right portions. In these images, the slices show the long axis of the pelvis, the sacroiliac joints, the pubic symphysis, and the ischial tuberosities, which are all best visualized in the sagittal orientation. The orientation is confirmed by the vertical axis appearing as the central vertical line in each slice.
+
+Final Answer: Sagittal plane"
+P4,D2-005,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-005,coronal,coronal,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from top to bottom. This is characteristic of axial imaging.
+
+Final Answer: Axial plane"
+P4,D2-005,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The slices show a view of the pelvis from side to side, demonstrating the length of the bones and the relationship between structures like the femur, pelvis, and sacrum. This orientation is characteristic of a sagittal view.
+
+Final Answer: Sagittal plane"
+P4,D2-006,axial,axial,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, demonstrating the relationship between the pelvic bones, muscles, and soft tissues. The orientation is consistent with an axial (transverse) plane, where the patient is positioned horizontally.
+Final Answer: Axial plane"
+P4,D2-006,coronal,coronal,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from top to bottom. This is characteristic of axial imaging.
+
+Final Answer: Axial plane"
+P4,D2-006,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. The orientation is consistent with a sagittal view, where the patient is lying on their back with their head towards the feet. The structures like the uterus, ovaries, and adnexa are visualized in a longitudinal fashion.
+
+Final Answer: Sagittal plane"
+P4,D2-008,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-008,coronal,coronal,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from top to bottom. This is characteristic of axial imaging.
+
+Final Answer: Axial plane"
+P4,D2-008,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of a sagittal view, where the patient is positioned lying on their back with their head towards the feet. The slices show the pelvic bones, muscles, and soft tissues in a side profile.
+
+Final Answer: Sagittal plane"
+P4,D2-010,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-010,coronal,coronal,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from front to back. This is characteristic of axial imaging.
+
+Final Answer: Axial plane"
+P4,D2-010,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of a sagittal view, where the patient is positioned prone (face down) with the head towards the feet. The slices show the pelvic bones, muscles, and soft tissues in a side profile.
+
+Final Answer: Sagittal plane"
+P4,D2-011,axial,axial,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior axis of the body oriented vertically. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial plane"
+P4,D2-011,coronal,coronal,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis. The slices are parallel to the patient's abdomen, providing a view from front to back. This is characteristic of axial imaging.
+
+Final Answer: Axial plane"
+P4,D2-011,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of a sagittal view, where the patient is positioned lying on their back with their head towards the scanner. The images show the pelvic bones and soft tissues in a side-on view.
+
+Final Answer: Sagittal plane"
+P4,D2-012,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-012,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with structures like the pelvic bones, bladder, and rectum visible. This is characteristic of an axial (transverse) plane view in MRI. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-012,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of sagittal slices. The images depict the pelvic bones, muscles, and soft tissues in a side-view perspective.
+
+Final Answer: Sagittal plane"
+P4,D2-013,axial,axial,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the same as the anterior-posterior dimension. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial plane"
+P4,D2-013,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing larger than the anterior-posterior dimension. This is characteristic of axial imaging. The orientation is consistent with a standard axial plane in MRI.
+
+Final Answer: Axial"
+P4,D2-013,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. The orientation is consistent with a sagittal view, where the patient is lying on their back with their head towards the feet. The structures like the uterus, ovaries, and adnexa are visualized in a longitudinal fashion.
+
+Final Answer: Sagittal plane"
+P4,D2-014,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-014,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with structures like the bladder, uterus, and rectum visible. This is characteristic of an axial (transverse) plane view in MRI. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-014,sagittal,sagittal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The orientation is consistent with a standard MRI protocol for pelvic imaging.
+
+Final Answer: Axial"
+P4,D2-015,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, demonstrating the relationship between the pelvic organs and the bony structures. The superior-inferior dimension is preserved, and the left-right dimension is preserved, which is characteristic of axial imaging. The orientation is consistent with a standard axial plane in MRI.
+
+Final Answer: Axial"
+P4,D2-015,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+**Reasoning:**
+
+*   The images show a cross-sectional view of the pelvis.
+*   The slices are parallel to the patient's abdomen, providing a view from top to bottom.
+*   This orientation is characteristic of axial imaging.
+
+**Final Answer:** Axial"
+P4,D2-015,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. The orientation is consistent with a sagittal view, where the patient is positioned lying on their back with their head towards the feet. The structures like the uterus, ovaries, and adnexa are visualized in a longitudinal fashion.
+
+Final Answer: Sagittal plane"
+P4,D2-016,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, demonstrating the relationship between the pelvic bones, muscles, and soft tissues. The orientation is consistent with an axial (transverse) plane, where the patient is positioned horizontally.
+Final Answer: Axial"
+P4,D2-016,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with structures like the pelvic bones, muscles, and potentially pelvic organs (though not clearly delineated) visible. This is characteristic of an axial (transverse) plane view in MRI. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-016,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of a sagittal view, where the patient is positioned lying on their back with their head towards the scanner. The slices show the relationship between the pelvic bones (like the ischium and pubis) and the surrounding soft tissues.
+
+Final Answer: Sagittal plane"
+P4,D2-017,axial,axial,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial plane"
+P4,D2-017,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with structures like the bladder, uterus, and rectum visible. This is characteristic of an axial (transverse) plane view in MRI. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-017,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of a sagittal view. The superior-inferior axis is clearly visible, and the left and right sides of the pelvis are well-defined.
+
+Final Answer: Sagittal plane"
+P4,D2-018,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-018,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing larger than the anterior-posterior dimension. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-018,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. This orientation is characteristic of a sagittal view. The superior-inferior axis is clearly visible, and the structures are oriented vertically.
+
+Final Answer: Sagittal plane"
+P4,D2-019,axial,axial,axial,"The slices are in the **axial plane**.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior axis appearing as a vertical line. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-019,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing relatively small compared to the anterior-posterior and medial-lateral dimensions. This is characteristic of axial imaging. The orientation is consistent with a standard MRI protocol for pelvic imaging.
+
+Final Answer: Axial"
+P4,D2-019,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. The orientation is consistent with a sagittal view, where the patient is positioned supine with their head towards the left and feet towards the right, and the image is acquired from superior to inferior. The midline is vertical, and the left and right sides are visible.
+
+Final Answer: Sagittal plane"
+P4,D2-020,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+Final Answer: Axial"
+P4,D2-020,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing as height and the anterior-posterior dimension appearing as width. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level.
+
+Final Answer: Axial"
+P4,D2-020,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. The orientation is consistent with a sagittal view, where the patient is lying on their back with their head towards the feet. The midline is vertical, and the structures are viewed from the left and right sides.
+
+Final Answer: Sagittal plane"
+P4,D2-021,axial,axial,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension being the greatest. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The orientation is consistent with standard pelvic MRI protocols.
+
+Final Answer: Axial"
+P4,D2-021,coronal,coronal,axial,"The slices are in the **axial** plane.
+
+Reasoning:
+The images show a cross-sectional view of the pelvis, with the superior-inferior dimension appearing larger than the anterior-posterior dimension. This is characteristic of axial imaging. The slices are contiguous, meaning they are taken at the same level. The patient is female, and the anatomical structures visible (pelvic bones, soft tissues) are consistent with a female pelvis.
+
+Final Answer: Axial"
+P4,D2-021,sagittal,sagittal,sagittal,"The slices are in the **sagittal plane**.
+
+Reasoning:
+The images show a view from side to side, demonstrating the length of the pelvic structures. The orientation is consistent with a sagittal view, where the patient is lying on their back with their head towards the feet. The structures like the uterus, ovaries, and adnexa are visualized in a longitudinal fashion.
+
+Final Answer: Sagittal plane"

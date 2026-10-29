@@ -1,0 +1,1 @@
+experiments/expM_mri_us1.py --layouts us1 --labels em --histories empty,known_em --ablations real,blank --generate --shard 0 --nshards 2

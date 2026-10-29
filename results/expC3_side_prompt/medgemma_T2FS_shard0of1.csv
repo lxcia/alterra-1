@@ -1,0 +1,2066 @@
+subject,source,gt_side,variant,n_slices,raw,truncated,answer,lp_left,lp_right,lp_bilateral,lp_none,logit_yes_no
+D2-000,real_cyst,left,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing a large ovarian cyst. The lesion is significantly larger than any similar structures visible on the right side.
+
+Final Answer: left",False,left,-0.010948466137051582,-7.885948657989502,-12.823448181152344,-10.510948181152344,
+D2-000,real_cyst,left,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the largest one is predominantly located on the right.
+
+Final Answer: right",False,right,-7.13138484954834,-0.006385045126080513,-12.13138484954834,-10.13138484954834,
+D2-000,real_cyst,left,open,36,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic structure is located in the left adnexa, extending superiorly and laterally from the left ovary. This is consistent with a left ovarian cyst.
+Final Answer: Left",False,left,-0.7200165843198064,-1.851294930877602,-15.361050605773926,-12.547667170653618,
+D2-000,real_cyst,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-1.2499999403953552
+D2-000,real_cyst,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure occupying a significant portion of the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.3750000298023224
+D2-000,real_cyst,left,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus in the pelvis.
+2.  **Locate the largest lesion:** Observe the size and shape of the cystic structures within the ovaries. The lesion on the left ovary appears significantly larger than the lesion on the right ovary.
+3.  **Confirm the side:** The left ovary is the one positioned towards the left side of the image.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.010170657187700272,-11.010170936584473,-18.572669982910156,-13.572670936584473,
+D2-002,real_cyst,right,ref,40,"The largest cystic lesion appears to be on the left side.
+
+Final Answer: left",False,left,-0.011976124718785286,-8.13697624206543,-13.07447624206543,-11.13697624206543,
+D2-002,real_cyst,right,order_rl,40,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.383890151977539,-0.008890095166862011,-12.321390151977539,-10.508890151977539,
+D2-002,real_cyst,right,open,40,"The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending superiorly and laterally. The other ovary on the right appears normal in size and morphology.
+Final Answer: Left",False,left,-0.7604438222809291,-1.6381974812322535,-15.210453033447266,-13.02206959748482,
+D2-002,real_cyst,right,yn_right,40,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa and is significantly larger than the lesion on the left side.
+
+Final Answer: yes",False,yes,,,,,0.375
+D2-002,real_cyst,right,yn_left,40,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 7.5 cm in maximum diameter.
+
+Final Answer: yes",False,yes,,,,,1.8749998807907104
+D2-002,real_cyst,right,single_slice,1,"Final Answer: left
+",False,left,-0.00499631417915225,-10.629996299743652,-17.87999725341797,-13.192496299743652,
+D2-003,real_cyst,left,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left",False,left,-0.010058666579425335,-7.760058879852295,-12.635058403015137,-10.760058403015137,
+D2-003,real_cyst,left,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the left side, the dominant and largest lesion is clearly situated on the right.
+
+Final Answer: right",False,right,-7.132135391235352,-0.0071356212720274925,-11.819635391235352,-10.132135391235352,
+D2-003,real_cyst,left,open,36,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest lesion is located in the left adnexa, appearing as a multiloculated cystic structure. This is evident in multiple slices, including SLICE 15, SLICE 16, SLICE 17, and SLICE 18. The lesion is significantly larger than the lesion on the right side, which is visible in SLICE 14.
+Final Answer: Left",False,left,-0.7831380345919151,-1.5352877921618282,-15.35539436340332,-12.79203809627449,
+D2-003,real_cyst,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.5
+D2-003,real_cyst,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. The lesion is a well-defined, round structure with a high signal intensity on T2-weighted images, consistent with a cyst. It appears to be the largest among the ovarian lesions visible in the provided series.
+
+Final Answer: yes",False,yes,,,,,1.5
+D2-003,real_cyst,left,single_slice,1,"Final Answer: left
+",False,left,-0.0055954973213374615,-12.005595207214355,-18.693096160888672,-13.443095207214355,
+D2-006,real_cyst,left,ref,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending from the pelvis into the lower abdomen. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left",False,left,-0.008028261363506317,-7.883028030395508,-12.570528030395508,-10.633028030395508,
+D2-006,real_cyst,left,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.6291608810424805,-0.004160914570093155,-12.19166088104248,-10.37916088104248,
+D2-006,real_cyst,left,open,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending from the pelvis into the lower abdomen. It is significantly larger than the cystic structure seen on the right side.
+Final Answer: Left",False,left,-0.85395795531269,-1.3619902275448716,-15.124500274658203,-12.748366062677821,
+D2-006,real_cyst,left,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a large, well-defined cystic structure in the right adnexal region.
+2.  **T2-weighted Fat Suppression:** This modality is commonly used to visualize pelvic structures, including ovaries, and helps differentiate fluid-filled structures (like cysts) from fat.
+3.  **Location:** The lesion is situated in the expected location of the right ovary.
+4.  **Size:** Comparing the size of the lesion across the slices, it appears to be the largest cystic structure visible in the right adnexal region.
+
+Conclusion:
+The largest cystic lesion is located on the patient's right side.
+
+Final Answer: yes",False,yes,,,,,0.5
+D2-006,real_cyst,left,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 6.5 x 5.5 x 6.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,2.000000089406967
+D2-006,real_cyst,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvis. There is a large, well-defined, round structure with a bright signal intensity (consistent with fluid) located in the left adnexal region, corresponding to the left ovary.
+3.  **Compare lesion sizes:** The lesion on the left side appears significantly larger than the lesion on the right side, which is smaller and less distinct.
+4.  **Confirm location:** The lesion is clearly situated within the left adnexa, consistent with the location of the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.0080014169216156,-11.633001327514648,-18.50800132751465,-13.945501327514648,
+D2-013,real_cyst,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side displays the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.012581617571413517,-7.762581825256348,-12.762581825256348,-10.637581825256348,
+D2-013,real_cyst,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the right adnexa, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the left side, the largest one is clearly located on the right.
+
+Final Answer: right",False,right,-7.6312384605407715,-0.006238273810595274,-12.318737983703613,-10.131237983703613,
+D2-013,real_cyst,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion within the left adnexa, consistent with a cyst. The lesion is larger in size compared to the right adnexa, which appears relatively unremarkable.
+
+Final Answer: Left",False,left,-0.9364391920343751,-1.440846738484833,-15.450602531433105,-12.387069768263407,
+D2-013,real_cyst,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a well-defined, rounded structure in the right adnexal region.
+2.  **T2-weighted Fat Suppression:** This sequence is typically used to visualize fluid-filled structures like cysts, making them appear bright (hyperintense) and distinct from surrounding fat (which appears dark).
+3.  **Location:** The lesion is situated in the expected location of the right ovary.
+4.  **Size:** Comparing the size of the lesion across the slices, it appears to be the largest cystic structure visible in the right adnexa.
+
+Conclusion:
+The largest cystic lesion is located in the right adnexal region, consistent with the right ovary.
+
+Final Answer: yes",False,yes,,,,,-1.5000000149011612
+D2-013,real_cyst,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, and 34. The lesion is located in the left adnexa, consistent with the location of the ovary.
+
+Final Answer: yes",False,yes,,,,,0.6250000596046448
+D2-013,real_cyst,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible as the rounded structures on either side of the uterus.
+2.  **Locate the cystic lesion:** There is a distinct, well-defined cystic structure visible in the left adnexal region. It appears as a rounded, hypointense (dark) structure on a T2-weighted image, consistent with a cyst.
+3.  **Compare sizes:** Comparing the size of the cystic lesion on the left side with the right side, the lesion on the left appears significantly larger than the lesion on the right.
+4.  **Conclusion:** Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.004026283510029316,-10.004026412963867,-17.566526412963867,-12.754026412963867,
+D2-039,real_cyst,left,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left",False,left,-0.009334847331047058,-7.884335041046143,-12.759334564208984,-10.509334564208984,
+D2-039,real_cyst,left,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.754921913146973,-0.004921821411699057,-12.379921913146973,-10.254921913146973,
+D2-039,real_cyst,left,open,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side. The appearance is consistent with a large ovarian cyst or possibly a cystadenoma.
+
+Final Answer: Left",False,left,-0.9863148783871892,-1.117593224944985,-15.564848899841309,-12.625892778658342,
+D2-039,real_cyst,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.5
+D2-039,real_cyst,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.4999999701976776
+D2-039,real_cyst,left,single_slice,1,"Final Answer: left
+",False,left,-0.004444957710802555,-10.75444507598877,-18.004444122314453,-13.25444507598877,
+D2-040,real_endometrioma,left,ref,33,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is larger than the cystic structure visible on the right side. The lesion appears to be located within the left ovary.
+
+Final Answer: left",False,left,-0.011635888367891312,-8.011635780334473,-12.636635780334473,-10.511635780334473,
+D2-040,real_endometrioma,left,order_rl,33,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the right adnexa, which is consistent with an ovarian cyst. While there are smaller cystic structures visible on the left, the largest one is clearly situated on the right side.
+
+Final Answer: right",False,right,-7.630488395690918,-0.005488445982336998,-12.317988395690918,-10.255488395690918,
+D2-040,real_endometrioma,left,open,33,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is seen in the left adnexa, appearing as a large, multiloculated cystic structure. While the exact size cannot be determined without a scale, it is clearly the most prominent lesion within the left ovary compared to the right ovary.
+Final Answer: Left",False,left,-0.7873471776213838,-1.5417546637479311,-15.30151081085205,-12.550445279688692,
+D2-040,real_endometrioma,left,yn_right,33,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest cystic lesion appears to be on the patient's right side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure located in the right adnexa, likely representing the right ovary. The lesion is significantly larger than the left ovary, which appears smaller and less distinct. The appearance is consistent with a large ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.6250000298023224
+D2-040,real_endometrioma,left,yn_left,33,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest cystic lesion appears to be on the patient's left side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure located in the left adnexa, likely representing the left ovary. The lesion is significantly larger than the right ovary, which appears smaller and less distinct. The appearance is consistent with a large ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,1.2500000298023224
+D2-040,real_endometrioma,left,single_slice,1,"Final Answer: left
+",False,left,-0.0019309938652440906,-11.126931190490723,-18.251930236816406,-14.251931190490723,
+D2-041,real_endometrioma,right,ref,41,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is a large, multiloculated cystic structure in the left adnexa, extending from the pelvis into the upper thigh. This is consistent with a large ovarian cyst or mass.
+
+Final Answer: left",False,left,-0.009913495741784573,-8.134913444519043,-12.822413444519043,-11.259913444519043,
+D2-041,real_endometrioma,right,order_rl,41,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is seen in the right adnexal region, extending superiorly and laterally. It appears as a large, multiloculated cystic mass.
+
+Final Answer: right",False,right,-7.130740642547607,-0.005740821827203035,-12.193241119384766,-10.630741119384766,
+D2-041,real_endometrioma,right,open,41,"The largest cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is a large multiloculated cystic mass in the left adnexa, extending into the pelvis. It appears to be arising from the left ovary.
+
+Final Answer: Left",False,left,-0.5779531995024874,-1.4573606856290346,-15.279616355895996,-13.15351702182342,
+D2-041,real_endometrioma,right,yn_right,41,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is a large, multiloculated cystic mass occupying a significant portion of the right adnexa.
+
+Final Answer: yes",False,yes,,,,,1.9999998956918716
+D2-041,real_endometrioma,right,yn_left,41,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic mass occupying a significant portion of the left adnexa.
+
+Final Answer: yes",False,yes,,,,,3.6249999552965164
+D2-041,real_endometrioma,right,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the image and identify the largest cystic structure. It appears as a large, rounded, fluid-filled structure.
+3.  **Determine the side:** The lesion is situated in the left adnexa (the region containing the left ovary and fallopian tube).
+4.  **Confirm:** The lesion is clearly visible and appears significantly larger than the right ovary.
+
+Final Answer: left",False,left,-0.0027127391658723354,-12.002713203430176,-19.25271224975586,-13.940213203430176,
+D2-042,real_cyst,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the left adnexa, which is larger than the cystic structure visible on the right side. The lesion appears to be located within the left ovary.
+
+Final Answer: left",False,left,-0.01075743231922388,-7.5107574462890625,-12.885757446289062,-10.635757446289062,
+D2-042,real_cyst,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a well-defined cystic structure in the right adnexa, which is larger than the cystic structure visible in the left adnexa. The lesion in the right adnexa is more prominent and occupies a larger portion of the axial plane compared to the lesion in the left adnexa.
+
+Final Answer: right",False,right,-7.879801273345947,-0.004801291972398758,-12.379801750183105,-10.254801750183105,
+D2-042,real_cyst,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion within the left ovary. This appearance is consistent with a cyst. Comparing the size of the lesion in the left ovary to the right ovary, the left ovary contains the larger cystic structure.
+Final Answer: Left",False,left,-0.8025569439002576,-1.182460479793139,-15.62756633758545,-12.81412595257693,
+D2-042,real_cyst,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.0
+D2-042,real_cyst,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's left side. The lesion is located in the left adnexa, likely representing a cyst.
+
+Final Answer: yes",False,yes,,,,,1.3749999701976776
+D2-042,real_cyst,right,single_slice,1,"Final Answer: left
+",False,left,-0.0056573753245174885,-10.380657196044922,-17.755657196044922,-13.193157196044922,
+D2-045,real_cyst,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right side, the lesion on the left is significantly larger and more prominent.
+
+Final Answer: left",False,left,-0.009003634564578533,-7.384003639221191,-12.321503639221191,-10.259003639221191,
+D2-045,real_cyst,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the left side, the dominant and largest lesion is clearly situated on the right.
+
+Final Answer: right",False,right,-7.506673336029053,-0.006673548836261034,-12.131673812866211,-9.881673812866211,
+D2-045,real_cyst,right,open,36,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest lesion is located in the left adnexa, appearing as a complex cystic structure with internal echoes. This is consistent with an ovarian cyst, and the left side is the side where the largest lesion is identified.
+Final Answer: Left",False,left,-0.9885552070980942,-1.242450293612092,-15.25106430053711,-12.437498770389377,
+D2-045,real_cyst,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-1.2499999403953552
+D2-045,real_cyst,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. It appears as a complex cystic structure with internal septations and possibly some solid components.
+
+Final Answer: yes",False,yes,,,,,0.25
+D2-045,real_cyst,right,single_slice,1,"Final Answer: left
+",False,left,-0.004586414899677038,-10.254586219787598,-17.067087173461914,-12.817086219787598,
+D2-054,real_endometrioma,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left",False,left,-0.01436617225408554,-8.014366149902344,-13.264366149902344,-11.076866149902344,
+D2-054,real_endometrioma,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.631941795349121,-0.006941607687622309,-12.569441795349121,-10.631941795349121,
+D2-054,real_endometrioma,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending from the pelvis into the lower abdomen. It appears as a large, multiloculated lesion with multiple internal septations. This location is consistent with the left ovary.
+
+Final Answer: Left",False,left,-0.8763391262819353,-1.6334413076823961,-15.206989288330078,-12.830855076349696,
+D2-054,real_endometrioma,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.7499999403953552
+D2-054,real_endometrioma,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure occupying a significant portion of the left adnexa.
+
+Final Answer: yes",False,yes,,,,,2.25
+D2-054,real_endometrioma,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically in the lower pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvis. There is a large, well-defined, roundish lesion occupying a significant portion of the left adnexal region.
+3.  **Compare sizes:** The lesion on the left appears significantly larger than the lesion on the right.
+4.  **Confirm location:** The lesion is clearly situated within the left adnexa, consistent with the location of the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.009003634564578533,-10.509003639221191,-18.509002685546875,-13.384003639221191,
+D2-056,real_cyst,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left",False,left,-0.009335909970104694,-7.634335994720459,-12.0718355178833,-10.8843355178833,
+D2-056,real_cyst,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the lower abdomen. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.631321430206299,-0.006321434862911701,-11.756321907043457,-10.381321907043457,
+D2-056,real_cyst,right,open,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending from the level of the ovary towards the pelvis. The lesion appears as a large, multiloculated cystic mass.
+
+Final Answer: Left",False,left,-1.1654474876767076,-1.170350963548547,-14.552957534790039,-12.489487312308604,
+D2-056,real_cyst,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.25
+D2-056,real_cyst,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 5.5 x 4.5 x 5.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,1.2499999701976776
+D2-056,real_cyst,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are located in the pelvis, typically on either side of the uterus. In this image, the ovaries are visible as ovoid structures.
+2.  **Locate the Largest Cyst:** Observe the size and appearance of the cystic structures within the ovaries. There is a significantly larger, well-defined, round structure on the left side compared to the right side. This structure has a bright signal intensity on T2-weighted images, consistent with a cyst.
+3.  **Determine the Side:** The left ovary contains the largest cystic lesion.
+
+**Conclusion:**
+
+Final Answer: left",False,left,-0.0043711354956030846,-11.25437068939209,-18.254371643066406,-13.69187068939209,
+D2-070,real_endometrioma,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending from the pelvis into the lower abdomen. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left",False,left,-0.008117422461509705,-7.883117198944092,-13.00811767578125,-10.88311767578125,
+D2-070,real_endometrioma,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the lower abdomen. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.380411148071289,-0.00541126262396574,-12.317911148071289,-10.255411148071289,
+D2-070,real_endometrioma,right,open,36,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic structure is located in the left adnexa, corresponding to the left ovary. The lesion is significantly larger than the right ovarian cyst.
+Final Answer: Left",False,left,-0.7037042180266573,-1.7081117041532046,-15.217867851257324,-12.654427464456004,
+D2-070,real_endometrioma,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.375
+D2-070,real_endometrioma,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 5.5 x 5.0 x 5.0 cm.
+
+Final Answer: yes",False,yes,,,,,1.7499999552965164
+D2-070,real_endometrioma,right,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, visible as the darker, rounded structures in the upper part of the pelvis in the image.
+2.  **Locate the largest lesion:** Observe the size and appearance of the lesions on both the left and right sides. The lesion on the left side is significantly larger and more prominent than the lesion on the right side.
+3.  **Confirm the side:** The left ovary contains the larger cystic structure.
+
+**Final Answer: left**",False,left,-0.008129720576107502,-10.758130073547363,-17.883129119873047,-13.008130073547363,
+D2-071,real_endometrioma,right,ref,44,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending superiorly and laterally. While there are smaller cystic structures visible on the right side, the dominant lesion is clearly on the left.
+
+Final Answer: left",False,left,-0.007969249971210957,-8.25796890258789,-12.69546890258789,-10.88296890258789,
+D2-071,real_endometrioma,right,order_rl,44,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is seen in the right adnexa, extending superiorly and laterally. While there are smaller cystic structures present on the left side, the dominant lesion is clearly on the right.
+
+Final Answer: right",False,right,-7.505716323852539,-0.005716167856007814,-12.130716323852539,-10.380716323852539,
+D2-071,real_endometrioma,right,open,44,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending superiorly and laterally. The lesion appears multiloculated and has a complex appearance. The right ovary appears relatively normal in comparison.
+
+Final Answer: Left",False,left,-0.8803543292843387,-1.6374565123535547,-15.148504257202148,-12.709796938974463,
+D2-071,real_endometrioma,right,yn_right,44,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa and is significantly larger than the lesion on the left side.
+
+Final Answer: yes",False,yes,,,,,0.125
+D2-071,real_endometrioma,right,yn_left,44,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic mass occupying a significant portion of the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.9999999701976776
+D2-071,real_endometrioma,right,single_slice,1,"Final Answer: left
+",False,left,-0.0028455264400690794,-10.002845764160156,-17.502845764160156,-12.877845764160156,
+D2-072,real_endometrioma,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion in the left adnexa, consistent with a cyst. The lesion is larger than the corresponding lesion on the right side.
+
+Final Answer: left",False,left,-0.007083777338266373,-8.007083892822266,-12.757083892822266,-10.882083892822266,
+D2-072,real_endometrioma,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion in the right adnexa, consistent with a cyst. The lesion is larger than the corresponding lesion on the left side.
+
+Final Answer: right",False,right,-8.129382133483887,-0.004382292274385691,-12.441882133483887,-10.629382133483887,
+D2-072,real_endometrioma,right,open,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest lesion is a multiloculated cystic structure seen in the right adnexa, extending from the level of the right ovary towards the right pelvic sidewall. The lesion is significantly larger than the lesion seen on the left side.
+Final Answer: Right",False,right,-1.1203388364243922,-1.1247463818365016,-15.134502410888672,-12.44593688074094,
+D2-072,real_endometrioma,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.25
+D2-072,real_endometrioma,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including SLICE 1, SLICE 2, SLICE 3, SLICE 4, SLICE 5, SLICE 6, SLICE 7, SLICE 8, SLICE 9, SLICE 10, SLICE 11, SLICE 12, SLICE 13, SLICE 14, SLICE 15, SLICE 16, SLICE 17, SLICE 18, SLICE 19, SLICE 20, SLICE 21, SLICE 22, SLICE 23, SLICE 24, SLICE 25, SLICE 26, SLICE 27, SLICE 28, SLICE 29, SLICE 30, SLICE 31, SLICE 32, SLICE 33, SLICE 34, SLICE 35, and SLICE 36. The lesion is located in the left adnexa, consistent with the location of the ovary.
+
+Final Answer: yes",False,yes,,,,,2.0000000596046448
+D2-072,real_endometrioma,right,single_slice,1,"Final Answer: left
+",False,left,-0.0034834202378988266,-10.878483772277832,-18.003482818603516,-13.253483772277832,
+D2-074,real_cyst,left,ref,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right, the left lesion is significantly larger and more prominent.
+
+Final Answer: left",False,left,-0.008300804533064365,-7.75830078125,-12.00830078125,-10.25830078125,
+D2-074,real_cyst,left,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, appearing bright on T2-weighted images. While there are smaller cystic structures visible on the left, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.631070613861084,-0.00607074610888958,-12.068571090698242,-9.881071090698242,
+D2-074,real_cyst,left,open,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest lesion is seen in the right adnexa, appearing as a complex cystic structure with internal septations and possibly some internal debris or hemorrhage. This is consistent with an ovarian cyst, potentially a hemorrhagic cyst or endometrioma. The lesion is significantly larger than the lesion seen on the left side.
+
+Final Answer: Right",False,right,-1.1467559675871688,-0.7761634555308269,-15.285919189453125,-12.34705122857549,
+D2-074,real_cyst,left,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.0
+D2-074,real_cyst,left,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion is predominantly cystic, appearing dark on the T2-weighted image.
+
+Final Answer: yes",False,yes,,,,,1.125
+D2-074,real_cyst,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the broad ligament. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Cyst:** Visually inspect the ovaries in both the left and right images. The lesion on the left side appears significantly larger and more prominent than the lesion on the right side. It has a distinct cystic appearance with a thin wall and internal echoes.
+3.  **Confirm Laterality:** The lesion is clearly situated in the left adnexal region.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.0022004456259310246,-11.12720012664795,-18.252201080322266,-13.62720012664795,
+D2-075,real_cyst,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011475862003862858,-7.636476039886475,-12.011475563049316,-10.136475563049316,
+D2-075,real_cyst,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexal region, extending towards the pelvis. This structure is significantly larger than the corresponding lesion on the left side.
+
+Final Answer: right",False,right,-7.379974365234375,-0.004974489100277424,-11.754974365234375,-10.004974365234375,
+D2-075,real_cyst,right,open,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending from the pelvis into the lower abdomen. The lesion is well-defined and has a characteristic T2 hyperintense appearance, consistent with a cyst. The lesion is significantly larger than the right ovarian cyst.
+
+Final Answer: Left",False,left,-0.6233052730628552,-1.7510589918517232,-15.323314666748047,-12.697484733260145,
+D2-075,real_cyst,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.375
+D2-075,real_cyst,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 6.5 x 5.5 x 6.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,1.2499999403953552
+D2-075,real_cyst,right,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the image and identify the largest cystic structure. It appears as a large, well-defined, bright (hyperintense) lesion on the left side of the pelvis.
+3.  **Determine the side:** Based on anatomical positioning, the left ovary is located on the left side of the pelvis.
+4.  **Conclusion:** The largest cystic lesion corresponds to the left ovary.
+
+Final Answer: left",False,left,-0.00711680157110095,-10.75711727142334,-18.757116317749023,-13.19461727142334,
+D2-076,real_cyst,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left",False,left,-0.010971694253385067,-8.635972023010254,-13.635972023010254,-11.510972023010254,
+D2-076,real_cyst,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the corresponding structure on the left side.
+
+Final Answer: right",False,right,-7.380427837371826,-0.005427743308246136,-12.192927360534668,-10.755427360534668,
+D2-076,real_cyst,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa (pelvic region). It is a well-defined, roundish lesion with a bright signal intensity on T2-weighted images, consistent with a cyst. The lesion is significantly larger than the right-sided cyst, which is less prominent.
+
+Final Answer: Left",False,left,-0.6389789684332076,-1.895357410908219,-15.472021102905273,-13.095921767784866,
+D2-076,real_cyst,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a well-defined, round structure with a bright signal intensity on T2-weighted images, consistent with a cyst. It is situated in the adnexal region, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,1.1249999701976776
+D2-076,real_cyst,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a well-defined, round structure with a high signal intensity on T2-weighted images, consistent with a cyst. It is situated in the left adnexa, likely within the ovary.
+
+Final Answer: yes",False,yes,,,,,3.2500000670552254
+D2-076,real_cyst,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically seen in the lower pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the ovarian regions. There is a prominent, large, well-defined cystic structure on the left side.
+3.  **Compare sizes:** The lesion on the left is significantly larger than the lesion on the right.
+4.  **Confirm laterality:** The lesion is clearly situated within the left adnexa (the region containing the left ovary).
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.006361354608088732,-10.63136100769043,-17.69386100769043,-13.19386100769043,
+D2-077,real_endometrioma,left,ref,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing a cyst or mass. The right adnexa appears relatively normal in comparison.
+
+Final Answer: left",False,left,-0.009662997908890247,-8.009662628173828,-13.697162628173828,-10.759662628173828,
+D2-077,real_endometrioma,left,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-7.879706382751465,-0.004706614185124636,-13.317206382751465,-10.629706382751465,
+D2-077,real_endometrioma,left,open,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is seen in the right adnexa, appearing as a large, multiloculated lesion with multiple internal septations. This is consistent with a large ovarian cyst, likely a cystadenoma or potentially a cystadenocarcinoma given the multiloculated appearance. The lesion is significantly larger than the cystic structure seen on the left side.
+
+Final Answer: Right",False,right,-1.1568724314566627,-1.1625127904226096,-15.80002212524414,-12.611581739339222,
+D2-077,real_endometrioma,left,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexa, likely representing an ovarian cyst.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a large, well-defined cystic structure in the right adnexal region.
+2.  **T2-weighted Fat Suppression:** This modality is commonly used to visualize pelvic structures, including ovaries and cysts, by suppressing the signal from fat and highlighting fluid-filled structures.
+3.  **Location:** The lesion is situated in the right adnexa, consistent with the location of the ovary.
+4.  **Size:** The lesion appears to be the largest structure in the right adnexa among the visualized slices.
+
+Conclusion:
+The largest cystic lesion is located on the patient's right side.
+
+Final Answer: yes",False,yes,,,,,-0.25
+D2-077,real_endometrioma,left,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cyst with a thick septation, measuring approximately 7.5 cm in diameter.
+
+Final Answer: yes",False,yes,,,,,1.6249999403953552
+D2-077,real_endometrioma,left,single_slice,1,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, visible as the larger, rounded structures in the pelvic region.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures on both the left and right sides. The lesion on the left side is significantly larger and more prominent than the lesion on the right side.
+3.  **Confirm the side:** Based on anatomical positioning, the left ovary is located to the left of the midline, and the right ovary is to the right. The larger lesion corresponds to the left ovary.
+
+Final Answer: left",False,left,-0.003924882970750332,-10.628925323486328,-18.191425323486328,-13.878925323486328,
+D2-078,real_endometrioma,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending superiorly and laterally. While there are smaller cystic structures present on the right, the dominant lesion is clearly on the left.
+
+Final Answer: left",False,left,-0.008336271159350872,-8.008336067199707,-13.320836067199707,-11.383336067199707,
+D2-078,real_endometrioma,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is seen in the right adnexa, extending towards the pelvis. While there are smaller cystic structures on the left, the dominant lesion is on the right.
+
+Final Answer: right",False,right,-7.879272937774658,-0.004272737540304661,-12.6292724609375,-11.0042724609375,
+D2-078,real_endometrioma,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is seen in the right adnexa, extending superiorly and laterally. The lesion appears to be a multiloculated cyst, with a large component measuring approximately 8.5 cm in diameter. The left adnexa appears relatively normal in comparison.
+
+Final Answer: Right",False,right,-1.401324853820539,-0.7798494815894665,-15.167359352111816,-12.853760015943577,
+D2-078,real_endometrioma,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.125
+D2-078,real_endometrioma,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's left side. The lesion is located in the left adnexa, likely representing a large ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,2.5000000596046448
+D2-078,real_endometrioma,left,single_slice,1,"Final Answer: left
+",False,left,-0.00632996391505003,-10.381329536437988,-17.818830490112305,-13.256329536437988,
+D2-079,real_endometrioma,left,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left",False,left,-0.009934859350323677,-8.009934425354004,-12.634934425354004,-10.759934425354004,
+D2-079,real_endometrioma,left,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the lower abdomen. While there are smaller cystic structures visible on the left side, the lesion on the right is significantly larger and more prominent.
+
+Final Answer: right",False,right,-7.505693435668945,-0.00569364707916975,-12.255693435668945,-10.255693435668945,
+D2-079,real_endometrioma,left,open,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, extending superiorly and laterally. While there are smaller cystic structures present on the right, the lesion on the left is significantly larger and more prominent.
+Final Answer: Left",False,left,-0.7938686765594936,-1.546622335510818,-15.306378364562988,-12.868073954410027,
+D2-079,real_endometrioma,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa and is significantly larger than the lesion on the left side.
+
+Final Answer: yes",False,yes,,,,,-0.125
+D2-079,real_endometrioma,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's left side. The lesion is located in the left adnexa and is significantly larger than the right-sided lesion.
+
+Final Answer: yes",False,yes,,,,,1.5000000596046448
+D2-079,real_endometrioma,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically seen in the lower pelvis.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures within the ovaries. The lesion on the left ovary is significantly larger than the lesion on the right ovary.
+3.  **Confirm the side:** The left ovary is situated more laterally in the pelvis compared to the right ovary. The larger lesion is clearly visible within the left ovary.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.002593608107417822,-10.127593994140625,-17.190093994140625,-13.002593994140625,
+D2-080,real_cyst,right,ref,35,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.010406517423689365,-7.010406494140625,-12.447906494140625,-10.385406494140625,
+D2-080,real_cyst,right,order_rl,35,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.505984306335449,-0.00598412798717618,-12.13098430633545,-9.88098430633545,
+D2-080,real_cyst,right,open,35,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion in the right adnexa, consistent with a cyst. While there are smaller lesions present on the left, the right-sided lesion is significantly larger in size.
+Final Answer: Right",False,right,-1.4216040761399684,-0.8010116215520777,-15.06076717376709,-12.434937241070346,
+D2-080,real_cyst,right,yn_right,35,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexa, likely representing an ovarian cyst.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a region corresponding to the pelvis. The right adnexa (ovary and fallopian tube) is visible.
+2.  **Cyst Identification:** There is a distinct, well-defined, fluid-filled structure in the right adnexa. This structure is hypointense on T2-weighted images, consistent with a cyst.
+3.  **Size Comparison:** Comparing the size of the lesion to other structures in the pelvis, it appears to be the largest cystic lesion identified in the provided series.
+4.  **Location:** The lesion is located in the right adnexa, which is the typical location for ovarian cysts.
+
+Conclusion:
+The largest cystic lesion is located in the right adnexa.
+
+Final Answer: yes",False,yes,,,,,-1.4999999403953552
+D2-080,real_cyst,right,yn_left,35,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including slices 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, and 34. It appears as a well-defined, rounded structure with a dark signal intensity on T2-weighted images, consistent with a cyst.
+
+Final Answer: yes",False,yes,,,,,0.7500000596046448
+D2-080,real_cyst,right,single_slice,1,"Final Answer: left
+",False,left,-0.00911905150860548,-10.884119033813477,-17.696619033813477,-13.446619033813477,
+D2-001,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011360010132193565,-8.136360168457031,-13.073860168457031,-10.886360168457031,
+D2-001,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.507288455963135,-0.007288532797247171,-12.069788932800293,-10.382288932800293,
+D2-001,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, appearing as a large, multiloculated lesion with internal septations. This is consistent with a complex ovarian cyst. The right ovary appears relatively normal in comparison.
+
+Final Answer: Left",False,left,-0.5498266004214925,-2.0542342051191635,-15.001489639282227,-12.813078172828453,
+D2-001,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a region corresponding to the pelvis. The right adnexal region is visible.
+2.  **Cyst Identification:** There is a well-defined, rounded structure in the right adnexal region.
+3.  **Cyst Characteristics:** The structure is dark (hypointense) on T2-weighted images, which is typical for fluid-filled cysts.
+4.  **Size Comparison:** Comparing the size of the lesion to other structures in the pelvis, it appears to be the largest cystic structure identified in the right adnexal region.
+5.  **Location:** The location is consistent with the ovary.
+
+Conclusion:
+The largest cystic lesion is located in the right adnexal region.
+
+Final Answer: yes",False,yes,,,,,-0.8750000298023224
+D2-001,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 x 4.5 x 5.0 cm in the axial plane.
+
+Final Answer: yes",False,yes,,,,,1.1250000298023224
+D2-001,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the pelvis, typically on either side of the uterus. In this image, the ovaries are visible as the ovoid structures located laterally to the uterus.
+2.  **Locate the largest lesion:** There is a prominent, large, well-defined cystic structure visible on the left side of the pelvis, corresponding to the left ovary.
+3.  **Compare sizes:** This lesion appears significantly larger than the other ovarian structures visible on the right side.
+4.  **Confirm laterality:** The lesion is clearly situated on the left side of the pelvis.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.009113145060837269,-10.634113311767578,-17.571613311767578,-13.009113311767578,
+D2-001,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011822749860584736,-7.636822700500488,-12.761822700500488,-10.761822700500488,
+D2-001,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-7.881099700927734,-0.006099775433540344,-12.443599700927734,-10.506099700927734,
+D2-001,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is seen in the right adnexa, appearing as a large, multiloculated lesion with internal septations. This is consistent with a complex ovarian cyst. The left ovary appears relatively normal in comparison.
+
+Final Answer: Right",False,right,-0.9404948487864621,-1.194389876436799,-15.078004837036133,-12.577003831796606,
+D2-001,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.8750000298023224
+D2-001,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a thick wall, situated in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.2499999701976776
+D2-001,synthetic,right,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the image and identify the most prominent cystic structure.
+3.  **Determine the side:** The lesion is clearly situated in the left adnexa (the region containing the left ovary).
+4.  **Confirm:** The lesion appears significantly larger than the right ovary.
+
+**Final Answer: left**",False,left,-0.011558588594198227,-10.136558532714844,-17.949058532714844,-13.324058532714844,
+D2-004,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011107279919087887,-8.011107444763184,-12.823607444763184,-10.761107444763184,
+D2-004,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.380893230438232,-0.005893354304134846,-12.31839370727539,-10.50589370727539,
+D2-004,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending from the pelvis into the left inguinal canal. This is consistent with a left ovarian cyst or mass. The other ovary on the right appears relatively normal in size and morphology in these slices.
+
+Final Answer: Left",False,left,-0.42136111128410964,-2.5513475920146718,-15.562395095825195,-12.999065162337294,
+D2-004,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side.
+
+Reasoning:
+1.  **Identify the pelvic region:** The images show the female pelvis, including the uterus, ovaries, and surrounding structures.
+2.  **Locate the ovaries:** The ovaries are located on either side of the uterus.
+3.  **Identify cystic lesions:** Several cystic structures are visible within the ovaries.
+4.  **Determine the largest lesion:** Comparing the sizes of the cystic lesions on both the left and right ovaries, the lesion on the right side appears to be the largest.
+
+Final Answer: yes",False,yes,,,,,-0.5
+D2-004,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 x 5.0 x 5.0 cm.
+
+Final Answer: yes",False,yes,,,,,1.375
+D2-004,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures within the ovaries. There is a significantly larger, well-defined, round, hypointense (dark) lesion in the left ovary compared to the right ovary.
+3.  **Determine the side:** The lesion identified in the left ovary is the largest among the ovarian cystic lesions visible in the provided slices.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.0055476040579378605,-11.880547523498535,-18.75554847717285,-13.880547523498535,
+D2-004,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011062126606702805,-7.511062145233154,-12.636061668395996,-10.761061668395996,
+D2-004,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.506049156188965,-0.006049181334674358,-12.256049156188965,-10.381049156188965,
+D2-004,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest lesion is a multiloculated cystic structure seen in the left adnexa, extending from the level of the pelvic brim down towards the left ovary. The lesion appears to be predominantly cystic with some internal septations. The right ovary appears relatively normal in comparison.
+
+Final Answer: Left",False,left,-0.6552092779614067,-1.7846168836974263,-15.66937255859375,-13.043592888637084,
+D2-004,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a region corresponding to the pelvis. The right adnexa (ovary and fallopian tube) is visible.
+2.  **Cyst Identification:** There is a distinct, well-defined, fluid-filled structure in the right adnexa. This structure is hypointense on T2-weighted images, consistent with a cyst.
+3.  **Size Comparison:** Comparing the size of the lesion to other structures in the pelvis, it appears to be the largest cystic structure identified in the right adnexa.
+4.  **Location:** The lesion is located in the right adnexa, which is the typical location for ovarian cysts.
+
+Conclusion:
+The largest cystic lesion is located in the right adnexa.
+
+Final Answer: yes",False,yes,,,,,-0.75
+D2-004,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's left side. The lesion is located in the left adnexa, likely representing a cyst.
+
+Final Answer: yes",False,yes,,,,,1.1250000298023224
+D2-004,synthetic,right,single_slice,1,"Final Answer: left
+",False,left,-0.006284830626100302,-11.006284713745117,-18.256284713745117,-14.068784713745117,
+D2-005,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.010677115991711617,-7.760677337646484,-13.198177337646484,-11.135677337646484,
+D2-005,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-7.25621223449707,-0.006212329026311636,-12.31871223449707,-10.75621223449707,
+D2-005,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending superiorly and laterally. The lesion appears well-defined and has a characteristic T2 hyperintense signal intensity, consistent with a cyst. The lesion is significantly larger than the right-sided cyst.
+
+Final Answer: Left",False,left,-0.5749832910335273,-1.7062615759793764,-15.091017723083496,-13.090213312930535,
+D2-005,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexa, likely representing an ovarian cyst.
+
+Reasoning:
+1.  **Image Review:** The images show a contiguous block of axial slices covering the female pelvis.
+2.  **Lesion Identification:** A large, well-defined cystic structure is visible in the right adnexal region.
+3.  **Comparison:** Comparing the size and location of the cystic lesion on the right side with the left side, the right side appears to contain the larger lesion.
+4.  **Conclusion:** The largest cystic lesion is located on the patient's right side.
+
+Final Answer: yes",False,yes,,,,,0.625
+D2-005,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a large, well-defined, multiloculated cystic structure measuring approximately 5.5 x 5.0 x 5.0 cm. This lesion is situated in the left adnexa, consistent with the location of the ovary.
+
+Final Answer: yes",False,yes,,,,,2.5000000298023224
+D2-005,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically seen in the lower pelvis.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures within the ovaries. The lesion on the left ovary is significantly larger than the lesion on the right ovary.
+3.  **Confirm the side:** The left ovary is located on the left side of the patient's pelvis as viewed in the image.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.004434632603079081,-11.004434585571289,-18.06693458557129,-13.691934585571289,
+D2-005,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.014740956015884876,-7.764740943908691,-13.389740943908691,-11.139740943908691,
+D2-005,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-7.38156795501709,-0.0065681529231369495,-12.50656795501709,-10.75656795501709,
+D2-005,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending inferiorly and laterally. The lesion is well-defined and has a T2 hyperintense signal, consistent with a cyst. The right ovary appears to contain smaller cystic structures, but the largest lesion is clearly on the left.
+
+Final Answer: Left",False,left,-0.7942782995478028,-1.5486858459982606,-15.245942115783691,-13.05763770563073,
+D2-005,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa and measures approximately 5.5 cm in diameter.
+
+Final Answer: yes",False,yes,,,,,0.4999999403953552
+D2-005,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 6.5 x 5.5 x 6.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,2.4999999701976776
+D2-005,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the adnexal region, lateral to the uterus and bladder. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the largest lesion:** Observe the structures within the adnexal regions. There is a distinct, large, well-defined cystic structure on the left side.
+3.  **Compare sizes:** Visually compare the size of the cystic lesion on the left with the cystic lesion on the right. The lesion on the left is significantly larger than the lesion on the right.
+4.  **Conclusion:** Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.005648129619657993,-10.880647659301758,-17.943147659301758,-13.443147659301758,
+D2-010,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left",False,left,-0.008657068014144897,-7.883656978607178,-12.758657455444336,-10.758657455444336,
+D2-010,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, multiloculated cystic structure in the right adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.379764080047607,-0.004764276091009378,-12.317264556884766,-10.379764556884766,
+D2-010,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. This structure is significantly larger than the corresponding structure on the right side. The appearance is consistent with a large ovarian cyst or possibly a cystadenoma.
+
+Final Answer: Left",False,left,-0.5479830892014919,-1.8023906346136012,-15.312146186828613,-12.686205801820094,
+D2-010,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a region corresponding to the pelvic cavity.
+2.  **Lesion Identification:** There is a distinct, well-defined cystic structure visible in the right adnexal region.
+3.  **Size Comparison:** Comparing the size of the cystic lesion with other structures in the pelvis, it appears to be the largest cystic lesion present.
+4.  **Location:** The location in the right adnexal region is typical for the ovary.
+
+Conclusion:
+The largest cystic lesion is located on the patient's right side.
+
+Final Answer: yes",False,yes,,,,,-0.25
+D2-010,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.6250000447034836
+D2-010,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, visible in the pelvic region.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures within the ovaries. The lesion on the left ovary is significantly larger than the lesion on the right ovary.
+3.  **Confirm the side:** The left ovary is situated more laterally in the pelvis compared to the right ovary, which is positioned more medially. The larger lesion is clearly associated with the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.004604807589203119,-10.12960433959961,-17.00460433959961,-12.62960433959961,
+D2-010,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. The lesion is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left",False,left,-0.010868990793824196,-7.510869026184082,-12.885869026184082,-10.635869026184082,
+D2-010,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.755389213562012,-0.0053890906274318695,-12.817889213562012,-10.380389213562012,
+D2-010,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. The lesion is significantly larger than the corresponding structure on the left side.
+
+Final Answer: Right",False,right,-1.1752545975094713,-0.929149684023469,-15.375264167785645,-12.561907899840563,
+D2-010,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a region corresponding to the pelvic cavity.
+2.  **Lesion Identification:** There is a distinct, well-defined cystic structure visible in the right adnexal region.
+3.  **Size Comparison:** Comparing the size of the cystic lesion to other structures in the pelvis, it appears to be the largest cystic lesion present.
+4.  **Location:** The location in the right adnexal region is typical for the ovary.
+
+Conclusion:
+The largest cystic lesion is located on the patient's right side.
+
+Final Answer: yes",False,yes,,,,,-0.125
+D2-010,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.6250000149011612
+D2-010,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically in the lower part of the pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvic cavity. There is a large, well-defined, round structure with a bright signal intensity (characteristic of fluid) on the left side. This structure corresponds to the left ovary.
+3.  **Compare lesion sizes:** The lesion on the left side appears significantly larger than the structures on the right side, which appear to be the right ovary and potentially some adjacent structures.
+4.  **Confirm location:** The lesion is clearly situated within the left adnexal region, consistent with the location of the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.010276264511048794,-10.635275840759277,-18.197776794433594,-13.260275840759277,
+D2-012,synthetic,left,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structures on the right side.
+
+Final Answer: left",False,left,-0.007067087572067976,-7.5070672035217285,-12.13206672668457,-10.63206672668457,
+D2-012,synthetic,left,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.629197120666504,-0.004196884576231241,-12.004197120666504,-10.254197120666504,
+D2-012,synthetic,left,open,36,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. The lesion is significantly larger than the lesion on the right side, which is visible in slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36.
+
+Final Answer: Left",False,left,-1.0387583197931083,-1.1677447912470216,-14.30690860748291,-12.368274394421471,
+D2-012,synthetic,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a large, multiloculated cystic structure with internal septations, located in the right adnexa.
+
+Final Answer: yes",False,yes,,,,,-0.125
+D2-012,synthetic,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.6249999403953552
+D2-012,synthetic,left,single_slice,1,"Final Answer: left
+",False,left,-0.005668399389833212,-10.880668640136719,-17.75566864013672,-13.568168640136719,
+D2-012,synthetic,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structures on the right side.
+
+Final Answer: left",False,left,-0.008780797012150288,-6.8837809562683105,-12.321280479431152,-10.883780479431152,
+D2-012,synthetic,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-8.25472640991211,-0.004725954029709101,-12.56722640991211,-10.50472640991211,
+D2-012,synthetic,right,open,36,"The largest ovarian cystic lesion is on the right side.
+
+Reasoning:
+The largest cystic lesion is located in the right adnexa, specifically within the right ovary. This is evident in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. The lesion appears as a large, multiloculated cystic structure in the right adnexa.
+
+Final Answer: Right",False,right,-3.0771168364489783,-0.3306416399804449,-14.655651092529297,-12.341783131651662,
+D2-012,synthetic,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.6249999403953552
+D2-012,synthetic,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.5000000298023224
+D2-012,synthetic,right,single_slice,1,"Final Answer: left
+",False,left,-0.009045337326824665,-11.134045600891113,-18.446544647216797,-13.759045600891113,
+D2-014,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left",False,left,-0.010835855267941952,-8.135835647583008,-12.823335647583008,-11.010835647583008,
+D2-014,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.2562055587768555,-0.006205457728356123,-11.943705558776855,-10.506205558776855,
+D2-014,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, extending superiorly and laterally. The lesion appears to be a multiloculated cyst with internal septations. The right adnexa appears relatively unremarkable in comparison.
+
+Final Answer: Left",False,left,-0.5768427137395613,-2.081829166314736,-15.405377388000488,-12.841965920677868,
+D2-014,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Final Answer: yes",False,yes,,,,,0.625
+D2-014,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 5.5 x 4.5 x 5.0 cm in its greatest dimensions.
+
+Final Answer: yes",False,yes,,,,,2.624999985098839
+D2-014,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the largest lesion:** Observe the structures within the adnexal regions. There is a distinct, large, well-defined cystic structure visible on the left adnexal region.
+3.  **Compare sizes:** Visually compare the size of the cystic lesion on the left side with the cystic lesion on the right side. The lesion on the left appears significantly larger than the lesion on the right.
+4.  **Conclusion:** Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.011663460172712803,-10.386663436889648,-16.82416343688965,-12.386663436889648,
+D2-014,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. While there are smaller cystic structures visible on the right side, the left lesion is significantly larger and more prominent.
+
+Final Answer: left",False,left,-0.012085191905498505,-7.5120849609375,-12.4495849609375,-11.0120849609375,
+D2-014,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, appearing bright on the T2-weighted image. The left adnexa appears relatively normal in comparison.
+
+Final Answer: right",False,right,-7.8804850578308105,-0.0054848892614245415,-12.192984580993652,-10.630484580993652,
+D2-014,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is visible in the right adnexa, appearing as a large, multiloculated lesion with multiple internal septations and cysts. This lesion is significantly larger than the cystic structure visible on the left side.
+Final Answer: Right",False,right,-1.48162011950677,-0.8622604764862514,-14.874770164489746,-12.623769158296064,
+D2-014,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa and is significantly larger than the lesion on the left side.
+
+Final Answer: yes",False,yes,,,,,1.0
+D2-014,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's left side. The lesion is located in the left adnexa, likely representing a cyst.
+
+Final Answer: yes",False,yes,,,,,2.375000014901161
+D2-014,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvis. There is a distinct, large, round, bright (hyperintense) lesion within the left adnexa (the region containing the left ovary).
+3.  **Compare with the right side:** The right adnexa appears relatively normal in this view, without a similarly large cystic lesion.
+4.  **Conclusion:** The largest cystic lesion is clearly situated on the left side of the pelvis.
+
+Final Answer: left",False,left,-0.016524244099855423,-10.391524314880371,-17.891523361206055,-13.454024314880371,
+D2-015,synthetic,left,ref,38,"The largest cystic lesion appears to be on the left side.
+
+Final Answer: left",False,left,-0.012558073736727238,-7.6375579833984375,-12.575057983398438,-10.762557983398438,
+D2-015,synthetic,left,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is visible in the right adnexal region, appearing as a large, multiloculated lesion with internal septations. This lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-8.005924224853516,-0.005923929158598185,-12.505924224853516,-10.380924224853516,
+D2-015,synthetic,left,open,38,"The largest ovarian cystic lesion is located on the **right** side.
+
+Reasoning:
+The largest cystic lesion is seen in the right adnexa, specifically within the right ovary. This is evident in multiple slices, including slices 1, 3, 19, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion appears as a complex cystic structure with internal echoes or septations. The left ovary appears relatively normal in comparison.
+
+Final Answer: Right",False,right,-1.8527875899292383,-0.6062292403734981,-15.238835334777832,-12.550235998609592,
+D2-015,synthetic,left,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.7499999701976776
+D2-015,synthetic,left,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.6249999701976776
+D2-015,synthetic,left,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvis. There is a distinct, large, rounded structure on the left side, which appears to be a cystic lesion (fluid-filled).
+3.  **Compare lesion sizes:** The lesion on the left is significantly larger than the lesion on the right.
+4.  **Confirm location:** The lesion is clearly situated within the left adnexa, consistent with the location of the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.011491182260215282,-10.886490821838379,-18.073991775512695,-13.261490821838379,
+D2-015,synthetic,right,ref,38,"The largest cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is seen in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 1, 3, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion appears as a large, multiloculated cystic structure.
+
+Final Answer: left",False,left,-0.012835269793868065,-7.137835502624512,-12.762835502624512,-10.762835502624512,
+D2-015,synthetic,right,order_rl,38,"The largest cystic lesion appears to be on the right side.
+
+Final Answer: right",False,right,-8.381221771240234,-0.006221569608896971,-12.818721771240234,-10.506221771240234,
+D2-015,synthetic,right,open,38,"The largest ovarian cystic lesion is located on the **right** side.
+
+Reasoning:
+The largest cystic lesion is seen in the right adnexa, specifically within the right ovary. This is evident in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion appears to be approximately 5.5 cm in diameter.
+
+Final Answer: Right",False,right,-3.2292291506452866,-0.358056364390915,-15.988985061645508,-12.612984056405981,
+D2-015,synthetic,right,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.875
+D2-015,synthetic,right,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.5
+D2-015,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are located in the pelvis, typically on either side of the uterus. In this image, the ovaries are visible as the rounded structures located superior and lateral to the uterus.
+2.  **Locate the Lesion:** There is a distinct, large, rounded structure within the left adnexa (the area containing the ovary and fallopian tube). This structure is significantly larger than the right ovary.
+3.  **Assess Size and Location:** The lesion is clearly situated within the left ovary and is the most prominent cystic structure visible in the image.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.018759334459900856,-9.893759727478027,-17.70625877380371,-13.331259727478027,
+D2-016,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011435911059379578,-8.136435508728027,-13.073935508728027,-11.011435508728027,
+D2-016,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-7.130496978759766,-0.0054967449977993965,-12.005496978759766,-10.505496978759766,
+D2-016,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, corresponding to the left ovary. It appears as a well-defined, rounded lesion with a dark signal intensity on T2-weighted images, consistent with a cyst. The lesion is significantly larger than the right ovarian cyst.
+
+Final Answer: Left",False,left,-0.5151234677421952,-2.020763885240725,-15.033273696899414,-12.969639484919032,
+D2-016,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.125
+D2-016,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a well-defined, round structure with a high signal intensity on T2-weighted images, consistent with a cyst. It is situated in the left adnexa, likely within the ovary.
+
+Final Answer: yes",False,yes,,,,,2.375
+D2-016,synthetic,left,single_slice,1,"Final Answer: left
+",False,left,-0.003909921273589134,-11.378910064697266,-18.503910064697266,-13.691410064697266,
+D2-016,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right, the left lesion is significantly larger.
+
+Final Answer: left",False,left,-0.010808849707245827,-7.635808944702148,-12.885808944702148,-11.010808944702148,
+D2-016,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the corresponding structure on the left side.
+
+Final Answer: right",False,right,-7.755213260650635,-0.0052134753204882145,-12.255213737487793,-10.505213737487793,
+D2-016,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest lesion is seen in the right adnexa, appearing as a large, multiloculated cystic structure. This is consistent with a large ovarian cyst or complex ovarian mass.
+
+Final Answer: Right",False,right,-0.8531579219662234,-1.35879827960786,-14.996307373046875,-12.870173161066493,
+D2-016,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.375
+D2-016,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a thick wall, situated in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,1.6249999552965164
+D2-016,synthetic,right,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the image to identify the most prominent cystic structure. There is a large, well-defined, round structure with a bright signal intensity (consistent with fluid) located in the left adnexa (the region containing the left ovary).
+3.  **Determine the side:** The lesion is clearly situated in the left pelvic region, corresponding to the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.005634853150695562,-10.630635261535645,-18.193134307861328,-13.380635261535645,
+D2-017,synthetic,left,ref,40,"The largest cystic lesion appears to be on the left side.
+
+Final Answer: left",False,left,-0.012589976191520691,-6.762589931488037,-12.262590408325195,-10.387590408325195,
+D2-017,synthetic,left,order_rl,40,"The largest cystic lesion appears to be on the right side.
+
+Final Answer: right",False,right,-7.381495952606201,-0.006496027112007141,-12.19399642944336,-10.13149642944336,
+D2-017,synthetic,left,open,40,"The largest ovarian cystic lesion is on the **right** side.
+
+Reasoning:
+The largest cystic lesion is located in the right adnexa, specifically within the right ovary. This is evident in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, and 40. The lesion appears as a large, well-defined, multiloculated cystic structure.
+
+Final Answer: Right",False,right,-1.775128375749758,-0.5290234631826606,-14.975137710571289,-12.286538375450881,
+D2-017,synthetic,left,yn_right,40,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 6.5 cm in diameter.
+
+Final Answer: yes",False,yes,,,,,0.4999999403953552
+D2-017,synthetic,left,yn_left,40,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 6.5 cm in diameter.
+
+Final Answer: yes",False,yes,,,,,1.625
+D2-017,synthetic,left,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the image to identify the largest cystic structure. There is a large, well-defined, round structure with a bright signal intensity (consistent with fluid) located in the left adnexa (the region containing the left ovary).
+3.  **Compare sizes:** The lesion on the left is significantly larger than the lesion on the right.
+4.  **Conclusion:** Based on the visual assessment, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.007133017294108868,-10.382133483886719,-17.75713348388672,-13.444633483886719,
+D2-017,synthetic,right,ref,40,"The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, and 40.
+
+Final Answer: left",False,left,-0.015951404348015785,-6.265951633453369,-12.328451156616211,-10.390951156616211,
+D2-017,synthetic,right,order_rl,40,"The largest cystic lesion appears to be on the right side.
+
+Final Answer: right",False,right,-7.630896091461182,-0.005896316841244698,-12.44339656829834,-10.13089656829834,
+D2-017,synthetic,right,open,40,"The largest ovarian cystic lesion is on the right side.
+
+Reasoning:
+The largest cystic lesion is located in the right adnexa, specifically within the right ovary. This is evident in slices 15, 16, 17, 18, 19, and 20. The lesion appears as a large, multiloculated cystic structure. The left ovary appears relatively normal in comparison.
+
+Final Answer: Right",False,right,-3.2829481123901756,-0.2863897924109386,-15.54399585723877,-12.355396523166194,
+D2-017,synthetic,right,yn_right,40,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 cm in diameter.
+
+Final Answer: yes",False,yes,,,,,0.5000000596046448
+D2-017,synthetic,right,yn_left,40,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 6.5 cm in maximum diameter.
+
+Final Answer: yes",False,yes,,,,,1.7499999552965164
+D2-017,synthetic,right,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, within the pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvis. There is a large, well-defined cystic structure on the left side, superior to the uterus and anterior to the left adnexa.
+3.  **Compare sizes:** This lesion is significantly larger than the smaller cystic structures visible on the right side.
+4.  **Confirm location:** The lesion is clearly situated within the left adnexa, consistent with the location of the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.013107212260365486,-10.013107299804688,-17.950607299804688,-13.513107299804688,
+D2-018,synthetic,left,ref,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a well-defined, round, and hypointense (dark) lesion in the left adnexa, consistent with a cyst. The lesion is significantly larger than the lesion seen on the right side.
+
+Final Answer: left",False,left,-0.005525079555809498,-7.7555251121521,-12.255524635314941,-10.630524635314941,
+D2-018,synthetic,left,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a well-defined, round, hypointense (dark) lesion in the right adnexa, consistent with a cyst. The lesion is larger than the corresponding lesion on the left side.
+
+Final Answer: right",False,right,-7.629006862640381,-0.0040070489048957825,-12.129007339477539,-10.504007339477539,
+D2-018,synthetic,left,open,38,"The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is seen in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion appears as a well-defined, rounded structure with a hypoechoic center and a hyperechoic rim, consistent with a cyst. It is significantly larger than the lesion on the right side.
+Final Answer: Left",False,left,-0.7833297165724017,-1.4118544019623256,-14.67436408996582,-12.610831325811711,
+D2-018,synthetic,left,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.0
+D2-018,synthetic,left,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a well-defined, round structure with a high signal intensity on T2-weighted images, consistent with a cyst. It is situated in the left adnexa, likely within the ovary.
+
+Final Answer: yes",False,yes,,,,,1.75
+D2-018,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Cyst:** Visually inspect the ovaries in both the left and right images. The lesion on the left side appears significantly larger and more prominent than the lesion on the right side. It has a distinct cystic appearance with a bright signal intensity on T2-weighted images, consistent with fluid-filled content.
+3.  **Confirm Laterality:** The lesion is clearly situated in the left adnexal region.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.003931532148271799,-11.128931999206543,-18.503931045532227,-13.441431999206543,
+D2-018,synthetic,right,ref,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, appearing as a large, well-defined, T2 hyperintense lesion. This is consistent with a cyst, likely an ovarian cyst. The lesion is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left",False,left,-0.0057372660376131535,-7.7557373046875,-12.4432373046875,-10.6307373046875,
+D2-018,synthetic,right,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is visible in the right adnexa, appearing as a well-defined, round lesion with a bright signal intensity on T2-weighted images. This location corresponds to the right ovary.
+
+Final Answer: right",False,right,-7.753684997558594,-0.003684875788167119,-12.128684997558594,-10.503684997558594,
+D2-018,synthetic,right,open,38,"The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is seen in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 15, 17, 19, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion appears as a well-defined, round, hypointense structure on T2-weighted images, consistent with a cyst. It is significantly larger than the lesion on the right side.
+
+Final Answer: Left",False,left,-0.8223576917501356,-1.325473403833047,-14.64902114868164,-12.710488384527531,
+D2-018,synthetic,right,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a well-defined, round structure with a bright signal intensity on T2-weighted images, consistent with a cyst. It is situated in the right adnexa, likely within the ovary.
+
+Final Answer: yes",False,yes,,,,,0.0
+D2-018,synthetic,right,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a well-defined, round structure with a bright signal intensity on T2-weighted images, consistent with a cyst. It is situated in the left adnexa, likely within the ovary.
+
+Final Answer: yes",False,yes,,,,,1.8750000894069672
+D2-018,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus, typically in the lower abdomen. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Cyst:** Observe the size and position of the cystic structures within the ovaries. There is a large, well-defined, bright (hyperintense) lesion within the left ovary. This lesion appears significantly larger than the cystic structures within the right ovary.
+3.  **Determine the Side:** The large cystic lesion is clearly situated within the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.005553768947720528,-11.38055419921875,-18.88055419921875,-13.44305419921875,
+D2-019,synthetic,left,ref,36,"The largest cystic lesion appears to be on the left side.
+
+Final Answer: left",False,left,-0.008879224769771099,-7.7588791847229,-12.508879661560059,-10.383879661560059,
+D2-019,synthetic,left,order_rl,36,"The largest cystic lesion appears to be on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure seen on the left side.
+
+Final Answer: right",False,right,-7.0064005851745605,-0.006400680169463158,-11.631401062011719,-10.006401062011719,
+D2-019,synthetic,left,open,36,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest lesion is located in the left adnexa, appearing as a large, multiloculated cystic structure. This is consistent with a large ovarian cyst or possibly a cystadenoma. The lesion is significantly larger than the lesion on the right side.
+Final Answer: Left",False,left,-0.489908013790782,-2.12045698826811,-14.691571235656738,-12.56568780053643,
+D2-019,synthetic,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a well-defined, rounded structure in the right adnexal region.
+2.  **T2-weighted Fat Suppression:** This sequence is typically used to visualize fluid-filled structures like cysts, making them appear bright (hyperintense) and distinguishing them from surrounding fat (which appears dark).
+3.  **Location:** The lesion is located in the adnexal region, which is the area containing the ovaries and fallopian tubes.
+4.  **Size:** Comparing the size of the lesion across the slices, it appears to be the largest cystic structure visible in the right adnexal region.
+
+Conclusion:
+The largest cystic lesion is located in the right adnexal region.
+
+Final Answer: yes",False,yes,,,,,-0.375
+D2-019,synthetic,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. The lesion is a well-defined, round structure with a dark signal intensity on T2-weighted images, consistent with a cyst. It appears to be the largest among the ovarian lesions visible in the provided series.
+
+Final Answer: yes",False,yes,,,,,1.7499999850988388
+D2-019,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are located in the pelvis, typically on either side of the uterus. In this image, the ovaries are visible as ovoid structures.
+2.  **Locate the Largest Lesion:** There is a prominent cystic structure in the left adnexa (the area containing the ovary and fallopian tube). This lesion appears larger than the other ovarian structures visible on the right side.
+3.  **Confirm Laterality:** The lesion is clearly situated in the left pelvic region, corresponding to the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.009099560789763927,-11.009099960327148,-17.82159996032715,-13.134099960327148,
+D2-019,synthetic,right,ref,36,"The largest ovarian cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. The right adnexa appears relatively normal in comparison.
+
+Final Answer: left",False,left,-0.009836062788963318,-7.384836196899414,-12.447336196899414,-10.384836196899414,
+D2-019,synthetic,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.754918575286865,-0.00491873687133193,-12.067419052124023,-10.129919052124023,
+D2-019,synthetic,right,open,36,"The largest ovarian cystic lesion appears to be on the **right** side.
+
+Reasoning:
+The largest lesion is located in the right adnexa, appearing as a large, multiloculated cystic structure. This is consistent with a large ovarian cyst or possibly a cystadenoma. The lesion is significantly larger than the lesion on the left side.
+Final Answer: Right",False,right,-1.0761509313436415,-1.080558477274925,-14.715314865112305,-12.464215529991897,
+D2-019,synthetic,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.375
+D2-019,synthetic,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36. The lesion is a well-defined, round structure with a dark signal intensity on T2-weighted images, consistent with a cyst. It appears to be the largest among the ovarian lesions visible in the provided series.
+
+Final Answer: yes",False,yes,,,,,1.3750000298023224
+D2-019,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the pelvis, typically on either side of the uterus. In this image, the ovaries are visible as the rounded structures located laterally to the uterus.
+2.  **Locate the largest lesion:** Observe the size and appearance of the lesions within the ovaries. There is a significantly larger, more prominent cystic structure on the left ovary compared to the right ovary.
+3.  **Confirm the side:** The left ovary is the one on the patient's left side (viewer's right). The right ovary is on the patient's right side (viewer's left).
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.02115483582019806,-10.396154403686523,-18.083654403686523,-13.208654403686523,
+D2-020,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.01120300404727459,-8.636202812194824,-13.386202812194824,-11.198702812194824,
+D2-020,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-7.006529331207275,-0.00652954401448369,-12.069029808044434,-10.381529808044434,
+D2-020,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the right-sided cyst, which appears smaller and less distinct. The location is consistent with the left ovary.
+
+Final Answer: Left",False,left,-0.593434559875554,-2.2224209713940586,-15.611584663391113,-13.11058365719743,
+D2-020,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the location of the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The images show a region corresponding to the pelvic area, including the uterus, ovaries, and surrounding structures.
+2.  **Lesion Identification:** There is a distinct, well-defined cystic structure visible in the right adnexal region.
+3.  **Size Comparison:** Comparing the size of the cystic lesion to other structures in the pelvis, it appears to be the largest cystic lesion present.
+4.  **Location:** The location is consistent with the right ovary.
+
+Conclusion:
+The largest cystic lesion is located on the patient's right side.
+
+Final Answer: yes",False,yes,,,,,-0.6249999701976776
+D2-020,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, situated in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,2.6250000670552254
+D2-020,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures within the adnexal regions. The lesion on the left side appears significantly larger and more prominent than the lesion on the right side.
+3.  **Confirm the side:** The lesion on the left side is clearly visible and occupies a substantial portion of the left adnexal region.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.005612330511212349,-10.75561237335205,-18.130611419677734,-13.31811237335205,
+D2-020,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cyst seen on the right side.
+
+Final Answer: left",False,left,-0.014116199687123299,-8.014116287231445,-13.389116287231445,-11.076616287231445,
+D2-020,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+
+Final Answer: right",False,right,-7.88144588470459,-0.006445689592510462,-12.94394588470459,-10.63144588470459,
+D2-020,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the cystic structure visible on the left side.
+Final Answer: Right",False,right,-1.6081213199459599,-0.9902235030151758,-15.62627124786377,-12.875301024457507,
+D2-020,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely within the ovary, and is significantly larger than the lesion on the left side.
+
+Final Answer: yes",False,yes,,,,,0.375
+D2-020,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,2.5000000447034836
+D2-020,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Lesion:** Observe the size and appearance of the cystic structures within the adnexal regions. The lesion on the left side is significantly larger and more prominent than the lesion on the right side. It appears as a large, somewhat lobulated cystic mass.
+3.  **Determine the Side:** The larger lesion is clearly situated in the left adnexal region.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.005542032420635223,-10.880541801452637,-18.568042755126953,-13.755541801452637,
+D2-021,synthetic,left,ref,36,"The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The slices show a large cystic structure in the left adnexa, consistent with an ovarian cyst. The right adnexa appears relatively normal in comparison.
+
+Final Answer: left",False,left,-0.008102642372250557,-7.8831024169921875,-12.383102416992188,-10.633102416992188,
+D2-021,synthetic,left,order_rl,36,"The largest ovarian cystic lesion is located on the **right** side.
+
+Reasoning:
+The slices show a large cystic structure in the right adnexa, consistent with an ovarian cyst. The left adnexa appears relatively normal in comparison.
+
+Final Answer: right",False,right,-7.379960536956787,-0.004960610531270504,-11.442461013793945,-10.129961013793945,
+D2-021,synthetic,left,open,36,"The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is seen in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, and 20. The lesion appears as a large, multiloculated cystic structure. The right ovary appears relatively normal in comparison.
+
+Final Answer: Left",False,left,-0.9209518216739339,-1.4253594263716047,-14.372614860534668,-12.496480649635341,
+D2-021,synthetic,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 5.5 x 5.0 x 5.0 cm.
+
+Final Answer: yes",False,yes,,,,,-0.25
+D2-021,synthetic,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 cm in diameter.
+
+Final Answer: yes",False,yes,,,,,1.6250000447034836
+D2-021,synthetic,left,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped organs located on either side of the uterus in the female pelvis.
+2.  **Locate the largest lesion:** Observe the image and identify the largest cystic structure. There is a prominent, large, well-defined cystic lesion in the left adnexa (the area containing the left ovary).
+3.  **Determine the side:** The lesion is clearly situated in the left pelvic region, corresponding to the left ovary.
+
+**Conclusion:** The largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.010125461034476757,-11.635125160217285,-18.8226261138916,-13.447625160217285,
+D2-021,synthetic,right,ref,36,"The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest cystic lesion is located in the left adnexa, specifically within the left ovary. This is evident in multiple slices, including slices 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, and 22. The lesion is significantly larger than the lesion on the right side, which is visible in slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36.
+
+Final Answer: left",False,left,-0.011074270121753216,-7.261074066162109,-12.26107406616211,-10.76107406616211,
+D2-021,synthetic,right,order_rl,36,"The largest cystic lesion appears to be on the right side.
+
+Final Answer: right",False,right,-7.630934238433838,-0.005934238899499178,-11.818434715270996,-10.255934715270996,
+D2-021,synthetic,right,open,36,"The largest ovarian cystic lesion is on the **right** side.
+
+Reasoning:
+The largest cystic lesion is located in the right adnexa, specifically within the right ovary. This is evident in multiple slices, including slices 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, and 35. The lesion appears as a large, well-defined, fluid-filled structure within the right ovary. The left ovary appears relatively normal in comparison.
+Final Answer: Right",False,right,-1.4729742200303493,-0.9785231925456797,-14.299637794494629,-12.423538458326389,
+D2-021,synthetic,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.6250000596046448
+D2-021,synthetic,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 6.5 cm in diameter.
+
+Final Answer: yes",False,yes,,,,,1.125
+D2-021,synthetic,right,single_slice,1,"Final Answer: left
+",False,left,-0.008919869549572468,-11.383919715881348,-19.071420669555664,-13.946419715881348,
+D2-022,synthetic,left,ref,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the lower abdomen. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left",False,left,-0.010280040092766285,-7.635280132293701,-11.697779655456543,-10.010279655456543,
+D2-022,synthetic,left,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the lower abdomen. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.256053924560547,-0.006054039113223553,-11.318553924560547,-9.756053924560547,
+D2-022,synthetic,left,open,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, extending towards the lower pole of the left ovary. The lesion appears as a well-defined, rounded structure with a dark signal intensity on T2-weighted images, consistent with a cyst. The lesion is significantly larger than the right ovarian cyst, which is less prominent and located more laterally.
+
+Final Answer: Left",False,left,-0.6668763035850761,-1.5468628154032449,-14.495410919189453,-12.431776707209071,
+D2-022,synthetic,left,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.125
+D2-022,synthetic,left,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a multiloculated cystic structure with a complex appearance, measuring approximately 5.5 x 4.5 x 5.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,1.3749999403953552
+D2-022,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Cyst:** Observe the size and appearance of the cystic structures within the ovaries. There is a significantly larger cystic lesion on the left ovary compared to the right ovary. The lesion on the left appears more prominent and occupies a larger volume within the ovarian parenchyma.
+3.  **Confirm Laterality:** The lesion is clearly situated within the left adnexal region.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.005601305980235338,-11.505600929260254,-18.13060188293457,-13.443100929260254,
+D2-022,synthetic,right,ref,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding lesion on the right side.
+
+Final Answer: left",False,left,-0.012672492302954197,-7.512672424316406,-11.762672424316406,-10.137672424316406,
+D2-022,synthetic,right,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest lesion is a multiloculated cystic structure located in the right adnexa, extending towards the lower abdomen. It is significantly larger than the lesion on the left side.
+
+Final Answer: right",False,right,-7.506993293762207,-0.006993458606302738,-11.631993293762207,-9.881993293762207,
+D2-022,synthetic,right,open,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, extending superiorly and laterally. While there are smaller cystic structures present on the right, the left lesion is significantly larger and more prominent in the provided images.
+Final Answer: Left",False,left,-1.2718344783017401,-0.9031128248595356,-14.60036849975586,-12.536734287775477,
+D2-022,synthetic,right,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa and is significantly larger than the lesion on the left side.
+
+Final Answer: yes",False,yes,,,,,0.25
+D2-022,synthetic,right,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a large, multiloculated cystic structure with a thick wall, measuring approximately 6.5 cm in diameter. This is consistent with a large ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,1.4999999701976776
+D2-022,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Cyst:** Observe the size and position of the cystic structures within the adnexal regions. There is a prominent, well-defined, bright (hyperintense) lesion in the left adnexal region. This lesion appears significantly larger than the cystic structures visible on the right side.
+3.  **Confirm Laterality:** The lesion is clearly situated in the left adnexa, consistent with the left ovary.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.007091353181749582,-11.007091522216797,-18.694591522216797,-13.757091522216797,
+D2-023,synthetic,left,ref,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.010180923156440258,-7.635180950164795,-12.447680473327637,-10.260180473327637,
+D2-023,synthetic,left,order_rl,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.379752159118652,-0.004752055741846561,-12.317252159118652,-10.004752159118652,
+D2-023,synthetic,left,open,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, appearing as a large, multiloculated lesion with internal septations. This is consistent with a complex ovarian cyst. The right ovary appears relatively normal in comparison.
+
+Final Answer: Left",False,left,-0.8940890921557653,-1.4003674372358625,-15.160123825073242,-12.40905829492551,
+D2-023,synthetic,left,yn_right,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,-0.5
+D2-023,synthetic,left,yn_left,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 6.5 cm in maximum diameter.
+
+Final Answer: yes",False,yes,,,,,1.1250000298023224
+D2-023,synthetic,left,single_slice,1,"Final Answer: left
+",False,left,-0.00718189962208271,-10.632182121276855,-17.56968116760254,-13.507182121276855,
+D2-023,synthetic,right,ref,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011573082767426968,-7.011573314666748,-12.44907283782959,-10.26157283782959,
+D2-023,synthetic,right,order_rl,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.880198955535889,-0.005199007224291563,-12.880199432373047,-10.130199432373047,
+D2-023,synthetic,right,open,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest cystic structure is visible in the right adnexa, appearing as a large, multiloculated lesion with internal septations. This is consistent with a complex ovarian cyst. The left ovary appears relatively normal in comparison.
+
+Final Answer: Right",False,right,-2.9890592436491805,-0.36960812948642807,-15.753222465515137,-12.252015148438145,
+D2-023,synthetic,right,yn_right,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa and is significantly larger than the lesion on the left side.
+
+Final Answer: yes",False,yes,,,,,-0.125
+D2-023,synthetic,right,yn_left,39,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 x 4.5 x 5.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,0.875
+D2-023,synthetic,right,single_slice,1,"The largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically in the lower pelvis.
+2.  **Locate the largest lesion:** Observe the image and identify the most prominent cystic structure.
+3.  **Determine the side:** The lesion is clearly situated in the left adnexa (the region containing the left ovary).
+4.  **Confirm:** The lesion appears significantly larger than the right ovary and is located on the left side.
+
+Final Answer: left",False,left,-0.010192370042204857,-10.510191917419434,-18.19769287109375,-13.760191917419434,
+D2-024,synthetic,left,ref,36,"The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is seen in the left adnexa, specifically in the left ovary. It appears as a large, multiloculated cystic structure.
+
+Final Answer: left",False,left,-0.008738846518099308,-7.758738994598389,-13.19623851776123,-11.25873851776123,
+D2-024,synthetic,left,order_rl,36,"The largest ovarian cystic lesion is located on the **right** side.
+
+Reasoning:
+The largest cystic lesion is seen in the right adnexa, specifically in the right ovary. It appears as a large, multiloculated cystic structure.
+
+Final Answer: right",False,right,-8.004429817199707,-0.004430122673511505,-12.941929817199707,-10.629429817199707,
+D2-024,synthetic,left,open,36,"The largest ovarian cystic lesion is located on the **right** side.
+
+Reasoning:
+The largest cystic lesion is seen in the right adnexa, specifically the right ovary. It appears as a large, multiloculated cystic structure. The left ovary appears relatively normal in comparison.
+Final Answer: Right",False,right,-1.5258614930006242,-0.6558480036459052,-15.104395866394043,-12.853225670602855,
+D2-024,synthetic,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a large, multiloculated cystic structure with internal septations, located in the right adnexa.
+
+Final Answer: yes",False,yes,,,,,1.3750000298023224
+D2-024,synthetic,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 x 4.5 x 5.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,2.4999999925494194
+D2-024,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the largest lesion:** There is a large, well-defined, round, bright (hyperintense) lesion within the left adnexal region. This lesion appears to be the largest of the two ovarian lesions visible.
+3.  **Determine the side:** The lesion is clearly situated in the left ovary.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.009081486612558365,-11.384081840515137,-18.25908088684082,-13.571581840515137,
+D2-024,synthetic,right,ref,36,"The largest ovarian cystic lesion is located on the **left** side.
+
+Reasoning:
+The largest cystic lesion is seen in the left adnexa, specifically within the left ovary. It appears as a large, multiloculated cystic structure.
+
+Final Answer: left",False,left,-0.009910899214446545,-7.509911060333252,-13.322410583496094,-11.259910583496094,
+D2-024,synthetic,right,order_rl,36,"The largest ovarian cystic lesion is located on the **right** side.
+
+Reasoning:
+The largest cystic lesion is seen in the right adnexa, specifically the right ovary. It appears as a large, multiloculated cystic structure. The left ovary appears relatively normal in comparison.
+
+Final Answer: right",False,right,-8.254829406738281,-0.004829646088182926,-13.567329406738281,-10.879829406738281,
+D2-024,synthetic,right,open,36,"The largest ovarian cystic lesion is located on the **right** side.
+
+Reasoning:
+The largest cystic lesion is seen in the right adnexa, specifically the right ovary. It appears as a large, multiloculated cystic structure. The left ovary appears relatively normal in comparison.
+Final Answer: Right",False,right,-2.310798812561232,-0.4441928275052554,-15.266448974609375,-12.89024165638169,
+D2-024,synthetic,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's right side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 x 4.5 x 5.0 cm in its largest dimension.
+
+Final Answer: yes",False,yes,,,,,1.6250000298023224
+D2-024,synthetic,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, located in the left adnexa.
+
+Final Answer: yes",False,yes,,,,,2.624999985098839
+D2-024,synthetic,right,single_slice,1,"Final Answer: left
+",False,left,-0.008020575158298016,-10.758020401000977,-18.133020401000977,-13.883020401000977,
+D2-025,synthetic,left,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.014368874952197075,-7.889369010925293,-12.701869010925293,-10.889369010925293,
+D2-025,synthetic,left,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.507482051849365,-0.007482242304831743,-12.194982528686523,-10.507482528686523,
+D2-025,synthetic,left,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is seen in the left adnexa, extending towards the lower pelvis. The lesion appears as a large, multiloculated cystic mass with internal echoes, consistent with a complex ovarian cyst. The lesion is significantly larger than the right ovarian cyst.
+
+Final Answer: Left",False,left,-0.561919523774255,-1.9418229407824337,-15.386929512023926,-12.698649841323999,
+D2-025,synthetic,left,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Review:** The slices show a contiguous block of images covering the female pelvis.
+2.  **Lesion Identification:** There is a distinct, well-defined cystic structure visible in the right adnexal region.
+3.  **Size Comparison:** Comparing the size of the cystic lesion to other structures in the pelvis, it appears to be the largest cystic lesion present.
+4.  **Location:** The location in the right adnexal region is consistent with the location of the right ovary.
+
+Conclusion:
+The largest cystic lesion is located in the right adnexal region, consistent with the right ovary.
+
+Final Answer: yes",False,yes,,,,,-0.375
+D2-025,synthetic,left,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a large, multiloculated cystic structure with a complex appearance, measuring approximately 5.5 x 4.5 x 5.0 cm in the axial plane. This is consistent with a large ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,1.6249999850988388
+D2-025,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically in the lower part of the pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvis. There is a distinct, large, round, bright (hyperintense) lesion within the left adnexa (the region containing the left ovary).
+3.  **Compare with the right side:** The right adnexa appears relatively normal in this view, although a smaller lesion might be present. However, the lesion on the left is significantly larger and more prominent.
+4.  **Confirm the side:** The lesion is clearly situated within the left ovary/adnexa.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.01303096767514944,-11.013031005859375,-17.763031005859375,-13.138031005859375,
+D2-025,synthetic,right,ref,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.01797505095601082,-7.642974853515625,-12.955474853515625,-11.017974853515625,
+D2-025,synthetic,right,order_rl,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.757198810577393,-0.007198824547231197,-12.38219928741455,-10.63219928741455,
+D2-025,synthetic,right,open,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The largest cystic structure is visible in the left adnexa, appearing as a large, well-defined, T2 hyperintense lesion. This is consistent with a large ovarian cyst. The lesion is significantly larger than the right-sided cyst, which is smaller and less well-defined.
+
+Final Answer: Left",False,left,-1.076597466314403,-1.0815009421862423,-15.714107513427734,-12.838277579939833,
+D2-025,synthetic,right,yn_right,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.0
+D2-025,synthetic,right,yn_left,34,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's left side. The lesion is located in the left adnexa, likely representing a cyst or mass.
+
+Final Answer: yes",False,yes,,,,,1.6250000149011612
+D2-025,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are the oval-shaped structures located on either side of the uterus, typically in the lower part of the pelvis.
+2.  **Locate the largest lesion:** Observe the structures within the pelvis. There is a large, well-defined, roundish structure that appears bright (hyperintense) on a T2-weighted image, consistent with a cyst.
+3.  **Determine the side:** The lesion is situated in the left adnexa (the region containing the left ovary and fallopian tube). The right ovary appears smaller and less prominent in this view.
+4.  **Conclusion:** Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.016562586650252342,-10.766562461853027,-18.016563415527344,-13.454062461853027,
+D2-026,synthetic,left,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the right side.
+
+Final Answer: left",False,left,-0.008363224565982819,-7.633363246917725,-12.445862770080566,-10.508362770080566,
+D2-026,synthetic,left,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the pelvis. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-7.880704879760742,-0.0057047889567911625,-12.193204879760742,-10.255704879760742,
+D2-026,synthetic,left,open,36,"The largest ovarian cystic lesion appears to be on the **right** side.
+
+Reasoning:
+The largest cystic lesion is located in the right adnexa, specifically within the right ovary. This is evident in multiple slices, including slices 18, 19, 20, and 21, where the lesion is clearly visible and appears significantly larger than the lesion on the left side.
+Final Answer: Right",False,right,-1.5576148404928114,-0.6881638727555276,-15.321778297424316,-12.320493165098506,
+D2-026,synthetic,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.375
+D2-026,synthetic,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 7.5 cm in maximum diameter.
+
+Final Answer: yes",False,yes,,,,,1.1249999701976776
+D2-026,synthetic,left,single_slice,1,"Final Answer: left
+",False,left,-0.01147480122745037,-11.386474609375,-17.948974609375,-12.948974609375,
+D2-026,synthetic,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, extending towards the pelvis. This structure is significantly larger than the corresponding structure on the right side.
+
+Final Answer: left",False,left,-0.011169054545462132,-7.011168956756592,-12.26116943359375,-10.63616943359375,
+D2-026,synthetic,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, extending towards the lower abdomen. This structure is significantly larger than the cystic lesion visible on the left side.
+
+Final Answer: right",False,right,-8.379898071289062,-0.004898452199995518,-12.629898071289062,-10.504898071289062,
+D2-026,synthetic,right,open,36,"The largest ovarian cystic lesion is on the right side.
+
+Reasoning:
+The largest cystic lesion is located in the right adnexa, specifically within the right ovary. This is evident in slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, and 36.
+
+Final Answer: Right",False,right,-3.262730138727192,-0.2666252834156716,-15.650239944458008,-12.211454810907387,
+D2-026,synthetic,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.8750000298023224
+D2-026,synthetic,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is a large, multiloculated cystic structure with internal septations, measuring approximately 7.5 x 6.0 x 6.0 cm.
+
+Final Answer: yes",False,yes,,,,,0.9999999701976776
+D2-026,synthetic,right,single_slice,1,"Final Answer: left
+",False,left,-0.018703525885939598,-10.39370346069336,-17.70620346069336,-13.33120346069336,
+D2-027,synthetic,left,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.010843047872185707,-8.010843276977539,-12.635843276977539,-11.073343276977539,
+D2-027,synthetic,left,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.006519794464111,-0.006519713904708624,-11.819019317626953,-10.381519317626953,
+D2-027,synthetic,left,open,36,"The largest cystic lesion appears to be on the left side.
+
+Final Answer: Left",False,left,-0.4375177184741976,-2.6925042602070857,-14.89105224609375,-12.765296554998416,
+D2-027,synthetic,left,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the adnexal region, consistent with the ovary.
+
+Reasoning:
+1.  **Image Analysis:** The slices show a well-defined, rounded structure in the right adnexal region.
+2.  **T2-weighted Fat Suppression:** This modality is commonly used to visualize pelvic structures, including ovaries, and helps differentiate cystic lesions from solid masses and fat.
+3.  **Location:** The lesion is situated in the expected location of the right ovary.
+4.  **Size:** Comparing the lesion to other structures in the pelvis, it appears to be the largest cystic structure visible in the provided series.
+
+Conclusion:
+The largest cystic lesion is located on the patient's right side.
+
+Final Answer: yes",False,yes,,,,,0.0
+D2-027,synthetic,left,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the left side. The lesion is a well-defined, round structure with a high signal intensity on T2-weighted images, consistent with a cyst. It is situated in the left adnexa, likely within the ovary.
+
+Final Answer: yes",False,yes,,,,,2.1249999552965164
+D2-027,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures within the ovaries. There is a significantly larger, well-defined, round, bright (hyperintense) lesion on the left ovary compared to the lesion on the right ovary.
+3.  **Determine the side:** The larger lesion is clearly situated on the left side of the pelvis.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.011552932672202587,-11.636552810668945,-18.324052810668945,-13.324052810668945,
+D2-027,synthetic,right,ref,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the left adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the right side, the left side exhibits the most prominent and largest lesion.
+
+Final Answer: left",False,left,-0.011241786181926727,-7.261241912841797,-12.511241912841797,-11.136241912841797,
+D2-027,synthetic,right,order_rl,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. The lesion is significantly larger than the corresponding structure on the left side.
+
+Final Answer: right",False,right,-7.755721569061279,-0.005721383262425661,-12.630721092224121,-10.630721092224121,
+D2-027,synthetic,right,open,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The largest lesion is seen in the right adnexa, appearing as a large, multiloculated cystic structure. While the left ovary also contains a cyst, it is smaller in comparison.
+
+Final Answer: Right",False,right,-1.6372385396810438,-0.7666460856123275,-15.15140151977539,-12.588121849818725,
+D2-027,synthetic,right,yn_right,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.25
+D2-027,synthetic,right,yn_left,36,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's left side. The lesion is located in the left adnexa, likely representing a cyst or mass.
+
+Final Answer: yes",False,yes,,,,,1.7500000596046448
+D2-027,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion is located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the ovaries:** The ovaries are located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the largest lesion:** Observe the size and appearance of the cystic structures within the ovaries. The lesion on the left ovary appears significantly larger than the lesion on the right ovary. It is a large, well-defined, round, hypointense (dark) structure within the left ovary.
+3.  **Determine the side:** The lesion is clearly situated within the left adnexal region.
+
+Therefore, the largest ovarian cystic lesion is on the left side.
+
+Final Answer: left",False,left,-0.014726742170751095,-10.889726638793945,-18.202226638793945,-13.639726638793945,
+D2-028,synthetic,left,ref,38,"The largest cystic lesion appears to be on the left side.
+
+Final Answer: left",False,left,-0.013291328214108944,-7.763291358947754,-12.513291358947754,-10.513291358947754,
+D2-028,synthetic,left,order_rl,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest ovarian cystic lesion appears to be located on the **right** side.
+
+Reasoning:
+The slices show a large, well-defined cystic structure in the right adnexa, likely representing an ovarian cyst. While there are smaller cystic structures visible on the left side, the right-sided lesion is significantly larger.
+
+Final Answer: right",False,right,-7.632632732391357,-0.007632735185325146,-12.132633209228516,-10.132633209228516,
+D2-028,synthetic,left,open,38,"The largest ovarian cystic lesion appears to be on the **right** side.
+
+Reasoning:
+The largest lesion is located in the right adnexa, appearing as a large, multiloculated cystic structure. This is consistent with a large ovarian cyst or mass.
+Final Answer: Right",False,right,-1.5053679148551002,-0.6360082738210471,-14.773517608642578,-12.27196764697807,
+D2-028,synthetic,left,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.7499999701976776
+D2-028,synthetic,left,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion is a well-defined, round structure with a high signal intensity on T2-weighted images, consistent with a cyst. It appears to be the largest among the ovarian lesions visible in the provided series.
+
+Final Answer: yes",False,yes,,,,,1.7500000447034836
+D2-028,synthetic,left,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Cyst:** Visually inspect the ovaries in both the left and right images. The lesion on the left side appears significantly larger and more prominent than the lesion on the right side. It has a distinct cystic appearance with a bright signal intensity on T2-weighted images, consistent with fluid-filled content.
+3.  **Confirm Laterality:** The lesion is clearly situated in the left adnexal region.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.0039245267398655415,-11.253924369812012,-18.128925323486328,-13.128924369812012,
+D2-028,synthetic,right,ref,38,"The largest cystic lesion appears to be on the **left** side.
+
+Reasoning:
+The largest lesion is located in the left adnexa, appearing as a large, multiloculated cystic structure. This is consistent with a large ovarian cyst.
+
+Final Answer: left",False,left,-0.016696946695446968,-7.391696929931641,-12.45419692993164,-10.39169692993164,
+D2-028,synthetic,right,order_rl,38,"The largest cystic lesion appears to be on the right side.
+
+Final Answer: right",False,right,-8.005729675292969,-0.00572991743683815,-12.318229675292969,-10.255729675292969,
+D2-028,synthetic,right,open,38,"The largest ovarian cystic lesion is on the **right** side.
+
+Reasoning:
+The largest cystic lesion is located in the right adnexa, specifically within the right ovary. This is evident in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, and 38. The lesion appears as a large, well-defined, multiloculated cystic structure in the right ovary.
+
+Final Answer: Right",False,right,-2.0901478969418092,-0.4707881368561244,-15.108297348022461,-12.294295037862707,
+D2-028,synthetic,right,yn_right,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be on the patient's right side. The lesion is located in the right adnexa, likely representing an ovarian cyst.
+
+Final Answer: yes",False,yes,,,,,0.875
+D2-028,synthetic,right,yn_left,38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, the largest cystic lesion appears to be located on the patient's left side. The lesion is visible in multiple slices, including slices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, and 37. The lesion is a well-defined, round structure with a bright signal intensity on T2-weighted images, consistent with a cyst. It appears to be the largest among the ovarian lesions visible in the provided series.
+
+Final Answer: yes",False,yes,,,,,1.75
+D2-028,synthetic,right,single_slice,1,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, the largest ovarian cystic lesion appears to be located on the **left** side.
+
+**Reasoning:**
+
+1.  **Identify the Ovaries:** The ovaries are typically located in the adnexal region, lateral to the uterus and posterior to the fallopian tubes. In this image, the ovaries are visible on both the left and right sides.
+2.  **Locate the Largest Lesion:** Observe the structures within the adnexal regions. There is a distinct, well-defined, round, bright (hyperintense) lesion located in the left adnexal region. This lesion appears significantly larger than the other ovarian structures visible on the right side.
+3.  **Confirm Laterality:** The lesion is clearly situated on the left side of the pelvis.
+
+Therefore, the largest ovarian cystic lesion is located on the left side.
+
+Final Answer: left",False,left,-0.008020693436264992,-10.508020401000977,-18.133020401000977,-13.258020401000977,

@@ -1,0 +1,757 @@
+subject,label,part,image,hist,q,answer,logit_yes_no,input_sha,raw
+D2-000,cyst,irrelevant,real,none,ref,yes,-4.6249998696148396,1ab6e46f00a1e4bb,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large cystic structure in the left adnexa, measuring approximately 8.5 x 7.0 x 6.0 cm. This structure is T2 hyperintense, consistent with a cyst. Given the patient's sex and the appearance of the cyst, an ovarian endometrioma is a strong possibility.
+
+Final Answer: yes"
+D2-000,cyst,irrelevant,real,knee,ref,no,-6.250000212341547,1ab6e46f00a1e4bb,"Based on the provided MRI slices, there is a large cystic structure in the left adnexa, consistent with an ovarian cyst. While it could be a simple cyst, the presence of a large cystic structure in the adnexa in a patient with knee pain warrants further investigation to rule out an endometrioma.
+
+Final Answer: no"
+D2-000,cyst,irrelevant,real,pain,ref,yes,-5.2500001303851604,1ab6e46f00a1e4bb,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large cystic structure in the left adnexa, measuring approximately 8.5 x 7.0 x 7.0 cm. This structure demonstrates high signal intensity on T2-weighted imaging, which is characteristic of an endometrioma. The presence of a complex cystic mass in the adnexa in a patient with chronic pelvic pain is highly suggestive of an ovarian endometrioma.
+
+Final Answer: yes"
+D2-000,cyst,known,real,known_em,ref,yes,4.124999776482582,1ab6e46f00a1e4bb,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of a complex cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, which is characteristic of endometriomas.
+
+Final Answer: yes"
+D2-001,negative,irrelevant,real,none,ref,yes,-4.0000002309679985,f39cba2c5b2d844b,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of a complex cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, which is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-001,negative,irrelevant,real,knee,ref,yes,-5.500000070780516,f39cba2c5b2d844b,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The lesion is a well-defined, T2 hyperintense, T1 hypointense mass located in the right ovary. This appearance is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-001,negative,irrelevant,real,pain,ref,yes,-5.1250001434236765,f39cba2c5b2d844b,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the left adnexa, consistent with an endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal, and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-001,negative,known,real,known_em,ref,yes,3.2500001043081284,f39cba2c5b2d844b,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with internal septations, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-002,cyst,irrelevant,real,none,ref,yes,-3.7500000968575478,41943b7f9907e81c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes"
+D2-002,cyst,irrelevant,real,knee,ref,yes,-6.000000122003257,41943b7f9907e81c,"Based on the provided MRI slices, there is a large cystic structure in the right adnexa, consistent with an ovarian endometrioma. The cyst is well-defined and has a characteristic appearance on T2-weighted images.
+
+Final Answer: yes"
+D2-002,cyst,irrelevant,real,pain,ref,yes,-4.625000115483999,41943b7f9907e81c,"Based on the provided MRI slices, there is a large cystic structure in the right adnexa, consistent with an ovarian endometrioma. The cyst is well-defined, has a characteristic appearance, and is located in the expected location for an endometrioma.
+
+Final Answer: yes"
+D2-002,cyst,known,real,known_em,ref,yes,3.999999888241291,41943b7f9907e81c,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The characteristic appearance of an endometrioma on T2-weighted fat-suppressed MRI is a cystic lesion with high signal intensity (bright) on T2-weighted images, often with a hypointense (dark) rim. This appearance is consistent with the findings in the provided slices, particularly in the lower portion of the pelvis.
+
+Final Answer: yes"
+D2-003,cyst,irrelevant,real,none,ref,yes,-4.3749998938292265,f534ffac05d89f14,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal intensity, and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-003,cyst,irrelevant,real,knee,ref,no,-6.499999804422259,f534ffac05d89f14,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-003,cyst,irrelevant,real,pain,ref,no,-4.874999897554517,f534ffac05d89f14,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-003,cyst,known,real,known_em,ref,yes,4.874999929219484,f534ffac05d89f14,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-004,negative,irrelevant,real,none,ref,no,-6.250000204890966,1d87660233e56e0c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-004,negative,irrelevant,real,knee,ref,no,-7.25000006146729,1d87660233e56e0c,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-004,negative,irrelevant,real,pain,ref,no,-7.125000121071935,1d87660233e56e0c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-004,negative,known,real,known_em,ref,yes,4.000000186264515,1d87660233e56e0c,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The endometrioma appears as a well-defined, T2 hyperintense lesion in the right ovary, consistent with the known clinical history.
+
+Final Answer: yes"
+D2-005,negative,irrelevant,real,none,ref,yes,0.5000000596046448,547c7e8ac356ecf2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion is located in the left adnexa, and its appearance is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-005,negative,irrelevant,real,knee,ref,yes,-3.249999962747097,547c7e8ac356ecf2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion is located in the left adnexa, which is the region containing the ovary and fallopian tube. The lesion appears to be located within the left ovary.
+
+Final Answer: yes"
+D2-005,negative,irrelevant,real,pain,ref,yes,-0.375,547c7e8ac356ecf2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion is located in the left adnexa, and its appearance is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-005,negative,known,real,known_em,ref,yes,5.99999980814755,547c7e8ac356ecf2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be located in the left ovary and is surrounded by a thin rim of fat, which is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-006,cyst,irrelevant,real,none,ref,yes,-1.25,bb4f8963b8c3a2a8,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion within the left ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion is located within the ovary and has a distinct appearance compared to the surrounding ovarian tissue.
+
+Final Answer: yes"
+D2-006,cyst,irrelevant,real,knee,ref,yes,-4.125000171363354,bb4f8963b8c3a2a8,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as cystic structures with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes"
+D2-006,cyst,irrelevant,real,pain,ref,yes,-2.2500000447034836,bb4f8963b8c3a2a8,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense masses with internal septations, consistent with endometriomas.
+
+Final Answer: yes"
+D2-006,cyst,known,real,known_em,ref,yes,4.500000219792128,bb4f8963b8c3a2a8,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. Specifically, in the lower pelvis, there is a well-defined, T2 hyperintense lesion with a characteristic appearance consistent with an endometrioma. This lesion is located in the right ovary and measures approximately 4.5 cm in diameter.
+
+Final Answer: yes"
+D2-010,negative,irrelevant,real,none,ref,no,-5.249999958090484,d8a3e08f334a7ced,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-010,negative,irrelevant,real,knee,ref,no,-7.125000206753612,d8a3e08f334a7ced,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The images show a normal appearance of the ovaries and surrounding structures.
+
+Final Answer: no"
+D2-010,negative,irrelevant,real,pain,ref,no,-5.749999991618097,d8a3e08f334a7ced,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-010,negative,known,real,known_em,ref,yes,4.374999798834324,d8a3e08f334a7ced,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The endometrioma appears as a complex cystic lesion in the right adnexa, with internal echoes and septations, consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-011,cyst,irrelevant,real,none,ref,no,-6.749999968800694,37871abaed82a527,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-011,cyst,irrelevant,real,knee,ref,no,-7.874999945051968,37871abaed82a527,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-011,cyst,irrelevant,real,pain,ref,no,-7.499999983701855,37871abaed82a527,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-011,cyst,known,real,known_em,ref,yes,2.7500000298023224,37871abaed82a527,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-012,negative,irrelevant,real,none,ref,no,-5.374999956227839,de9488875858541b,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-012,negative,irrelevant,real,knee,ref,no,-6.9999997997656465,de9488875858541b,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-012,negative,irrelevant,real,pain,ref,no,-5.874999810941517,de9488875858541b,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-012,negative,known,real,known_em,ref,yes,4.624999988824129,de9488875858541b,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a complex, cystic mass with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-013,cyst,irrelevant,real,none,ref,no,-6.50000013737008,a9bc0019ee6b6ed3,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-013,cyst,irrelevant,real,knee,ref,no,-7.624999789521098,a9bc0019ee6b6ed3,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-signal intensity walls and internal echoes).
+
+Final Answer: no"
+D2-013,cyst,irrelevant,real,pain,ref,no,-6.999999922234565,a9bc0019ee6b6ed3,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (e.g., homogeneous low signal intensity on T2-weighted images, often with a nodular wall).
+
+Final Answer: no"
+D2-013,cyst,known,real,known_em,ref,yes,3.000000089406967,a9bc0019ee6b6ed3,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion appears as a well-defined, T2 hyperintense mass in the right adnexa, consistent with the known clinical history.
+
+Final Answer: yes"
+D2-014,negative,irrelevant,real,none,ref,yes,-1.7500000298023224,274448828fa831e7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes"
+D2-014,negative,irrelevant,real,knee,ref,yes,-3.2500000931322575,274448828fa831e7,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes"
+D2-014,negative,irrelevant,real,pain,ref,yes,-2.499999910593033,274448828fa831e7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal low signal intensity (dark areas) and peripheral high signal intensity (bright areas), consistent with the typical appearance of endometriomas.
+
+Final Answer: yes"
+D2-014,negative,known,real,known_em,ref,yes,5.249999921768904,274448828fa831e7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The characteristic appearance of an endometrioma is a cystic lesion with low signal intensity on T2-weighted images, often with a peripheral rim of high signal intensity on T1-weighted images (though T1 is not shown here). The lesion is located in the right adnexa, consistent with the expected location of an ovarian cyst.
+
+Final Answer: yes"
+D2-015,negative,irrelevant,real,none,ref,yes,-1.9999999850988388,08a7e164b7ee0b5c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the right adnexa (right ovary), there is a complex cystic lesion with internal septations and possibly low-level internal echoes, which are characteristic features of an endometrioma.
+
+Final Answer: yes"
+D2-015,negative,irrelevant,real,knee,ref,yes,-4.125000121071935,08a7e164b7ee0b5c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, which is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-015,negative,irrelevant,real,pain,ref,yes,-2.6250000447034836,08a7e164b7ee0b5c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the right adnexa (right ovary), there is a complex cystic lesion with internal low signal intensity (likely representing the endometrioma itself) and a peripheral rim of high signal intensity (likely representing the surrounding ovarian tissue). This appearance is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-015,negative,known,real,known_em,ref,yes,5.499999787658453,08a7e164b7ee0b5c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a complex, cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-016,negative,irrelevant,real,none,ref,yes,-4.8749998193234205,18a3f2adb1591d7d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes"
+D2-016,negative,irrelevant,real,knee,ref,no,-6.875000127591193,18a3f2adb1591d7d,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-016,negative,irrelevant,real,pain,ref,no,-5.75000021327287,18a3f2adb1591d7d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-016,negative,known,real,known_em,ref,yes,3.5000001192092896,18a3f2adb1591d7d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-017,negative,irrelevant,real,none,ref,yes,-2.2499999701976776,1fb4fb3fcb1e95a6,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes"
+D2-017,negative,irrelevant,real,knee,ref,yes,-4.500000160187483,1fb4fb3fcb1e95a6,"Based on the provided MRI slices, there is a cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion is well-defined, has a characteristic appearance on T2-weighted images (dark signal), and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-017,negative,irrelevant,real,pain,ref,yes,-2.749999888241291,1fb4fb3fcb1e95a6,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes"
+D2-017,negative,known,real,known_em,ref,yes,5.1249999441206455,1fb4fb3fcb1e95a6,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-018,negative,irrelevant,real,none,ref,yes,-3.0,8251ede76cf597c1,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion located in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance for this condition.
+
+Final Answer: yes"
+D2-018,negative,irrelevant,real,knee,ref,yes,-5.000000203028321,8251ede76cf597c1,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the right adnexa, and its appearance is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-018,negative,irrelevant,real,pain,ref,yes,-3.4999999590218067,8251ede76cf597c1,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion located in the right adnexa, consistent with an ovarian endometrioma. The lesion appears to be located within the ovary and has a characteristic appearance for this condition.
+
+Final Answer: yes"
+D2-018,negative,known,real,known_em,ref,yes,4.750000020489097,8251ede76cf597c1,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-019,negative,irrelevant,real,none,ref,no,-4.1250000931322575,48b2cbe7afaccb38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-019,negative,irrelevant,real,knee,ref,no,-6.875000197440386,48b2cbe7afaccb38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-019,negative,irrelevant,real,pain,ref,no,-5.499999770894647,48b2cbe7afaccb38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (e.g., homogeneous low signal intensity on T2-weighted images, often with a nodular wall).
+
+Final Answer: no"
+D2-019,negative,known,real,known_em,ref,yes,4.874999895691872,48b2cbe7afaccb38,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-020,negative,irrelevant,real,none,ref,no,-3.750000052154064,d6b4260bdd8d2df2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-020,negative,irrelevant,real,knee,ref,no,-6.125000115483999,d6b4260bdd8d2df2,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-signal intensity walls and internal echoes).
+
+Final Answer: no"
+D2-020,negative,irrelevant,real,pain,ref,no,-3.875000026077032,d6b4260bdd8d2df2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-020,negative,known,real,known_em,ref,yes,5.124999824911356,d6b4260bdd8d2df2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the left adnexa appears as a complex, cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-021,negative,irrelevant,real,none,ref,no,-4.874999936670065,8759439e8a9d3b49,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-021,negative,irrelevant,real,knee,ref,no,-6.124999831430614,8759439e8a9d3b49,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Therefore, the final answer is no.
+
+Final Answer: no"
+D2-021,negative,irrelevant,real,pain,ref,no,-5.374999850988388,8759439e8a9d3b49,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-021,negative,known,real,known_em,ref,yes,3.6249998956918716,8759439e8a9d3b49,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The endometrioma appears as a complex cystic lesion with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-022,negative,irrelevant,real,none,ref,no,-4.500000083819032,428df49ba7f00fbb,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-022,negative,irrelevant,real,knee,ref,no,-6.249999809078872,428df49ba7f00fbb,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-022,negative,irrelevant,real,pain,ref,no,-5.374999975785613,428df49ba7f00fbb,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-022,negative,known,real,known_em,ref,yes,4.875000014901161,428df49ba7f00fbb,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the left adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-023,negative,irrelevant,real,none,ref,no,-6.875000000931323,bedff1aa3da04a2c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-023,negative,irrelevant,real,knee,ref,no,-7.999999761581421,bedff1aa3da04a2c,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology.
+
+Final Answer: no"
+D2-023,negative,irrelevant,real,pain,ref,no,-7.249999810941517,bedff1aa3da04a2c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-023,negative,known,real,known_em,ref,yes,2.625000052154064,bedff1aa3da04a2c,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The endometrioma appears as a complex cystic lesion in the right ovary, characterized by internal echoes and septations.
+
+Final Answer: yes"
+D2-024,negative,irrelevant,real,none,ref,yes,-1.3750000596046448,e88ea8c5d0e7d454,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion in the right ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst filled with old blood. The lesion is located within the ovary and has a distinct appearance compared to the surrounding normal ovarian tissue.
+
+Final Answer: yes"
+D2-024,negative,irrelevant,real,knee,ref,yes,-4.000000124797225,e88ea8c5d0e7d454,"Based on the provided MRI slices, there is a cystic lesion in the right adnexa, which could represent an ovarian endometrioma. The lesion is well-defined, has a T2 hyperintense signal, and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-024,negative,irrelevant,real,pain,ref,yes,-1.5000000149011612,e88ea8c5d0e7d454,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, which is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-024,negative,known,real,known_em,ref,yes,5.375000044703484,e88ea8c5d0e7d454,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with the clinical history, is highly suggestive of an endometrioma.
+
+Final Answer: yes"
+D2-025,negative,irrelevant,real,none,ref,no,-5.750000122003257,a10c3ad5a1a58aa0,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-025,negative,irrelevant,real,knee,ref,no,-7.37500015925616,a10c3ad5a1a58aa0,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-025,negative,irrelevant,real,pain,ref,no,-6.12500003259629,a10c3ad5a1a58aa0,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-025,negative,known,real,known_em,ref,yes,4.250000033527613,a10c3ad5a1a58aa0,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-026,negative,irrelevant,real,none,ref,no,-6.874999891966581,1b13f64264073f84,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-026,negative,irrelevant,real,knee,ref,no,-8.24999980442226,1b13f64264073f84,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and a hypointense rim on T1-weighted images.
+
+Final Answer: no"
+D2-026,negative,irrelevant,real,pain,ref,no,-7.125000114552677,1b13f64264073f84,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-026,negative,known,real,known_em,ref,yes,1.9999999850988388,1b13f64264073f84,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be located in the right ovary and extends into the right adnexa.
+
+Final Answer: yes"
+D2-027,negative,irrelevant,real,none,ref,no,-4.000000178813934,56b172b06086c9c7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-027,negative,irrelevant,real,knee,ref,no,-6.375000118277967,56b172b06086c9c7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-027,negative,irrelevant,real,pain,ref,no,-4.749999860301614,56b172b06086c9c7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-027,negative,known,real,known_em,ref,yes,4.8749997690320015,56b172b06086c9c7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. The lesion appears to be located within the ovary, and its signal characteristics are typical for an endometrioma.
+
+Final Answer: yes"
+D2-028,negative,irrelevant,real,none,ref,yes,-3.8750000298023224,3df56b2f32a1b700,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the right side. These cysts are hyperintense on T2-weighted images, which is characteristic of endometriomas. The presence of internal echoes or septations within these cysts further supports the diagnosis. The location and appearance are consistent with endometriomas.
+
+Final Answer: yes"
+D2-028,negative,irrelevant,real,knee,ref,no,-5.874999929219484,3df56b2f32a1b700,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-028,negative,irrelevant,real,pain,ref,no,-4.7500001192092896,3df56b2f32a1b700,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-028,negative,known,real,known_em,ref,yes,5.250000113621354,3df56b2f32a1b700,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with a characteristic appearance consistent with an endometrioma.
+
+Final Answer: yes"
+D2-029,negative,irrelevant,real,none,ref,yes,-3.624999914318323,9162382cdbe6026f,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of multiple bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense lesions with homogeneous signal intensity, consistent with endometriomas.
+
+Final Answer: yes"
+D2-029,negative,irrelevant,real,knee,ref,yes,-4.749999847263098,9162382cdbe6026f,"Based on the provided MRI slices, there is evidence of multiple bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense masses within the ovaries, consistent with the typical appearance of endometriomas.
+
+Final Answer: yes"
+D2-029,negative,irrelevant,real,pain,ref,yes,-4.62500006146729,9162382cdbe6026f,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of multiple bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense lesions with homogeneous signal intensity, consistent with endometriomas.
+
+Final Answer: yes"
+D2-029,negative,known,real,known_em,ref,yes,4.624999977648258,9162382cdbe6026f,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion appears as a well-defined, T2 hyperintense mass in the right adnexa, consistent with the known clinical history.
+
+Final Answer: yes"
+D2-038,negative,irrelevant,real,none,ref,no,-4.8749999376013875,32ae5ef3588d7103,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Reasoning:
+1.  **Image Quality:** The slices are of good quality, allowing for detailed visualization of the pelvic structures.
+2.  **Ovarian Appearance:** The ovaries are located in the expected anatomical position within the pelvis. They appear as roughly spherical structures with a homogeneous signal intensity on T2-weighted images.
+3.  **Absence of Characteristic Features:** There are no specific features suggestive of an endometrioma, such as:
+    *   **T1 hyperintensity:** Endometriomas typically show T1 hyperintensity due to the presence of blood products. This is not evident in the provided slices.
+    *   **T2 hypointensity:** Endometriomas often demonstrate T2 hypointensity, although this can be variable.
+    *   **Internal echoes/septations:** Endometriomas may contain internal echoes or septations, which are not clearly visible here.
+    *   **Cystic appearance:** While endometriomas can be cystic, the overall appearance here is not distinctly cystic.
+4.  **Other Findings:** The surrounding pelvic structures, including the uterus, bladder, and bowel, appear normal.
+
+Conclusion:
+The provided MRI slices do not show any definitive findings suggestive of an ovarian endometrioma.
+
+Final Answer: no"
+D2-038,negative,irrelevant,real,knee,ref,no,-5.625000129453838,32ae5ef3588d7103,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Reasoning:
+1.  **Image Quality:** The images are of good quality, allowing for detailed visualization of the pelvic structures.
+2.  **Ovarian Appearance:** The ovaries are visualized in the axial plane. They appear as roughly spherical structures with a homogeneous signal intensity on T2-weighted images. There are no distinct cystic lesions, septations, or internal echoes suggestive of an endometrioma.
+3.  **Differential Diagnosis:** While endometriomas can sometimes be difficult to detect, especially if small or located in certain positions, the lack of characteristic features makes an endometrioma less likely in this case. Other possibilities like functional cysts or simple cysts are not clearly identified.
+4.  **Clinical History:** The clinical history of knee pain is not directly related to the findings in the pelvic MRI.
+
+Conclusion:
+There is no definitive evidence of an ovarian endometrioma in the provided MRI slices.
+
+Final Answer: no"
+D2-038,negative,irrelevant,real,pain,ref,no,-4.999999882653356,32ae5ef3588d7103,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-038,negative,known,real,known_em,ref,yes,4.749999973922968,32ae5ef3588d7103,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a complex cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-039,cyst,irrelevant,real,none,ref,yes,-3.0000001192092896,4bddc41048bdf86e,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion within the right ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The lesion appears to have a homogeneous signal intensity, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-039,cyst,irrelevant,real,knee,ref,no,-5.24999978300184,4bddc41048bdf86e,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-039,cyst,irrelevant,real,pain,ref,yes,-4.249999927356839,4bddc41048bdf86e,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the right side. These cysts are hyperintense on T2-weighted images, which is characteristic of endometriomas. The presence of these cysts, along with the clinical history of chronic pelvic pain, strongly suggests the diagnosis of bilateral ovarian endometriomas.
+
+Final Answer: yes"
+D2-039,cyst,known,real,known_em,ref,yes,3.249999947845936,4bddc41048bdf86e,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-042,cyst,irrelevant,real,none,ref,no,-5.500000017695129,786bbf913f712764,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-042,cyst,irrelevant,real,knee,ref,no,-7.249999775085598,786bbf913f712764,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly a nodular wall.
+
+Final Answer: no"
+D2-042,cyst,irrelevant,real,pain,ref,no,-6.250000027939677,786bbf913f712764,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted images or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-042,cyst,known,real,known_em,ref,yes,4.624999962747097,786bbf913f712764,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The characteristic appearance of an endometrioma on T2-weighted images is a cyst with low signal intensity (dark) due to the presence of old blood products and hemosiderin. The cyst is typically located in the ovary, and its internal structure can show a homogeneous or heterogeneous appearance. In the provided images, there is a well-defined, low-signal intensity lesion in the right ovary consistent with an endometrioma.
+
+Final Answer: yes"
+D2-043,negative,irrelevant,real,none,ref,no,-6.50000000372529,a1e595b2e6df2c73,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-043,negative,irrelevant,real,knee,ref,no,-7.749999814666808,a1e595b2e6df2c73,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-043,negative,irrelevant,real,pain,ref,no,-6.62499978672713,a1e595b2e6df2c73,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-043,negative,known,real,known_em,ref,no,4.124999802559614,a1e595b2e6df2c73,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The uterus appears normal in size and shape. There are no distinct cystic structures within the ovaries that are characteristic of endometriomas.
+
+Final Answer: no"
+D2-044,negative,irrelevant,real,none,ref,yes,-3.4999999292194843,01842d361783c905,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the lower portion of the pelvis, there is a complex cystic lesion with internal echoes, consistent with the appearance of an endometrioma.
+
+Final Answer: yes"
+D2-044,negative,irrelevant,real,knee,ref,no,-5.499999868683517,01842d361783c905,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-044,negative,irrelevant,real,pain,ref,no,-4.249999763444066,01842d361783c905,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-044,negative,known,real,known_em,ref,yes,5.250000042840838,01842d361783c905,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The endometrioma appears as a complex cystic lesion in the right ovary, characterized by internal echoes and septations, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-045,cyst,irrelevant,real,none,ref,no,-5.500000042840838,cf3add1463012e26,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-045,cyst,irrelevant,real,knee,ref,no,-7.250000100582838,cf3add1463012e26,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-signal intensity walls and internal echoes).
+
+Final Answer: no"
+D2-045,cyst,irrelevant,real,pain,ref,no,-5.875000060535967,cf3add1463012e26,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (e.g., homogeneous low signal intensity on T2-weighted images, often with a nodular rim sign).
+
+Final Answer: no"
+D2-045,cyst,known,real,known_em,ref,yes,4.625000171363354,cf3add1463012e26,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a complex, cystic mass with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-046,negative,irrelevant,real,none,ref,no,-6.124999867286533,848783a8a31379b2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While small endometriomas can sometimes be difficult to detect, the current images do not show any characteristic findings such as a cystic lesion with homogeneous high signal intensity on T2-weighted images, often associated with endometriomas.
+
+Final Answer: no"
+D2-046,negative,irrelevant,real,knee,ref,no,-7.374999800696969,848783a8a31379b2,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The images show normal pelvic anatomy, including the ovaries, uterus, and surrounding structures. While subtle findings can sometimes be missed, the current images do not demonstrate any characteristic features of an endometrioma, such as a cystic lesion with internal echoes or a complex mass.
+
+Final Answer: no"
+D2-046,negative,irrelevant,real,pain,ref,no,-7.00000014482066,848783a8a31379b2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-046,negative,known,real,known_em,ref,yes,2.4999999925494194,848783a8a31379b2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion appears as a well-defined, T2 hyperintense mass in the right adnexa, consistent with the known clinical history.
+
+Final Answer: yes"
+D2-047,negative,irrelevant,real,none,ref,yes,-4.000000225380063,075b7c25af1450a0,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense lesions within the ovaries, consistent with the typical appearance of endometriomas.
+
+Final Answer: yes"
+D2-047,negative,irrelevant,real,knee,ref,no,-5.999999831430614,075b7c25af1450a0,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-signal intensity walls and internal echoes).
+
+Final Answer: no"
+D2-047,negative,irrelevant,real,pain,ref,no,-5.125000072643161,075b7c25af1450a0,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-047,negative,known,real,known_em,ref,yes,4.875000204890966,075b7c25af1450a0,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with internal septations, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-048,negative,irrelevant,real,none,ref,yes,-1.1249999701976776,995e46cd0128d325,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a complex cystic lesion in the right adnexa, consistent with an endometrioma. The lesion appears as a multiloculated cyst with internal echoes, which is characteristic of an endometrioma. The lesion is located in the adnexal region, which is the typical location for ovarian endometriomas.
+
+Final Answer: yes"
+D2-048,negative,irrelevant,real,knee,ref,yes,-3.9999997913837433,995e46cd0128d325,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, consistent with an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, which is characteristic of an endometrioma.
+
+Final Answer: yes"
+D2-048,negative,irrelevant,real,pain,ref,yes,-3.374999925494194,995e46cd0128d325,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and heterogeneous signal intensity, consistent with endometriomas.
+
+Final Answer: yes"
+D2-048,negative,known,real,known_em,ref,yes,4.499999936670065,995e46cd0128d325,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a complex cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-049,negative,irrelevant,real,none,ref,no,-5.500000066123903,da0cd3d8240b5f9c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-049,negative,irrelevant,real,knee,ref,no,-7.125000203959644,da0cd3d8240b5f9c,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-049,negative,irrelevant,real,pain,ref,no,-6.000000000931323,da0cd3d8240b5f9c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-049,negative,known,real,known_em,ref,yes,3.999999802559614,da0cd3d8240b5f9c,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The endometrioma appears as a well-defined, T2 hyperintense lesion in the right ovary, consistent with the known clinical history.
+
+Final Answer: yes"
+D2-050,negative,irrelevant,real,none,ref,no,-7.375000134576112,f17fe70af52576a9,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly internal debris or septations.
+
+Final Answer: no"
+D2-050,negative,irrelevant,real,knee,ref,no,-8.124999810010195,f17fe70af52576a9,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and a hypointense rim on T1-weighted images.
+
+Final Answer: no"
+D2-050,negative,irrelevant,real,pain,ref,no,-7.625000234693289,f17fe70af52576a9,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly a nodular rim enhancement on T1-weighted images.
+
+Final Answer: no"
+D2-050,negative,known,real,known_em,ref,yes,1.2500000298023224,f17fe70af52576a9,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion appears as a well-defined, T2 hyperintense mass in the right adnexa, consistent with the known clinical history.
+
+Final Answer: yes"
+D2-051,negative,irrelevant,real,none,ref,yes,-4.37500012665987,04715f2dd76ff079,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal intensity, and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-051,negative,irrelevant,real,knee,ref,no,-6.50000012665987,04715f2dd76ff079,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-051,negative,irrelevant,real,pain,ref,yes,-4.999999847263098,04715f2dd76ff079,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal intensity, and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-051,negative,known,real,known_em,ref,yes,4.375000067055225,04715f2dd76ff079,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-052,negative,irrelevant,real,none,ref,yes,-5.374999919906259,51dc250164422df2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-052,negative,irrelevant,real,knee,ref,no,-6.499999765306711,51dc250164422df2,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-052,negative,irrelevant,real,pain,ref,no,-5.625000181607902,51dc250164422df2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-052,negative,known,real,known_em,ref,yes,3.624999910593033,51dc250164422df2,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion appears to be located in the right ovary and measures approximately 5.5 x 4.5 x 5.0 cm.
+
+Final Answer: yes"
+D2-053,negative,irrelevant,real,none,ref,yes,-3.6250000931322575,4fd8001d21f9934c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes"
+D2-053,negative,irrelevant,real,knee,ref,no,-5.87499984074384,4fd8001d21f9934c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-053,negative,irrelevant,real,pain,ref,no,-4.624999849125743,4fd8001d21f9934c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable in morphology and signal characteristics.
+
+Final Answer: no"
+D2-053,negative,known,real,known_em,ref,yes,4.749999923631549,4fd8001d21f9934c,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-055,negative,irrelevant,real,none,ref,no,-5.87500015925616,8669e320827a273d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-055,negative,irrelevant,real,knee,ref,no,-7.999999983236194,8669e320827a273d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly a nodular rim enhancement on T1-weighted images.
+
+Final Answer: no"
+D2-055,negative,irrelevant,real,pain,ref,no,-6.7499998696148396,8669e320827a273d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-055,negative,known,real,known_em,ref,no,2.2500000447034836,8669e320827a273d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The uterus appears normal in size and shape. There are no distinct cystic structures within the ovaries that are characteristic of endometriomas.
+
+Final Answer: no"
+D2-056,cyst,irrelevant,real,none,ref,yes,-3.2499999403953552,636f16a772959a49,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with the typical appearance of endometriomas.
+
+Final Answer: yes"
+D2-056,cyst,irrelevant,real,knee,ref,yes,-4.499999780207872,636f16a772959a49,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as well-defined, T2 hyperintense lesions with low signal intensity on fat suppression, located in the adnexal regions.
+
+Final Answer: yes"
+D2-056,cyst,irrelevant,real,pain,ref,yes,-3.3750000298023224,636f16a772959a49,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence suggestive of an ovarian endometrioma. Specifically, in the lower portion of the right adnexa (likely the right ovary), there is a complex cystic lesion with internal septations and possibly low-level internal echoes, which are characteristic features of an endometrioma.
+
+Final Answer: yes"
+D2-056,cyst,known,real,known_em,ref,yes,5.124999810010195,636f16a772959a49,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-057,negative,irrelevant,real,none,ref,yes,-1.375,327d45ea36a0aeab,"Based on the provided MRI slices, there is evidence of a large cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears complex with internal septations and low signal intensity on T2-weighted images, which is characteristic of endometriomas.
+
+Final Answer: yes"
+D2-057,negative,irrelevant,real,knee,ref,yes,-2.6250000298023224,327d45ea36a0aeab,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes"
+D2-057,negative,irrelevant,real,pain,ref,yes,-0.7500000596046448,327d45ea36a0aeab,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as complex cystic lesions with internal septations and low signal intensity on T2-weighted images, consistent with endometriomas.
+
+Final Answer: yes"
+D2-057,negative,known,real,known_em,ref,yes,4.124999836087227,327d45ea36a0aeab,"Based on the provided MRI slices, there is evidence of a large complex cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion appears to have multiple internal septations and a heterogeneous signal intensity, which are characteristic features of endometriomas.
+
+Final Answer: yes"
+D2-058,negative,irrelevant,real,none,ref,yes,-3.125000089406967,2cf9fa27fafe7ed7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the right adnexa, which is the region containing the ovary and fallopian tube. The lesion appears to be located within the right ovary.
+
+Final Answer: yes"
+D2-058,negative,irrelevant,real,knee,ref,yes,-5.499999916180968,2cf9fa27fafe7ed7,"Based on the provided MRI slices, there is a large, well-defined, T2 hyperintense lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the right adnexa, which is the region containing the ovary and fallopian tube. The lesion appears to be located within the ovary.
+
+Final Answer: yes"
+D2-058,negative,irrelevant,real,pain,ref,yes,-4.625000132247806,2cf9fa27fafe7ed7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes"
+D2-058,negative,known,real,known_em,ref,yes,4.624999910593033,2cf9fa27fafe7ed7,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense (bright) lesion in the right adnexa, consistent with an endometrioma. This lesion appears to be located within the ovary and has a characteristic appearance.
+
+Final Answer: yes"
+D2-059,negative,irrelevant,real,none,ref,yes,-4.000000201165676,06b85d2bfbdd6eab,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The slices show a well-defined, T2 hyperintense lesion within the right ovary. This appearance is characteristic of an endometrioma, which is a cyst filled with old blood resulting from endometriosis. The lesion appears to have a homogeneous signal intensity, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-059,negative,irrelevant,real,knee,ref,no,-6.249999822117388,06b85d2bfbdd6eab,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-059,negative,irrelevant,real,pain,ref,no,-5.250000175088644,06b85d2bfbdd6eab,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-059,negative,known,real,known_em,ref,yes,5.125000022351742,06b85d2bfbdd6eab,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The endometrioma appears as a complex cystic lesion in the right ovary, characterized by internal echoes and septations, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-060,negative,irrelevant,real,none,ref,no,-4.9999999683350325,b15e384703f57137,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-060,negative,irrelevant,real,knee,ref,no,-6.625000069849193,b15e384703f57137,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-060,negative,irrelevant,real,pain,ref,no,-5.49999987334013,b15e384703f57137,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-060,negative,known,real,known_em,ref,yes,4.3750000931322575,b15e384703f57137,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The large, well-defined, low-signal intensity lesion in the right adnexa, consistent with a cyst, is located in the expected location of the ovary. The signal characteristics are typical for an endometrioma.
+
+Final Answer: yes"
+D2-061,negative,irrelevant,real,none,ref,no,-5.1249998807907104,2122d77276c366df,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-061,negative,irrelevant,real,knee,ref,no,-6.75000015180558,2122d77276c366df,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-061,negative,irrelevant,real,pain,ref,no,-5.499999852851033,2122d77276c366df,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-061,negative,known,real,known_em,ref,yes,2.9999999180436134,2122d77276c366df,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a complex cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-062,negative,irrelevant,real,none,ref,yes,-3.000000022351742,fa669b8dce7201aa,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-062,negative,irrelevant,real,knee,ref,yes,-5.25000018440187,fa669b8dce7201aa,"Based on the provided MRI slices, there is a large, complex cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion is multiloculated and demonstrates internal echoes, which are characteristic features of endometriomas.
+
+Final Answer: yes"
+D2-062,negative,irrelevant,real,pain,ref,yes,-3.7499999329447746,fa669b8dce7201aa,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a complex cystic lesion in the right adnexa, likely representing an ovarian endometrioma. The lesion appears as a multiloculated cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-062,negative,known,real,known_em,ref,yes,3.8749999552965164,fa669b8dce7201aa,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, oval-shaped, low-signal intensity lesion in the right adnexa, consistent with an ovarian endometrioma. This lesion is located in the right adnexa, which is the region where the ovary is located. The lesion appears to be located in the right adnexa.
+
+Final Answer: yes"
+D2-064,negative,irrelevant,real,none,ref,yes,-1.1249999701976776,e5239115759a40b1,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma.
+
+Reasoning:
+The images show a well-defined, T2 hyperintense (bright) lesion within the right ovary. This appearance is characteristic of an endometrioma, which is a type of ovarian cyst caused by endometriosis. The lesion appears to have a homogeneous signal intensity, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-064,negative,irrelevant,real,knee,ref,yes,-4.499999884516001,e5239115759a40b1,"Based on the provided MRI slices, there is evidence of bilateral ovarian endometriomas. These appear as cystic structures with internal low signal intensity, consistent with endometriomas.
+
+Final Answer: yes"
+D2-064,negative,irrelevant,real,pain,ref,yes,-2.2500000670552254,e5239115759a40b1,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the left side. These cysts are hyperintense on T2-weighted images, which is characteristic of endometriomas. The presence of these cysts, along with the clinical history of chronic pelvic pain, strongly suggests the diagnosis of bilateral ovarian endometriomas.
+
+Final Answer: yes"
+D2-064,negative,known,real,known_em,ref,yes,5.750000087544322,e5239115759a40b1,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The characteristic appearance of an endometrioma on T2-weighted fat-suppressed MRI is a well-defined, T2 hyperintense (bright) lesion, often with a homogeneous or slightly heterogeneous signal intensity, typically located in the adnexa (ovary). The lesion in the right adnexa in the provided images appears to fit this description.
+
+Final Answer: yes"
+D2-065,negative,irrelevant,real,none,ref,no,-5.125000142492354,3b348f9a2948c0ac,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-065,negative,irrelevant,real,knee,ref,no,-6.624999797903001,3b348f9a2948c0ac,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While small cysts can sometimes be difficult to differentiate from endometriomas without additional information (e.g., specific signal characteristics on T1-weighted images, presence of a nodular rim sign), the current images do not show any features suggestive of an endometrioma.
+
+Final Answer: no"
+D2-065,negative,irrelevant,real,pain,ref,no,-6.000000023283064,3b348f9a2948c0ac,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-065,negative,known,real,known_em,ref,yes,3.874999910593033,3b348f9a2948c0ac,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-066,negative,irrelevant,real,none,ref,yes,-1.0,7bb26df1b1880a28,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, round, T2 hyperintense lesion located in the left adnexa, consistent with an ovarian endometrioma. This lesion demonstrates characteristic features such as a hypointense rim and internal septations, which are typical findings for endometriomas.
+
+Final Answer: yes"
+D2-066,negative,irrelevant,real,knee,ref,yes,-3.000000014901161,7bb26df1b1880a28,"Based on the provided MRI slices, there is a cystic lesion in the left adnexa, consistent with an ovarian endometrioma. This is supported by the characteristic appearance of a cyst with low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with a homogeneous or slightly heterogeneous internal appearance.
+
+Final Answer: yes"
+D2-066,negative,irrelevant,real,pain,ref,yes,-2.5000000670552254,7bb26df1b1880a28,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion is well-defined, has a characteristic T2 hyperintense signal, and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-066,negative,known,real,known_em,ref,yes,4.750000052154064,7bb26df1b1880a28,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The characteristic appearance of an endometrioma on T2-weighted fat-suppressed MRI is a well-defined, T2 hyperintense (bright) lesion, often with a homogeneous signal intensity, typically located in the adnexa (ovary). The lesion in the left adnexa in the provided images appears to fit this description.
+
+Final Answer: yes"
+D2-067,negative,irrelevant,real,none,ref,yes,-4.250000169500709,d7bda96de5256a2a,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of bilateral ovarian endometriomas.
+
+Reasoning:
+The slices show multiple cystic structures within the ovaries, particularly on the left side. These cysts are T2 hyperintense (bright), which is characteristic of endometriomas. The presence of these cysts, along with their typical location and signal characteristics, strongly suggests the presence of ovarian endometriomas.
+
+Final Answer: yes"
+D2-067,negative,irrelevant,real,knee,ref,no,-6.624999867752194,d7bda96de5256a2a,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-067,negative,irrelevant,real,pain,ref,no,-5.500000172294676,d7bda96de5256a2a,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. There are no distinct cystic lesions with characteristic features of an endometrioma, such as a homogeneous low signal intensity on T2-weighted images and a high signal intensity on T1-weighted images, or a ""ground glass"" appearance.
+
+Final Answer: no"
+D2-067,negative,known,real,known_em,ref,yes,3.6249998956918716,d7bda96de5256a2a,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-073,negative,irrelevant,real,none,ref,yes,-1.6250000298023224,b7da97bd89a96496,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an endometrioma. This lesion appears to be located within the left ovary and has a characteristic appearance.
+
+Final Answer: yes"
+D2-073,negative,irrelevant,real,knee,ref,yes,-3.9999997913837433,b7da97bd89a96496,"Based on the provided MRI slices, there is a cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is supported by the characteristic appearance of a cyst with low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, often with internal echoes or septations.
+
+Final Answer: yes"
+D2-073,negative,irrelevant,real,pain,ref,yes,-2.6249998956918716,b7da97bd89a96496,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a cystic structure in the right adnexa, consistent with an ovarian endometrioma. This is suggested by the characteristic appearance of a cyst with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images (though T1 is not shown here), often with internal septations or debris. The location in the right adnexa is also typical for endometriomas.
+
+Final Answer: yes"
+D2-073,negative,known,real,known_em,ref,yes,3.8750000447034836,b7da97bd89a96496,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion appears to be located in the left ovary, and its characteristics are typical for an endometrioma.
+
+Final Answer: yes"
+D2-074,cyst,irrelevant,real,none,ref,no,-5.62499981559813,623d1ac3b3196fcc,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma, which often presents as a complex cyst with low-signal intensity walls and internal echoes.
+
+Final Answer: no"
+D2-074,cyst,irrelevant,real,knee,ref,no,-6.874999882653356,623d1ac3b3196fcc,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (e.g., homogeneous low signal intensity on T1-weighted images, high signal intensity on T2-weighted images, and often associated with a capsule).
+
+Final Answer: no"
+D2-074,cyst,irrelevant,real,pain,ref,no,-5.875000121071935,623d1ac3b3196fcc,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear unremarkable.
+
+Final Answer: no"
+D2-074,cyst,known,real,known_em,ref,yes,4.500000152736902,623d1ac3b3196fcc,"Based on the provided MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a complex cystic structure with internal echoes, consistent with the typical appearance of an endometrioma.
+
+Final Answer: yes"
+D2-075,cyst,irrelevant,real,none,ref,yes,-3.8749999180436134,8f99e9b61024e08a,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is suggested by the characteristic appearance of a complex cyst with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images (though T1 is not shown here), often with internal echoes or septations.
+
+Final Answer: yes"
+D2-075,cyst,irrelevant,real,knee,ref,no,-6.499999984167516,8f99e9b61024e08a,"Based on the provided MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While some small cystic structures are present, they do not have the typical appearance of an endometrioma (which often presents as a complex cyst with low-level internal echoes).
+
+Final Answer: no"
+D2-075,cyst,irrelevant,real,pain,ref,yes,-5.125000171363354,8f99e9b61024e08a,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a large cystic structure in the left adnexa, consistent with an ovarian endometrioma. This is suggested by the characteristic appearance of a complex cyst with low signal intensity on T2-weighted images and high signal intensity on T1-weighted images (though T1 is not provided here, the T2 characteristics are suggestive). The cyst is located in the left ovary and measures approximately 5.5 x 5.0 x 5.0 cm.
+
+Final Answer: yes"
+D2-075,cyst,known,real,known_em,ref,yes,4.749999895691872,8f99e9b61024e08a,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion in the right adnexa appears as a well-defined, T2 hyperintense mass with homogeneous signal intensity, consistent with an endometrioma.
+
+Final Answer: yes"
+D2-076,cyst,irrelevant,real,none,ref,yes,1.6250000447034836,312eec593dccc62d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion demonstrates characteristic features such as a thick, enhancing wall and internal septations.
+
+Final Answer: yes"
+D2-076,cyst,irrelevant,real,knee,ref,yes,-1.3750000596046448,312eec593dccc62d,"Based on the provided MRI slices, there is a cystic lesion in the left adnexa, consistent with an ovarian endometrioma. The lesion is well-defined, has a characteristic appearance on T2-weighted images (dark signal), and is located in the expected location of the ovary.
+
+Final Answer: yes"
+D2-076,cyst,irrelevant,real,pain,ref,yes,1.7499999552965164,312eec593dccc62d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an endometrioma. This lesion demonstrates characteristic features such as a T2 hyperintense signal and a hypointense rim, which are typical findings for an endometrioma.
+
+Final Answer: yes"
+D2-076,cyst,known,real,known_em,ref,yes,5.750000147148967,312eec593dccc62d,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is a well-defined, T2 hyperintense lesion in the left adnexa, consistent with an ovarian endometrioma. This lesion is located in the expected location of the left ovary and demonstrates characteristic features of an endometrioma, including its high signal intensity on T2-weighted images and its peripheral location relative to the uterus.
+
+Final Answer: yes"
+D2-080,cyst,irrelevant,real,none,ref,no,-5.250000121071935,f4d8fa1d75d9eaf4,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic high signal intensity on T2-weighted sequences or the typical appearance of an endometrioma.
+
+Final Answer: no"
+D2-080,cyst,irrelevant,real,knee,ref,no,-7.124999986961484,f4d8fa1d75d9eaf4,"Based on the provided axial T2-weighted fat-suppressed MRI slices of the female pelvis, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly a nodular rim enhancement on T1-weighted images.
+
+Final Answer: no"
+D2-080,cyst,irrelevant,real,pain,ref,no,-6.50000021327287,f4d8fa1d75d9eaf4,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is no clear evidence of an ovarian endometrioma. The ovaries appear normal in size and morphology. While subtle findings can sometimes be missed, the current images do not show the characteristic features of an endometrioma, such as a cystic lesion with homogeneous high signal intensity on T2-weighted images and possibly a nodular rim enhancement on T1-weighted images.
+
+Final Answer: no"
+D2-080,cyst,known,real,known_em,ref,yes,3.625000022351742,f4d8fa1d75d9eaf4,"Based on the provided axial T2-weighted fat-suppressed MRI slices, there is evidence of an ovarian endometrioma. The lesion appears as a well-defined, T2 hyperintense mass in the right adnexa, consistent with the known clinical history.
+
+Final Answer: yes"

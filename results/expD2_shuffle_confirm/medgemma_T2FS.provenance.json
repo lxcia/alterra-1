@@ -1,0 +1,10 @@
+{
+  "csv": "medgemma_T2FS.csv",
+  "rows": 171,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expD2_shuffle_confirm.py"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T05:36:58-0400"
+}

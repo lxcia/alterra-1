@@ -1,0 +1,19 @@
+# Install: uv venv -p 3.11 .venv && UV_LINK_MODE=symlink uv pip install -p .venv/bin/python -r requirements.txt \
+#            --index-url https://download.pytorch.org/whl/cu126 --extra-index-url https://pypi.org/simple
+# Exact versions of the environment that produced results/ (Python 3.11; PATCH.md, P22).
+torch==2.7.1
+torchvision==0.22.1
+transformers==4.57.1
+tokenizers==0.22.2
+safetensors==0.8.0
+accelerate==1.15.0
+huggingface_hub==0.36.2
+nibabel==5.4.2
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.1.0
+matplotlib==3.11.2
+pillow==13.0.0
+pydicom==3.0.2
+idc-index==0.13.4        # downloads Google's CT example series for src/ct_repro.py
+statsmodels==0.15.0      # only for re-checking src/stats.py against a library implementation (review/)

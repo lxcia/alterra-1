@@ -1,0 +1,22 @@
+{
+  "series_instances": 183,
+  "slices_used": 85,
+  "prompt_tokens": 22535,
+  "image_tokens": 21760,
+  "max_position_embeddings": 131072,
+  "wrapper_format": "v2",
+  "wrapper_prompt_tokens": 22535,
+  "prompt_tokens_equal": true,
+  "published": "Based on the provided CT slices, this image is a good teaching example of liver pathology. There are multiple hypodense lesions scattered throughout the liver parenchyma. These lesions vary in size and appearance, suggesting a possible underlying process such as metastases, cysts, or abscesses. The presence of these lesions warrants further investigation to determine their nature and significance.\n\nFinal Answer: yes",
+  "notebook_path": "Based on the provided CT slices, this image is a good teaching example of liver pathology. There are multiple hypodense lesions scattered throughout the liver parenchyma. These lesions vary in size and appearance, suggesting a possible underlying process such as metastases, cysts, or abscesses. The presence of these lesions warrants further investigation to determine their nature and significance.\n\nFinal Answer: yes",
+  "wrapper_path": "Based on the provided CT slices, this image is a good teaching example of liver pathology. There are multiple hypodense lesions scattered throughout the liver parenchyma. These lesions vary in size and appearance, suggesting a possible underlying process such as metastases, cysts, or abscesses. The presence of these lesions warrants further investigation to determine their nature and significance.\n\nFinal Answer: yes",
+  "notebook_path_raw": "Based on the provided CT slices, this image is a good teaching example of liver pathology. There are multiple hypodense lesions scattered throughout the liver parenchyma. These lesions vary in size and appearance, suggesting a possible underlying process such as metastases, cysts, or abscesses. The presence of these lesions warrants further investigation to determine their nature and significance.\n\nFinal Answer: yes",
+  "wrapper_path_raw": "Based on the provided CT slices, this image is a good teaching example of liver pathology. There are multiple hypodense lesions scattered throughout the liver parenchyma. These lesions vary in size and appearance, suggesting a possible underlying process such as metastases, cysts, or abscesses. The presence of these lesions warrants further investigation to determine their nature and significance.\n\nFinal Answer: yes",
+  "notebook_equals_published": true,
+  "wrapper_equals_notebook": true,
+  "notebook_equals_published_unstripped": true,
+  "wrapper_equals_notebook_unstripped": true,
+  "final_answer_published": "yes",
+  "final_answer_notebook": "yes",
+  "final_answer_wrapper": "yes"
+}

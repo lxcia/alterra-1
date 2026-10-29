@@ -1,0 +1,10 @@
+{
+  "csv": "medgemma_T2FS_shard0of1.csv",
+  "rows": 429,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expE_invariance.py"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T05:58:00-0400"
+}

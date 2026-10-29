@@ -1,0 +1,12 @@
+{
+  "csv": "medgemma_P2.csv",
+  "rows": 156,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expP_positive_controls.py",
+    "--parts",
+    "P2"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T00:04:23-0400"
+}

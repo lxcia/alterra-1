@@ -1,0 +1,37 @@
+,medgemma,gemma3,medgemma27,qwen
+F1 mirror-equivariant (patients),0/68,18/68,7/67,0/12
+F1 mirror-'equivariant' among lesion-FREE (chance control),0/44,11/44,5/43,0/8
+F1 ref answers 'left',68/68,58/68,64/68,5/68
+F1 ref: answer tracks true side (orig+mirror reads),right-truth->'right' 0/22 vs left-truth->'right' 0/22 (Fisher p=1),right-truth->'right' 3/22 vs left-truth->'right' 4/22 (Fisher p=1),right-truth->'right' 1/22 vs left-truth->'right' 0/22 (Fisher p=1),right-truth->'right' 5/22 vs left-truth->'right' 3/22 (Fisher p=0.7)
+F1 open: real lesions correct,9/22,11/22,11/22,7/22
+F1 open: right-sided called right,1/11 (Fisher p=0.59),11/11 (Fisher p=1),6/11 (Fisher p=1),6/11 (Fisher p=0.15)
+F1 'right' listed first -> 'right',62/62,62/62,54/62,10/62
+F1 free text: lateral mentions 'left',46/48,50/234,152/178,
+F1 free text: side unchanged by mirror (patient x history pairs),13/15,74/102,61/70,
+"F1 free text: side tracks the truth (real lesions, reads)",true-right->'right' 1/9 vs true-left->'right' 0/11 (Fisher p=0.45; reads cluster in patients: descriptive),true-right->'right' 28/35 vs true-left->'right' 25/34 (Fisher p=0.58; reads cluster in patients: descriptive),true-right->'right' 5/25 vs true-left->'right' 4/29 (Fisher p=0.72; reads cluster in patients: descriptive),
+F2 free text: lesion reported none->known (em-),3/58 -> 20/58 (McNemar p=0.00022),57/58 -> 58/58 (McNemar p=1),27/58 -> 56/58 (McNemar p=3e-08),
+"F2 free text: same, pairs with no truncated report",3/41 -> 10/41 (McNemar p=0.065),56/57 -> 57/57 (McNemar p=1),27/58 -> 56/58 (McNemar p=3e-08),
+F2 free text: truncated reports,48/272,4/272,0/272,
+F2 'yes' with none (em-),27/58,58/58,54/58,
+F2 'yes' with knee (em-),18/58,58/58,57/58,
+F2 'yes' with pain (em-),22/58,58/58,57/58,
+F2 'yes' with known_em (em-),56/58,58/58,58/58,58/58
+F2 baseline-no flipped by knee,0/31,0/0,4/4,
+F2 baseline-yes flipped to no by knee,9/27,0/58,1/54,
+F2 baseline-no flipped by pain,0/31,0/0,4/4,
+F2 baseline-yes flipped to no by pain,5/27,0/58,1/54,
+F2 baseline-no flipped by known_em,29/31,0/0,4/4,
+F2 baseline-yes flipped to no by known_em,0/27,0/58,0/54,
+F2 known vs knee (McNemar p),3.7e-09,1,1,
+"F2 logit: knee > none (em-), mean shift","1/58, -1.17","21/58, -0.87","1/58, -1.08",
+"F2 logit: pain > none (em-), mean shift","15/58, -0.28","9/58, -1.75","52/58, +0.68",
+"F2 readouts agree, sign(logit) == generated (knee)",41/58,56/58,36/58,
+"F2 readouts agree, sign(logit) == generated (none)",32/58,58/58,42/58,
+"F2 readouts agree, sign(logit) == generated (pain)",37/58,57/58,52/58,
+F2 logit zeros_matched: mean none vs known (distinct inputs),-6.57 vs +5.95 (n=11),-2.34 vs +10.26 (n=11),-4.19 vs -3.04 (n=6),
+F2 logit pelvis_blanked: mean none vs known (distinct inputs),-6.64 vs +3.25 (n=30),+10.95 vs +13.28 (n=29),-3.96 vs -2.47 (n=15),
+F2 zeros_matched: 'yes' none vs known (distinct inputs),0/11 vs 11/11,11/11 vs 11/11,0/6 vs 0/6,
+F2 pelvis_blanked: 'yes' none vs known (distinct inputs),1/30 vs 19/30,29/29 vs 29/29,12/15 vs 15/15,
+"F2 logit: known_em > none (em-), mean shift",,"55/58, +2.71","2/58, -4.57",
+F2 logit: known > both irrelevant (em-),,57/58,1/58,
+"F2 readouts agree, sign(logit) == generated (known_em)",,58/58,6/58,

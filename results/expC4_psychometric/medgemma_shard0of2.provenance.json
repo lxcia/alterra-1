@@ -1,0 +1,14 @@
+{
+  "csv": "medgemma_shard0of2.csv",
+  "rows": 900,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expC4_psychometric.py",
+    "--shard",
+    "0",
+    "--nshards",
+    "2"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T04:05:14-0400"
+}

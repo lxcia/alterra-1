@@ -1,0 +1,4 @@
+experiments/expC3_side_prompt.py --model gemma3 --variants ref,order_rl,open
+experiments/expB4_history_controls.py --model gemma3 --parts irrelevant,known
+experiments/expC3_side_prompt.py --model qwen --variants ref,order_rl,open
+experiments/expB4_history_controls.py --model qwen --parts irrelevant,known

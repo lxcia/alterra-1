@@ -1,0 +1,10 @@
+{
+  "csv": "medgemma.csv",
+  "rows": 228,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expX_cxr_laterality.py"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T00:18:21-0400"
+}

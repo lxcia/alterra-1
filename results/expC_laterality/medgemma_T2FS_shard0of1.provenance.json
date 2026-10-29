@@ -1,0 +1,15 @@
+{
+  "csv": "medgemma_T2FS_shard0of1.csv",
+  "rows": 136,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expC_laterality.py",
+    "--geoms",
+    "orig,lr",
+    "--conventions",
+    "none",
+    "--generate"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T01:54:34-0400"
+}

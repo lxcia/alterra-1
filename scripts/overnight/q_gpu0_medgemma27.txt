@@ -1,0 +1,2 @@
+experiments/expC3_side_prompt.py --model medgemma27 --variants ref,order_rl,open
+experiments/expB4_history_controls.py --model medgemma27 --parts irrelevant,known

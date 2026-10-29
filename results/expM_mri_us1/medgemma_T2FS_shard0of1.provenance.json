@@ -1,0 +1,10 @@
+{
+  "csv": "medgemma_T2FS_shard0of1.csv",
+  "rows": 4760,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expM_mri_us1.py"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T06:48:14-0400"
+}

@@ -10,3 +10,5 @@ hf_home/
 *.safetensors
 .env
 writeup/radiologist_packet/*key*
+.venv/
+results/logs/

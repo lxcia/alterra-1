@@ -1,0 +1,14 @@
+{
+  "csv": "medgemma27_T2FS_shard0of1.csv",
+  "rows": 186,
+  "src_sha1": "948a42d74526",
+  "argv": [
+    "src/experiments/expC3_side_prompt.py",
+    "--model",
+    "medgemma27",
+    "--variants",
+    "ref,order_rl,open"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T02:18:53-0400"
+}

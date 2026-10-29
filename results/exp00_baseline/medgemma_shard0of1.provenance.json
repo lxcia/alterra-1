@@ -1,0 +1,10 @@
+{
+  "csv": "medgemma_shard0of1.csv",
+  "rows": 128,
+  "src_sha1": "df52108c20c2",
+  "argv": [
+    "src/experiments/exp00_baseline.py"
+  ],
+  "prompt_format": "v2",
+  "written": "2026-10-27T06:49:37-0400"
+}
